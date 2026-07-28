@@ -1521,8 +1521,24 @@ async function fetchJsonFile(filename) {
       if (navHistory.length > 1) {
         navHistory.pop();
         renderScreen(navHistory[navHistory.length - 1]);
+        history.back();
       }
     }
+    // 1. Set the initial state when the page first loads
+      window.addEventListener("DOMContentLoaded", () => {
+        history.replaceState({ view: "home" }, "", "#home");
+      });
+
+      // 2. Intercept when the user swipes back or clicks the back button
+      window.addEventListener("popstate", (event) => {
+        if (event.state && event.state.view) {
+          // If going back to a specific saved view/category
+          showSpecificView(event.state.view); // Replace with your function that loads that view
+        } else {
+          // If back at the root/home page
+          showHomeView(); // Replace with your function that shows the main home category grid
+        }
+      });
 
     function navigateTo(screenState) {
       navHistory.push(screenState);
