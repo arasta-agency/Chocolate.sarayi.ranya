@@ -978,7 +978,7 @@
 
   <!-- Fixed Background Video and Lightened Overlay -->
   <div class="bg-video-container" id="bg-video-container">
-    <video class="bg-video" autoplay muted loop playsinline webkit-playsinline poster="logo1.png">
+    <video class="bg-video" autoplay muted loop playsinline webkit-playsinline poster="Logo1.png">
       <source src="https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/516339522.mp4" type="video/mp4" />
     </video>
   </div>
@@ -1525,21 +1525,41 @@ async function fetchJsonFile(filename) {
       }
     }
     // 1. Set the initial state when the page first loads
-      window.addEventListener("DOMContentLoaded", () => {
-        history.replaceState({ view: "home" }, "", "#home");
-      });
+// 1. Initialize home state when the page loads
+window.addEventListener("DOMContentLoaded", () => {
+  history.replaceState({ view: "home" }, "", "#home");
+});
 
-      // 2. Intercept when the user swipes back or clicks the back button
-      window.addEventListener("popstate", (event) => {
-        if (event.state && event.state.view) {
-          // If going back to a specific saved view/category
-          showSpecificView(event.state.view); // Replace with your function that loads that view
-        } else {
-          // If back at the root/home page
-          showHomeView(); // Replace with your function that shows the main home category grid
-        }
-      });
+// 2. Call this function WHEN THE USER CLICKS A CATEGORY CARD
+function openCategory(categoryName) {
+  // Push a new history state so the back button/swipe has something to return to
+  history.pushState({ view: categoryName }, "", "#" + categoryName);
+  
+  // RUN YOUR EXISTING FUNCTION THAT SHOWS THE CATEGORY ITEMS HERE
+  // e.g., renderCategoryContent(categoryName);
+}
 
+// 3. Call this function WHEN THE USER CLICKS YOUR BACK BUTTON
+function handleBack() {
+  // Tells the browser to go back one step in history
+  history.back();
+}
+
+// 4. Listen for browser back button or mobile swipe gestures
+window.addEventListener("popstate", (event) => {
+  if (event.state && event.state.view) {
+    if (event.state.view === "home") {
+      // Show your main category grid
+      showHomeView(); // Replace with whatever function displays your main home page
+    } else {
+      // Show the specific category the user went back to
+      renderCategoryContent(event.state.view); // Replace with your rendering function
+    }
+  } else {
+    // Fallback if state is empty
+    showHomeView();
+  }
+});
     function navigateTo(screenState) {
       navHistory.push(screenState);
       renderScreen(screenState);
