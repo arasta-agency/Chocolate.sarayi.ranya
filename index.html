@@ -1295,6 +1295,45 @@
       window.open(url, '_blank');
       closeFeedbackModal();
     }
+    function switchView(viewName, pushToHistory = true) {
+  // 1. Push to history only if the user clicked something (not when clicking back)
+  if (pushToHistory) {
+    history.pushState({ view: viewName }, "", "#" + viewName);
+  }
+
+  // 2. YOUR APP'S ACTUAL VIEW SWITCHING LOGIC:
+  if (viewName === "home") {
+    // Hide category page / Show main grid
+    document.getElementById("home-view").style.display = "block";
+    document.getElementById("category-view").style.display = "none";
+  } else {
+    // Hide main grid / Show category page and load items for `viewName`
+    document.getElementById("home-view").style.display = "none";
+    document.getElementById("category-view").style.display = "block";
+    
+    // Call whatever function you use to load the items for this category:
+    // loadCategoryData(viewName); 
+  }
+
+}
+// Initialize state on page load
+window.addEventListener("DOMContentLoaded", () => {
+  history.replaceState({ view: "home" }, "", "#home");
+});
+
+// When user clicks your custom back button
+function handleBack() {
+  history.back(); // Triggers the browser's back action
+}
+
+// Listen for Android swipe left/right or physical back button
+window.addEventListener("popstate", (event) => {
+  const targetView = event.state && event.state.view ? event.state.view : "home";
+  // Switch view WITHOUT pushing a new state (pushToHistory = false)
+  switchView(targetView, false);
+});
+// Example when clicking the Sweets card:
+switchView("sweets", true);
 
     function addToCart(item) {
       const key = getItemUniqueKey(item);
