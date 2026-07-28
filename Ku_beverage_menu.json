@@ -1,0 +1,3311 @@
+{
+  "status": 200,
+  "result": {
+    "discount": 0,
+    "banners": [],
+    "language": "ku",
+    "categories": [
+      {
+        "_id": "6908ce31542dd170ee1327fd",
+        "name": "لاتێ",
+        "position": 1,
+        "icon": "default",
+        "menuType": "cafe",
+        "customImage": "LTS.png",
+        "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/LTS.png",
+        "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/LTS.png",
+        "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/ANTU1/b28v359vLx8gDd3eJdSEN1Y1v+//8A6+zsFQAEOCgp7vDwANXV1q6oqrawsczMz6PZIgMGq7K1AAAAAElFTkSuQmCC",
+        "items": [
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c057f9",
+            "name": "سپیکولوس لاتیە",
+            "dName": "Spiculose Latte",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/416177737.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/416177737.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c057fa",
+            "name": "کافێ لاتیە",
+            "dName": "Latte Café",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/413829843.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/413829843.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c057fb",
+            "name": "کەڕامێل مۆکا",
+            "dName": "Caramel Mocha",
+            "description": "",
+            "price": 5500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [],
+            "minPrice": 5500,
+            "maxPrice": 5500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c057fc",
+            "name": "کەڕامێل لاتیە",
+            "dName": "Caramel latte",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/888039086.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/888039086.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c057fd",
+            "name": "لاتیە مکیاتۆ",
+            "dName": "Latte macchiato",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/880275712.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/880275712.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          }
+        ]
+      },
+      {
+        "_id": "6908ce31542dd170ee1327ff",
+        "name": "خواردنەوە گەرمەکان",
+        "position": 2,
+        "icon": 1008,
+        "menuType": "cafe",
+        "customImage": "HOT.png",
+        "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/HOT.png",
+        "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/HOT.png",
+        "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/AKuhmpCBd1hJQCoDAADn6OOboJf/+/XUso4AAg8AXV9T59PDxMXBAAAOAEFPRVZfVjQ1LoFpFnCTmFy2AAAAAElFTkSuQmCC",
+        "items": [
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c057ff",
+            "name": "قاوەی تورکی",
+            "dName": "Turkish Coffee",
+            "description": "",
+            "price": 2000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/78072846.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/78072846.jpeg"
+              }
+            ],
+            "minPrice": 2000,
+            "maxPrice": 2000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c05800",
+            "name": "شای بالنعناع",
+            "dName": "Mint Tea",
+            "description": "",
+            "price": 1000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/522972213.jpeg",
+                "height": 320,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/522972213.jpeg"
+              }
+            ],
+            "minPrice": 1000,
+            "maxPrice": 1000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c05801",
+            "name": "ئێسپرێسسۆ ماکیاتۆ",
+            "dName": "Espresso Macchiato",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c05802",
+            "name": "کاپاچینۆ",
+            "dName": "cappuccino",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/753624198.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/753624198.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c05803",
+            "name": "کوپ چای",
+            "dName": "Tea",
+            "description": "",
+            "price": 1000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/657971267.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/657971267.jpeg"
+              }
+            ],
+            "minPrice": 1000,
+            "maxPrice": 1000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c05804",
+            "name": "فنجان چای",
+            "dName": "Teacup",
+            "description": "",
+            "price": 1500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [],
+            "minPrice": 1500,
+            "maxPrice": 1500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c05805",
+            "name": "ئەمریکانۆ",
+            "dName": "Americano",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/474434967.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/474434967.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c05806",
+            "name": "نسکافێ",
+            "dName": "Nescafé",
+            "description": "",
+            "price": 3500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/762878471.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/762878471.jpeg"
+              }
+            ],
+            "minPrice": 3500,
+            "maxPrice": 3500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c05807",
+            "name": "قاوەی قەزوان",
+            "dName": "Qazoan coffee",
+            "description": "",
+            "price": 3000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/659239989.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/659239989.jpeg"
+              }
+            ],
+            "minPrice": 3000,
+            "maxPrice": 3000
+          }
+        ]
+      },
+      {
+        "_id": "6908ce32542dd170ee132800",
+        "name": "چوکلاتەی گەرم",
+        "position": 3,
+        "icon": "default",
+        "menuType": "cafe",
+        "customImage": "HTC.png",
+        "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/HTC.png",
+        "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/HTC.png",
+        "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/AB0FAIpkVLOAZbqGagCceWn/7tTctpHKnIAAZF9O/+nM1qqQX0Y7ABgAAF9GO4NfUjYiG29YFkNzSN2VAAAAAElFTkSuQmCC",
+        "items": [
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c05809",
+            "name": "هۆت چوکلێتی شیرین",
+            "dName": "Hot Chocolate Sweet",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/259984264.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/259984264.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c0580a",
+            "name": "هۆت چوکلێتی گەرم",
+            "dName": "Hot Chocolate White",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/754391144.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/754391144.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c0580b",
+            "name": "هۆت چوکلێتی ڕەش",
+            "dName": "Hot Chocolate Dark",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/366670431.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/366670431.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c0580c",
+            "name": "کافێ مۆکای شیرین",
+            "dName": "Sweet Café Mocha",
+            "description": "",
+            "price": 5000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/390799644.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/390799644.jpeg"
+              }
+            ],
+            "minPrice": 5000,
+            "maxPrice": 5000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c0580d",
+            "name": "هۆت چوکلێتی بندق",
+            "dName": "Hot Chocolate Hazelnut",
+            "description": "",
+            "price": 6500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/399287193.jpeg",
+                "height": 683,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/399287193.jpeg"
+              }
+            ],
+            "minPrice": 6500,
+            "maxPrice": 6500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c0580e",
+            "name": "کافێ مۆکای ڕەش",
+            "dName": "Café Mocha Dark",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/296349411.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/296349411.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c0580f",
+            "name": "میکس هۆت چوکلێت",
+            "dName": "Mix Hot Chocolate",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/415654938.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/415654938.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c05810",
+            "name": "كافی موكا وایت",
+            "dName": "Café Mocha White",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/631148598.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/631148598.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          }
+        ]
+      },
+      {
+        "_id": "6908ce33542dd170ee132801",
+        "name": "ئیسپریسۆ",
+        "position": 4,
+        "icon": "default",
+        "menuType": "cafe",
+        "customImage": "ESS.png",
+        "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/ESS.png",
+        "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/ESS.png",
+        "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/APLz9Pn075dsOYBTGgD///9IRUIjEwB+TRIA7e3tNjIsHQAAXzEAANfY2rayr0IdAEEWAKT6Fhw+80wsAAAAAElFTkSuQmCC",
+        "items": [
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c05812",
+            "name": "ئێسپرێسسۆ دەبل",
+            "dName": "Double Espresso",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/881834158.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/881834158.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c05813",
+            "name": "ئێسپرێسسۆ ڕیستریتۆ",
+            "dName": "Espresso Ristretto",
+            "description": "",
+            "price": 3000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [],
+            "minPrice": 3000,
+            "maxPrice": 3000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c05814",
+            "name": "ئێسپرێسسۆ سینگڵ",
+            "dName": "Single espresso",
+            "description": "",
+            "price": 2500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/564541460.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/564541460.jpeg"
+              }
+            ],
+            "minPrice": 2500,
+            "maxPrice": 2500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c05815",
+            "name": "ئێسپرێسسۆ ماکیاتۆ",
+            "dName": "Espresso Macchiato",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c05816",
+            "name": "نسکافێ",
+            "dName": "Nescafe",
+            "description": "",
+            "price": 3750,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/18797896.jpeg",
+                "height": 480,
+                "width": 360,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/18797896.jpeg"
+              }
+            ],
+            "minPrice": 3750,
+            "maxPrice": 3750
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c05817",
+            "name": "فلات وایت",
+            "dName": "Flat white",
+            "description": "",
+            "price": 3500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [],
+            "minPrice": 3500,
+            "maxPrice": 3500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebad5784a03b5c05818",
+            "name": "کافێ ئەمریکانۆ",
+            "dName": "Americano Café",
+            "description": "",
+            "price": 3500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [],
+            "minPrice": 3500,
+            "maxPrice": 3500
+          }
+        ]
+      },
+      {
+        "_id": "6908ce34542dd170ee132802",
+        "name": "قاوەی سارد",
+        "position": 5,
+        "icon": "default",
+        "menuType": "cafe",
+        "customImage": "CDC.png",
+        "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/CDC.png",
+        "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/CDC.png",
+        "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/AK2Hgq2HgquFga2FgADis6L/5M7/9svQnIUA5bKV8cWc/9mntohwAKNjOFwzFhcAABYAADF/GyQeQFEhAAAAAElFTkSuQmCC",
+        "items": [
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c0581a",
+            "name": "قاوەی سارد",
+            "dName": "Ice Coffe",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c0581b",
+            "name": "قاوەی ساردی لاتیە",
+            "dName": "Ice Cafe Latte",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/887058571.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/887058571.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c0581c",
+            "name": "قاوەی امریكانو سارد",
+            "dName": "Americano Ice Coffe",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/850965346.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/850965346.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c0581d",
+            "name": "کەڕامێلی ساردی لاتیە",
+            "dName": "Ice caramel latte",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/900502372.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/900502372.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c0581e",
+            "name": "کاپۆچینۆی سارد",
+            "dName": "Ice Cappuccino",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/560405048.jpeg",
+                "height": 320,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/560405048.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c0581f",
+            "name": "قاوەی ساردی ئەمریکانۆ",
+            "dName": "Ice Cafe Americano",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c05820",
+            "name": "چوکلێتی موكا سارد",
+            "dName": "Mocha Ice Chocolate",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/954606003.jpeg",
+                "height": 320,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/954606003.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c05821",
+            "name": "مۆکا بە شکولاتەی سپی سارد",
+            "dName": "Mocha Ice White Chocolate",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/582058503.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/582058503.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c05822",
+            "name": "کاپۆچینۆی سارد",
+            "dName": "Ice cappuccino",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/853913559.jpeg",
+                "height": 320,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/853913559.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c05823",
+            "name": "شکولاتەی لاتیەی سارد",
+            "dName": "Ice chocolate latte",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c05824",
+            "name": "لاتیەی سارد بە گوێزی هیندی و کەڕامێل",
+            "dName": "Ice latte with coconut and caramel",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/735174559.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/735174559.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c05825",
+            "name": "سپیکۆلۆس لاتیەی سارد",
+            "dName": "Ice speculoos latte",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/217033890.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/217033890.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c05826",
+            "name": "چوکلێت مۆکای سارد",
+            "dName": "Ice Chocolate Mocha",
+            "description": "",
+            "price": 5000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [],
+            "minPrice": 5000,
+            "maxPrice": 5000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c05827",
+            "name": "مۆکای ساردی سپی",
+            "dName": "Ice white mocha",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/632857075.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/632857075.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          }
+        ]
+      },
+      {
+        "_id": "6908ce35542dd170ee132803",
+        "name": "فراپێ",
+        "position": 6,
+        "icon": "default",
+        "menuType": "cafe",
+        "customImage": "AFRA.png",
+        "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/AFRA.png",
+        "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/AFRA.png",
+        "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/AElBLL65rt3TyMvAtABgV0z/99//9+PCt60A0s22zKZzVj8k2s7CAFhVTZNzRyUAADYvKxWTGsM31PkNAAAAAElFTkSuQmCC",
+        "items": [
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c05829",
+            "name": "وایت مۆکا فڕاپێ",
+            "dName": "White Mocha Frappe",
+            "description": "",
+            "price": 4750,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/623566946.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/623566946.jpeg"
+              }
+            ],
+            "minPrice": 4750,
+            "maxPrice": 4750
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c0582a",
+            "name": "مۆکا فراپێ",
+            "dName": "Mocha Frappe",
+            "description": "",
+            "price": 4750,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/948496978.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/948496978.jpeg"
+              }
+            ],
+            "minPrice": 4750,
+            "maxPrice": 4750
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c0582b",
+            "name": "فراپێی مۆکای سپی",
+            "dName": "White Mocha Frappe",
+            "description": "",
+            "price": 4750,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [],
+            "minPrice": 4750,
+            "maxPrice": 4750
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c0582c",
+            "name": "فڕاپێ بە کەڕامێل",
+            "dName": "Frappe Carmeel",
+            "description": "",
+            "price": 5000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/949395105.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/949395105.jpeg"
+              }
+            ],
+            "minPrice": 5000,
+            "maxPrice": 5000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c0582d",
+            "name": "کەڕامێل فراپێ",
+            "dName": "Caramel frappe",
+            "description": "",
+            "price": 6500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [],
+            "minPrice": 6500,
+            "maxPrice": 6500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c0582e",
+            "name": "ئۆریۆ فراپێ",
+            "dName": "Oreo Frappe",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/604657097.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/604657097.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c0582f",
+            "name": "کوکیز فراپێ",
+            "dName": "Cookies Frappe",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/229756642.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/229756642.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c05830",
+            "name": "فراپێی تووی ڕەش",
+            "dName": "Blackberry frappe",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/279137034.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/279137034.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c05831",
+            "name": "فراپێی تووی سوور",
+            "dName": "Red Berry Frappe",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/72780502.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/72780502.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          }
+        ]
+      },
+      {
+        "_id": "6908ce36542dd170ee132804",
+        "name": "میلک شیک",
+        "position": 7,
+        "icon": "default",
+        "menuType": "cafe",
+        "customImage": "MLS.png",
+        "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/MLS.png",
+        "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/MLS.png",
+        "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/AO7l3f7z7Ozi2+zi3QDu5d19bGZTPzrs4twA9+3nGAQAcV9d//bvAP/274R2ccS2svrv6qWiIp0zpjKrAAAAAElFTkSuQmCC",
+        "items": [
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c05833",
+            "name": "شوكولا",
+            "dName": "Chocolate Milkshake",
+            "description": "",
+            "price": 5000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/355245799.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/355245799.jpeg"
+              }
+            ],
+            "minPrice": 5000,
+            "maxPrice": 5000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c05834",
+            "name": "ڤانێلا",
+            "dName": "Vanella Milkshake",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/209064217.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/209064217.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebbd5784a03b5c05835",
+            "name": "شلیك",
+            "dName": "Strawberry Milkshake",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/173582802.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/173582802.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05836",
+            "name": "مۆز",
+            "dName": "Banana Milkshake",
+            "description": "",
+            "price": 4250,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/325238105.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/325238105.jpeg"
+              }
+            ],
+            "minPrice": 4250,
+            "maxPrice": 4250
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05837",
+            "name": "کوکیز",
+            "dName": "Cookies Milkshake",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/439451819.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/439451819.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05838",
+            "name": "ئۆریۆ",
+            "dName": "Oreo Milkshake",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/491188908.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/491188908.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05839",
+            "name": "تووی سوور",
+            "dName": "Redberry Milkshake",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/483925583.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/483925583.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c0583a",
+            "name": "دەڕاق بە ئەناناس",
+            "dName": "Peach with pineapple Milkshake",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/710397907.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/710397907.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c0583b",
+            "name": "ئەناناس میڵك شەیك",
+            "dName": "pinapple milkshake Milkshake",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/373552292.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/373552292.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c0583c",
+            "name": "میڵك شەیك کیندەر",
+            "dName": "Milkshike Kinder",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/457714750.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/457714750.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c0583d",
+            "name": "میڵك شەیك ماڵتیسزرس",
+            "dName": "Milkshike Maltisers",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/678524919.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/678524919.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c0583e",
+            "name": "کەڕامێل و گوێزی هیندی",
+            "dName": "Caramel And Coconut Milkshake",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/886901812.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/886901812.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c0583f",
+            "name": "میڵك شەیك قاوە",
+            "dName": "Milkshike coffee",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/472989836.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/472989836.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05840",
+            "name": "فستق",
+            "dName": "Pistachio Milkshake",
+            "description": "",
+            "price": 5000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/258117236.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/258117236.jpeg"
+              }
+            ],
+            "minPrice": 5000,
+            "maxPrice": 5000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05841",
+            "name": "میڵك شەیك کەڕامێل",
+            "dName": "Milkshike cramel",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/99042809.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/99042809.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05842",
+            "name": "لۆتەس",
+            "dName": "Lotus Milkshake",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/620817335.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/620817335.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05843",
+            "name": "میڵك شەیك کیت کات",
+            "dName": "Milkshike kit kat",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/273028797.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/273028797.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05844",
+            "name": "ئەناناس و گوێز هیندی",
+            "dName": "pineapple and coconut Milkshake",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/516620998.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/516620998.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05845",
+            "name": "بڕاونی",
+            "dName": "Brownie Milkshake",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/163489617.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/163489617.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05846",
+            "name": "دەڕاق",
+            "dName": "peaches Milkshake",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/488399021.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/488399021.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05847",
+            "name": "سنیکەرز",
+            "dName": "Snickers Milkshake",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/821073941.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/821073941.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          }
+        ]
+      },
+      {
+        "_id": "6908ce39542dd170ee132805",
+        "name": "سمووزی",
+        "position": 8,
+        "icon": "default",
+        "menuType": "cafe",
+        "customImage": "SMO.png",
+        "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/SMO.png",
+        "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/SMO.png",
+        "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/APv7+/Dz8fT49/Dx8QD87vFxEzFzHTTVwsQA2MrNTAAASAAAp4GFALy0tnBHTXVETG1GTG3gHAg3mEodAAAAAElFTkSuQmCC",
+        "items": [
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05849",
+            "name": "شلیك",
+            "dName": "Strawberry Smoothie",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/683078101.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/683078101.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c0584a",
+            "name": "مۆز",
+            "dName": "Banana Smoothie",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/414571755.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/414571755.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c0584b",
+            "name": "دەڕاق",
+            "dName": "Peach Smoothie",
+            "description": "",
+            "price": 4250,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/711116047.jpeg",
+                "height": 683,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/711116047.jpeg"
+              }
+            ],
+            "minPrice": 4250,
+            "maxPrice": 4250
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c0584c",
+            "name": "ڕێد بێری",
+            "dName": "Redberry Smoothie",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/702884952.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/702884952.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c0584d",
+            "name": "ئەناناس",
+            "dName": "Pineapple Smoothie",
+            "description": "",
+            "price": 4250,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/246015103.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/246015103.jpeg"
+              }
+            ],
+            "minPrice": 4250,
+            "maxPrice": 4250
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c0584e",
+            "name": "بلاك بێری",
+            "dName": "Black Berry Smoothie",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/855404930.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/855404930.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c0584f",
+            "name": "ئەناناس بە بڕاونی",
+            "dName": "Pineapple with brownie Smoothie",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/220672404.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/220672404.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05850",
+            "name": "فواكه حمراء",
+            "dName": "Red Fruit Smoothie",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/222799245.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/222799245.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05851",
+            "name": "میوەی ئیستیوایی",
+            "dName": "Tropical Smoothie",
+            "description": "",
+            "price": 4250,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/890278099.jpeg",
+                "height": 683,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/890278099.jpeg"
+              }
+            ],
+            "minPrice": 4250,
+            "maxPrice": 4250
+          }
+        ]
+      },
+      {
+        "_id": "6908ce3a542dd170ee132806",
+        "name": "فرۆزین",
+        "position": 9,
+        "icon": "default",
+        "menuType": "cafe",
+        "customImage": "FRO.png",
+        "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/FRO.png",
+        "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/FRO.png",
+        "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAPUlEQVR4nGNgYGDQVlEpjvcWERRgqMwMfjYh5f/dVa7ONgxBhjL/tyT8f9HgYGvLUJTgc2N1xdfd9Ynh/gC7dBRBmG5DlAAAAABJRU5ErkJggg==",
+        "items": [
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05853",
+            "name": "فرۆزن ئەناناس",
+            "dName": "Frozen pineapple",
+            "description": "",
+            "price": 5000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/17822148.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/17822148.jpeg"
+              }
+            ],
+            "minPrice": 5000,
+            "maxPrice": 5000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05854",
+            "name": "فرۆزن مۆز",
+            "dName": "Frozen Banana",
+            "description": "",
+            "price": 5000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/594110609.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/594110609.jpeg"
+              }
+            ],
+            "minPrice": 5000,
+            "maxPrice": 5000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05855",
+            "name": "فرۆزن شلیك",
+            "dName": "Frozen strawberry",
+            "description": "",
+            "price": 5000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/360359863.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/360359863.jpeg"
+              }
+            ],
+            "minPrice": 5000,
+            "maxPrice": 5000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05856",
+            "name": "فرۆزن تووی سوور",
+            "dName": "Frozen Red Berry",
+            "description": "",
+            "price": 5000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/326932421.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/326932421.jpeg"
+              }
+            ],
+            "minPrice": 5000,
+            "maxPrice": 5000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05857",
+            "name": "فرۆزن تووی ڕەش",
+            "dName": "Frozen Blackberry",
+            "description": "",
+            "price": 5000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643911303.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643911303.jpeg"
+              }
+            ],
+            "minPrice": 5000,
+            "maxPrice": 5000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05858",
+            "name": "فرۆزنی دەڕاق",
+            "dName": "Frozen Peach",
+            "description": "",
+            "price": 5000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/19894566.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/19894566.jpeg"
+              }
+            ],
+            "minPrice": 5000,
+            "maxPrice": 5000
+          }
+        ]
+      },
+      {
+        "_id": "6908ce3b542dd170ee132807",
+        "name": "شەربەتەکان",
+        "position": 10,
+        "icon": "default",
+        "menuType": "cafe",
+        "customImage": "JCS.png",
+        "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/JCS.png",
+        "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/JCS.png",
+        "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/ANHr7J+eYoCBR6LBvwDF6u5OMwAtAACtw68A3vr+gHQkRRUAXi4AAODu7MPOwJSUc2JcNbmEGYkYL5CrAAAAAElFTkSuQmCC",
+        "items": [
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c0585a",
+            "name": "شەربەتی پرتەقاڵ",
+            "dName": "Orange juice",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/365397507.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/365397507.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c0585b",
+            "name": "شەربەتی لیمۆ",
+            "dName": "Lemon juice",
+            "description": "",
+            "price": 3750,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/497281680.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/497281680.jpeg"
+              }
+            ],
+            "minPrice": 3750,
+            "maxPrice": 3750
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c0585c",
+            "name": "شەربەتی پرتەقاڵ و شلیك",
+            "dName": "Orange and Strawberry Juice",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/921079133.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/921079133.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c0585d",
+            "name": "شەربەتی لیمۆ بە نەعناع",
+            "dName": "Lemon And Mint Juice",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/296654870.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/296654870.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c0585e",
+            "name": "شەربەتی لیمۆ و شلیك",
+            "dName": "Lemon and Strawberry Juice",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/962501967.jpeg",
+                "height": 320,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/962501967.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c0585f",
+            "name": "شەربەتی لیمۆ و پرتەقاڵ",
+            "dName": "Orange and Lemon Juice",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/525731380.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/525731380.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05860",
+            "name": "شەربەتی شلیك",
+            "dName": "Frez Juice",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/231069415.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/231069415.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05861",
+            "name": "شەربەتی مۆز",
+            "dName": "Banana juice",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/192520228.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/192520228.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05862",
+            "name": "شەربەتی میوەی هەمەجۆر",
+            "dName": "Mix Fruit juice",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/253095571.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/253095571.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05863",
+            "name": "شەربەتی شیر و مۆز",
+            "dName": "Banana With Milk juice",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/601899946.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/601899946.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05864",
+            "name": "شەربەتی ئەناناس",
+            "dName": "pineapple juice",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/521564606.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/521564606.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          }
+        ]
+      },
+      {
+        "_id": "6908ce3c542dd170ee132808",
+        "name": "خواردنەوە گازیەکان",
+        "position": 11,
+        "icon": "default",
+        "menuType": "cafe",
+        "customImage": "SFT.png",
+        "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/SFT.png",
+        "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/SFT.png",
+        "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/ANHZxefs4vv9+/v7+wBkiUyLcjC0eFXu8/IAqsKjZkgxKwAAxMvBAOnu566mlIV4Y+rr5GtDH+uxuUbfAAAAAElFTkSuQmCC",
+        "items": [
+          {
+            "isNew": false,
+            "_id": "6908cec0d5784a03b5c05866",
+            "name": "ڕێد بوڵی مەکسیکی",
+            "dName": "Mexican Redbull",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/990472606.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/990472606.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cec4d5784a03b5c05867",
+            "name": "ڕێد بول",
+            "dName": "Red Bull",
+            "description": "",
+            "price": 2500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/846777183.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/846777183.jpeg"
+              }
+            ],
+            "minPrice": 2500,
+            "maxPrice": 2500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cec5d5784a03b5c05868",
+            "name": "بیپسی",
+            "dName": "Pepsi",
+            "description": "",
+            "price": 750,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/113783590.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/113783590.jpeg"
+              }
+            ],
+            "minPrice": 750,
+            "maxPrice": 750
+          },
+          {
+            "isNew": false,
+            "_id": "6908cec7d5784a03b5c05869",
+            "name": "سفن اب",
+            "dName": "7up",
+            "description": "",
+            "price": 750,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/59637159.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/59637159.jpeg"
+              }
+            ],
+            "minPrice": 750,
+            "maxPrice": 750
+          },
+          {
+            "isNew": false,
+            "_id": "6908cecad5784a03b5c0586a",
+            "name": "میرندا",
+            "dName": "Mernda",
+            "description": "",
+            "price": 750,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/905508519.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/905508519.jpeg"
+              }
+            ],
+            "minPrice": 750,
+            "maxPrice": 750
+          },
+          {
+            "isNew": false,
+            "_id": "6908cecbd5784a03b5c0586b",
+            "name": "سۆدەی سادە",
+            "dName": "Soda",
+            "description": "",
+            "price": 750,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/163573040.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/163573040.jpeg"
+              }
+            ],
+            "minPrice": 750,
+            "maxPrice": 750
+          },
+          {
+            "isNew": false,
+            "_id": "6908cecbd5784a03b5c0586c",
+            "name": "سۆدەی لیمۆ",
+            "dName": "Lemon soda",
+            "description": "",
+            "price": 1000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/761814336.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/761814336.jpeg"
+              }
+            ],
+            "minPrice": 1000,
+            "maxPrice": 1000
+          },
+          {
+            "isNew": false,
+            "_id": "6908ced3d5784a03b5c0586d",
+            "name": "ئاو",
+            "dName": "Water",
+            "description": "",
+            "price": 1000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/890980274.jpeg",
+                "height": 1024,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/890980274.jpeg"
+              }
+            ],
+            "minPrice": 1000,
+            "maxPrice": 1000
+          }
+        ]
+      },
+      {
+        "_id": "6908ce3d542dd170ee132809",
+        "name": "چای سارد",
+        "position": 12,
+        "icon": "default",
+        "menuType": "cafe",
+        "customImage": "ITEA.png",
+        "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/ITEA.png",
+        "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/ITEA.png",
+        "items": [
+          {
+            "isNew": false,
+            "_id": "6908cedcd5784a03b5c0586f",
+            "name": "چای ساردی لیمۆ",
+            "dName": "Ice Lemon",
+            "description": "",
+            "price": 3000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/700527820.jpeg",
+                "height": 640,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/700527820.jpeg"
+              }
+            ],
+            "minPrice": 3000,
+            "maxPrice": 3000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cedcd5784a03b5c05870",
+            "name": "چای ساردی شلیك",
+            "dName": "Ice Tea Strawberry",
+            "description": "",
+            "price": 3000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/503961426.jpeg",
+                "height": 683,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/503961426.jpeg"
+              }
+            ],
+            "minPrice": 3000,
+            "maxPrice": 3000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cedcd5784a03b5c05871",
+            "name": "چای ساردی دەڕاق",
+            "dName": "Ice Tea Peach",
+            "description": "",
+            "price": 3500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/432414661.jpeg",
+                "height": 683,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/432414661.jpeg"
+              }
+            ],
+            "minPrice": 3500,
+            "maxPrice": 3500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cedcd5784a03b5c05872",
+            "name": "چای ساردی لیمۆ و نەعناع",
+            "dName": "Lemon and Mint Ice Tea",
+            "description": "",
+            "price": 3000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/311845756.jpeg",
+                "height": 683,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/311845756.jpeg"
+              }
+            ],
+            "minPrice": 3000,
+            "maxPrice": 3000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cedcd5784a03b5c05873",
+            "name": "چای ساردی ڕاسبێری",
+            "dName": "Ice Tea Raspberry",
+            "description": "",
+            "price": 3500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/959922436.jpeg",
+                "height": 683,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/959922436.jpeg"
+              }
+            ],
+            "minPrice": 3500,
+            "maxPrice": 3500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cedcd5784a03b5c05874",
+            "name": "چای ساردی تووی ڕەش",
+            "dName": "Ice Tea Blackberry",
+            "description": "",
+            "price": 3500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/10155303.jpeg",
+                "height": 683,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/10155303.jpeg"
+              }
+            ],
+            "minPrice": 3500,
+            "maxPrice": 3500
+          }
+        ]
+      },
+      {
+        "_id": "6908ce3d542dd170ee13280a",
+        "name": "خواردنەوەی تایبەت",
+        "position": 13,
+        "icon": "default",
+        "menuType": "cafe",
+        "customImage": "SPECDR.png",
+        "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/SPECDR.png",
+        "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/SPECDR.png",
+        "items": [
+          {
+            "isNew": false,
+            "_id": "6908cedcd5784a03b5c05876",
+            "name": "ڕێد بول لایم فیزی",
+            "dName": "Redbull Lime Fizzy",
+            "description": "",
+            "price": 5500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/262772744.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/262772744.jpeg"
+              }
+            ],
+            "minPrice": 5500,
+            "maxPrice": 5500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cedcd5784a03b5c05877",
+            "name": "ڕێد باڕون",
+            "dName": "Red Baron",
+            "description": "",
+            "price": 5000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/126656159.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/126656159.jpeg"
+              }
+            ],
+            "minPrice": 5000,
+            "maxPrice": 5000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cedcd5784a03b5c05878",
+            "name": "داهاتوو بین",
+            "dName": "Return To The Future",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/531623916.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/531623916.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908ceddd5784a03b5c05879",
+            "name": "شەعر بەنات",
+            "dName": "Cotton Candy",
+            "description": "",
+            "price": 4750,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/268766751.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/268766751.jpeg"
+              }
+            ],
+            "minPrice": 4750,
+            "maxPrice": 4750
+          },
+          {
+            "isNew": false,
+            "_id": "6908ceddd5784a03b5c0587a",
+            "name": "ئەکدەنیز",
+            "dName": "Akdenez",
+            "description": "",
+            "price": 5000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/450024582.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/450024582.jpeg"
+              }
+            ],
+            "minPrice": 5000,
+            "maxPrice": 5000
+          },
+          {
+            "isNew": false,
+            "_id": "6908ceddd5784a03b5c0587b",
+            "name": "لەیل ڕوسیا",
+            "dName": "night russian",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/549836002.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/549836002.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908ceddd5784a03b5c0587c",
+            "name": "مۆهیتۆ",
+            "dName": "Mohito",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/485721254.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/485721254.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "6908ceddd5784a03b5c0587d",
+            "name": "وینی نایت",
+            "dName": "Weni Night",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/828947715.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/828947715.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "6908cedfd5784a03b5c0587e",
+            "name": "کۆلد بریۆ",
+            "dName": "Cold Brew",
+            "description": "",
+            "price": 8000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/984522017.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/984522017.jpeg"
+              }
+            ],
+            "minPrice": 8000,
+            "maxPrice": 8000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cedfd5784a03b5c0587f",
+            "name": "کۆلد بریۆ بە شیر",
+            "dName": "Cold Brew With Milk",
+            "description": "",
+            "price": 10000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/520395092.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/520395092.jpeg"
+              }
+            ],
+            "minPrice": 10000,
+            "maxPrice": 10000
+          },
+          {
+            "isNew": false,
+            "_id": "6908cee3d5784a03b5c05880",
+            "name": "مالیبۆ",
+            "dName": "Malibu",
+            "description": "",
+            "price": 5500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/123572899.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/123572899.jpeg"
+              }
+            ],
+            "minPrice": 5500,
+            "maxPrice": 5500
+          }
+        ]
+      }
+    ],
+    "groups": []
+  }
+}

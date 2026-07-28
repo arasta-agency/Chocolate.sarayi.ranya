@@ -1,0 +1,379 @@
+{
+  "categories": [
+    {
+      "category_id": "66e05554c8cb9703736163f9",
+      "category_name": "Breakfast",
+      "position": 1,
+      "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/BRE.png",
+      "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/BRE.png",
+      "items": [
+        {
+          "id": "66e055f4c8cb970373616414",
+          "name": "Breakfast for 1",
+          "description": "First breakfast",
+          "price": 6500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643810285.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643810285.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643810285.jpeg"
+        },
+        {
+          "id": "66e055f4c8cb970373616415",
+          "name": "Breakfast for 2",
+          "description": "Second type of breakfast",
+          "price": 8500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/321700678.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/321700678.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/321700678.jpeg"
+        },
+        {
+          "id": "66e055f4c8cb97037361641e",
+          "name": "Eye Eggs",
+          "description": "",
+          "price": 3000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/622515251.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/622515251.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/622515251.jpeg"
+        },
+        {
+          "id": "66e055f4c8cb97037361641f",
+          "name": "Extra Cheese",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/712094384.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/712094384.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/712094384.jpeg"
+        },
+        {
+          "id": "66e055f4c8cb970373616421",
+          "name": "Mushroom and tomato",
+          "description": "",
+          "price": 3500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/730078670.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/730078670.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/730078670.jpeg"
+        },
+
+        {
+          "id": "66e055f4c8cb970373616423",
+          "name": "Finger potatos",
+          "description": "",
+          "price": 2500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/663329865.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/663329865.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/663329865.jpeg"
+        },
+        {
+          "id": "66e055f4c8cb970373616417",
+          "name": "Turkish soup",
+          "description": "",
+          "price": 1500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/715094793.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/715094793.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/715094793.jpeg"
+        },
+        {
+          "id": "66f3d446b64b7207612f8942",
+          "name": "Casadia",
+          "description": "",
+          "price": 7000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/765389599.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/765389599.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/765389599.jpeg"
+        },
+        {
+          "id": "66e055f4c8cb970373616418",
+          "name": "Crispy Chicken",
+          "description": "",
+          "price": 6000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/647219112.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/647219112.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/647219112.jpeg"
+        },
+        {
+          "id": "66e055f4c8cb970373616419",
+          "name": "Barbecue chicken",
+          "description": "",
+          "price": 6500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/860782388.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/860782388.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/860782388.jpeg"
+        },
+        {
+          "id": "66e055f4c8cb97037361641a",
+          "name": "Chicken zinger",
+          "description": "",
+          "price": 6500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/579827264.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/579827264.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/579827264.jpeg"
+        }
+
+      ]
+    },
+    {
+      "category_id": "676861e55454ab51885be129",
+      "category_name": "Meals",
+      "position": 2,
+      "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/FMEL.png",
+      "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/FMEL.png",
+      "items": [
+        {
+          "id": "6768668ffc92f8671caef80a",
+          "name": "BBQ Meal",
+          "description": "",
+          "price": 7500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/561585090.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/561585090.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/561585090.jpeg"
+        },
+        {
+          "id": "6768668ffc92f8671caef80c",
+          "name": "Crispy Meal",
+          "description": "",
+          "price": 7500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/393229532.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/393229532.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/393229532.jpeg"
+        },
+        {
+          "id": "6768668ffc92f8671caef80e",
+          "name": "Shish Meal",
+          "description": "",
+          "price": 6500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/119790419.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/119790419.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/119790419.jpeg"
+        },
+        {
+          "id": "6768668ffc92f8671caef80f",
+          "name": "Special Finger",
+          "description": "",
+          "price": 5000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/219147999.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/219147999.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/219147999.jpeg"
+        },
+        {
+          "id": "6768668ffc92f8671caef810",
+          "name": "Zinger Meal",
+          "description": "",
+          "price": 8000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/507390392.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/507390392.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/507390392.jpeg"
+        },
+                {
+            "isNew": false,
+            "_id": "66e055f5c8cb9703736164a4",
+            "name": " Beef Sandwich",
+            "dName": "Beef Sandwich",
+            "description": "",
+            "price": 2000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg"
+              }
+            ],
+            "minPrice": 2000,
+            "maxPrice": 2000
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f5c8cb9703736164a4",
+            "name": "Chicken Sandwich",
+            "dName": "Chicken Sandwich",
+            "description": "",
+            "price": 1500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg"
+              }
+            ],
+            "minPrice": 1500,
+            "maxPrice": 1500
+          },
+          {
+                        "isNew": false,
+            "_id": "66e055f5c8cb9703736164a4",
+            "name": "Beef Shawrma",
+            "dName": "Beef Shawrma",
+            "description": "",
+            "price": 2000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg"
+              }
+            ],
+            "minPrice": 2000,
+            "maxPrice": 2000
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f5c8cb9703736164a4",
+            "name": "Chicken Shawrma",
+            "dName": "Chicken Shawrma",
+            "description": "",
+            "price": 1500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg"
+              }
+            ],
+            "minPrice": 1500,
+            "maxPrice": 1500
+          }
+      ]
+    },
+    {
+      "category_id": "66e05559c8cb970373616404",
+      "category_name": "Salty Crepe & Sandwich",
+      "position": 3,
+      "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/CREPSAND.png",
+      "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/CREPSAND.png",
+      "items": [
+        {
+          "id": "66e055f5c8cb970373616495",
+          "name": "four Seasons Pizza",
+          "description": "",
+          "price": 6000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/484408617.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/484408617.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/484408617.jpeg"
+        },
+        {
+          "id": "66e055f5c8cb970373616497",
+          "name": "Pizza Margherita",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/964884542.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/964884542.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/964884542.jpeg"
+        },
+        {
+          "id": "66e055f5c8cb970373616498",
+          "name": "Chicken vegetables Pizza",
+          "description": "",
+          "price": 7000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/68616206.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/68616206.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/68616206.jpeg"
+        },
+        {
+            "isNew": false,
+            "_id": "66e055f5c8cb97037361649c",
+            "name": "Mushroom Crepe",
+            "dName": "Mushroom Crepe",
+            "description": "",
+            "price": 5750,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/247497199.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/247497199.jpeg"
+              }
+            ],
+            "minPrice": 5750,
+            "maxPrice": 5750
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f5c8cb97037361649d",
+            "name": "Mozzarella Crepe",
+            "dName": "Mozzarella Crepe",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/243026275.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/243026275.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          }
+      ]
+    }
+  ]
+}

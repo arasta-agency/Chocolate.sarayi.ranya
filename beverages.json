@@ -1,0 +1,1361 @@
+{
+  "categories": [
+    {
+      "category_id": "6908ce31542dd170ee1327fd",
+      "category_name": "Latte",
+      "position": 1,
+      "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/LTS.png",
+      "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/LTS.png",
+      "items": [
+        {
+          "id": "6908cebad5784a03b5c057f9",
+          "name": "Spiculose Latte",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/416177737.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/416177737.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/416177737.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c057fa",
+          "name": "Latte Café",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/413829843.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/413829843.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/413829843.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c057fb",
+          "name": "Caramel Mocha",
+          "description": "",
+          "price": 5500,
+          "is_active": true,
+          "image_url": "",
+          "image_sm": "",
+          "image_big": ""
+        },
+        {
+          "id": "6908cebad5784a03b5c057fc",
+          "name": "Caramel latte",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/888039086.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/888039086.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/888039086.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c057fd",
+          "name": "Latte macchiato",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/880275712.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/880275712.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/880275712.jpeg"
+        }
+      ]
+    },
+    {
+      "category_id": "6908ce31542dd170ee1327ff",
+      "category_name": "Hot Drinks",
+      "position": 2,
+      "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/HOT.png",
+      "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/HOT.png",
+      "items": [
+        {
+          "id": "6908cebad5784a03b5c057ff",
+          "name": "Turkish Coffee",
+          "description": "",
+          "price": 2000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/78072846.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/78072846.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/78072846.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c05800",
+          "name": "Mint Tea",
+          "description": "",
+          "price": 1000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/522972213.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/522972213.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/522972213.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c05801",
+          "name": "Espresso Macchiato",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "",
+          "image_sm": "",
+          "image_big": ""
+        },
+        {
+          "id": "6908cebad5784a03b5c05802",
+          "name": "cappuccino",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/753624198.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/753624198.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/753624198.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c05803",
+          "name": "Tea",
+          "description": "",
+          "price": 1000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/657971267.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/657971267.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/657971267.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c05804",
+          "name": "Teacup",
+          "description": "",
+          "price": 1500,
+          "is_active": true,
+          "image_url": "",
+          "image_sm": "",
+          "image_big": ""
+        },
+        {
+          "id": "6908cebad5784a03b5c05805",
+          "name": "Americano",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/474434967.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/474434967.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/474434967.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c05806",
+          "name": "Nescafé",
+          "description": "",
+          "price": 3500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/762878471.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/762878471.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/762878471.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c05807",
+          "name": "Qazoan coffee",
+          "description": "",
+          "price": 3000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/659239989.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/659239989.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/659239989.jpeg"
+        }
+      ]
+    },
+    {
+      "category_id": "6908ce32542dd170ee132800",
+      "category_name": "Hot Chocolate",
+      "position": 3,
+      "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/HTC.png",
+      "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/HTC.png",
+      "items": [
+        {
+          "id": "6908cebad5784a03b5c05809",
+          "name": "Hot Chocolate Sweet",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/259984264.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/259984264.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/259984264.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c0580a",
+          "name": "Hot Chocolate White",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/754391144.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/754391144.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/754391144.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c0580b",
+          "name": "Hot Chocolate Dark",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/366670431.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/366670431.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/366670431.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c0580c",
+          "name": "Sweet Café Mocha",
+          "description": "",
+          "price": 5000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/390799644.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/390799644.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/390799644.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c0580d",
+          "name": "Hot Chocolate Hazelnut",
+          "description": "",
+          "price": 6500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/399287193.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/399287193.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/399287193.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c0580e",
+          "name": "Café Mocha Dark",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/296349411.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/296349411.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/296349411.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c0580f",
+          "name": "Mix Hot Chocolate",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/415654938.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/415654938.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/415654938.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c05810",
+          "name": "Café Mocha White",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/631148598.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/631148598.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/631148598.jpeg"
+        }
+      ]
+    },
+    {
+      "category_id": "6908ce33542dd170ee132801",
+      "category_name": "Espresso",
+      "position": 4,
+      "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/ESS.png",
+      "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/ESS.png",
+      "items": [
+        {
+          "id": "6908cebad5784a03b5c05812",
+          "name": "Double Espresso",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/881834158.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/881834158.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/881834158.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c05813",
+          "name": "Espresso Ristretto",
+          "description": "",
+          "price": 3000,
+          "is_active": true,
+          "image_url": "",
+          "image_sm": "",
+          "image_big": ""
+        },
+        {
+          "id": "6908cebad5784a03b5c05814",
+          "name": "Single espresso",
+          "description": "",
+          "price": 2500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/564541460.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/564541460.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/564541460.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c05815",
+          "name": "Espresso Macchiato",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "",
+          "image_sm": "",
+          "image_big": ""
+        },
+        {
+          "id": "6908cebad5784a03b5c05816",
+          "name": "Nescafe",
+          "description": "",
+          "price": 3750,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/18797896.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/18797896.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/18797896.jpeg"
+        },
+        {
+          "id": "6908cebad5784a03b5c05817",
+          "name": "Flat white",
+          "description": "",
+          "price": 3500,
+          "is_active": true,
+          "image_url": "",
+          "image_sm": "",
+          "image_big": ""
+        },
+        {
+          "id": "6908cebad5784a03b5c05818",
+          "name": "Americano Café",
+          "description": "",
+          "price": 3500,
+          "is_active": true,
+          "image_url": "",
+          "image_sm": "",
+          "image_big": ""
+        }
+      ]
+    },
+    {
+      "category_id": "6908ce34542dd170ee132802",
+      "category_name": "Cold Coffee",
+      "position": 5,
+      "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/CDC.png",
+      "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/CDC.png",
+      "items": [
+        {
+          "id": "6908cebbd5784a03b5c0581a",
+          "name": "Ice Coffe",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "",
+          "image_sm": "",
+          "image_big": ""
+        },
+        {
+          "id": "6908cebbd5784a03b5c0581b",
+          "name": "Ice Cafe Latte",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/887058571.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/887058571.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/887058571.jpeg"
+        },
+        {
+          "id": "6908cebbd5784a03b5c0581c",
+          "name": "Americano Ice Coffe",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/850965346.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/850965346.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/850965346.jpeg"
+        },
+        {
+          "id": "6908cebbd5784a03b5c0581d",
+          "name": "Ice caramel latte",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/900502372.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/900502372.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/900502372.jpeg"
+        },
+        {
+          "id": "6908cebbd5784a03b5c0581e",
+          "name": "Ice Cappuccino",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/560405048.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/560405048.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/560405048.jpeg"
+        },
+        {
+          "id": "6908cebbd5784a03b5c0581f",
+          "name": "Ice Cafe Americano",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "",
+          "image_sm": "",
+          "image_big": ""
+        },
+        {
+          "id": "6908cebbd5784a03b5c05820",
+          "name": "Mocha Ice Chocolate",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/954606003.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/954606003.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/954606003.jpeg"
+        },
+        {
+          "id": "6908cebbd5784a03b5c05821",
+          "name": "Mocha Ice White Chocolate",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/582058503.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/582058503.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/582058503.jpeg"
+        },
+        {
+          "id": "6908cebbd5784a03b5c05822",
+          "name": "Ice cappuccino",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/853913559.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/853913559.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/853913559.jpeg"
+        },
+        {
+          "id": "6908cebbd5784a03b5c05823",
+          "name": "Ice chocolate latte",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "",
+          "image_sm": "",
+          "image_big": ""
+        },
+        {
+          "id": "6908cebbd5784a03b5c05824",
+          "name": "Ice latte with coconut and caramel",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/735174559.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/735174559.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/735174559.jpeg"
+        },
+        {
+          "id": "6908cebbd5784a03b5c05825",
+          "name": "Ice speculoos latte",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/217033890.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/217033890.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/217033890.jpeg"
+        },
+        {
+          "id": "6908cebbd5784a03b5c05826",
+          "name": "Ice Chocolate Mocha",
+          "description": "",
+          "price": 5000,
+          "is_active": true,
+          "image_url": "",
+          "image_sm": "",
+          "image_big": ""
+        },
+        {
+          "id": "6908cebbd5784a03b5c05827",
+          "name": "Ice white mocha",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/632857075.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/632857075.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/632857075.jpeg"
+        }
+      ]
+    },
+    {
+      "category_id": "6908ce35542dd170ee132803",
+      "category_name": "Frappe",
+      "position": 6,
+      "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/AFRA.png",
+      "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/AFRA.png",
+      "items": [
+        {
+          "id": "6908cebbd5784a03b5c05829",
+          "name": "White Mocha Frappe",
+          "description": "",
+          "price": 4750,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/623566946.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/623566946.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/623566946.jpeg"
+        },
+        {
+          "id": "6908cebbd5784a03b5c0582a",
+          "name": "Mocha Frappe",
+          "description": "",
+          "price": 4750,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/948496978.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/948496978.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/948496978.jpeg"
+        },
+        {
+          "id": "6908cebbd5784a03b5c0582b",
+          "name": "White Mocha Frappe",
+          "description": "",
+          "price": 4750,
+          "is_active": true,
+          "image_url": "",
+          "image_sm": "",
+          "image_big": ""
+        },
+        {
+          "id": "6908cebbd5784a03b5c0582c",
+          "name": "Frappe Carmeel",
+          "description": "",
+          "price": 5000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/949395105.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/949395105.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/949395105.jpeg"
+        },
+        {
+          "id": "6908cebbd5784a03b5c0582d",
+          "name": "Caramel frappe",
+          "description": "",
+          "price": 6500,
+          "is_active": true,
+          "image_url": "",
+          "image_sm": "",
+          "image_big": ""
+        },
+        {
+          "id": "6908cebbd5784a03b5c0582e",
+          "name": "Oreo Frappe",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/604657097.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/604657097.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/604657097.jpeg"
+        },
+        {
+          "id": "6908cebbd5784a03b5c0582f",
+          "name": "Cookies Frappe",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/229756642.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/229756642.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/229756642.jpeg"
+        },
+        {
+          "id": "6908cebbd5784a03b5c05830",
+          "name": "Blackberry frappe",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/279137034.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/279137034.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/279137034.jpeg"
+        },
+        {
+          "id": "6908cebbd5784a03b5c05831",
+          "name": "Red Berry Frappe",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/72780502.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/72780502.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/72780502.jpeg"
+        }
+      ]
+    },
+    {
+      "category_id": "6908ce36542dd170ee132804",
+      "category_name": "Milkshake",
+      "position": 7,
+      "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/MLS.png",
+      "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/MLS.png",
+      "items": [
+        {
+          "id": "6908cebbd5784a03b5c05833",
+          "name": "Chocolate Milkshake",
+          "description": "",
+          "price": 5000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/355245799.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/355245799.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/355245799.jpeg"
+        },
+        {
+          "id": "6908cebbd5784a03b5c05834",
+          "name": "Vanella Milkshake",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/209064217.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/209064217.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/209064217.jpeg"
+        },
+        {
+          "id": "6908cebbd5784a03b5c05835",
+          "name": "Strawberry Milkshake",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/173582802.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/173582802.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/173582802.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05836",
+          "name": "Banana Milkshake",
+          "description": "",
+          "price": 4250,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/325238105.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/325238105.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/325238105.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05837",
+          "name": "Cookies Milkshake",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/439451819.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/439451819.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/439451819.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05838",
+          "name": "Oreo Milkshake",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/491188908.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/491188908.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/491188908.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05839",
+          "name": "Redberry Milkshake",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/483925583.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/483925583.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/483925583.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c0583a",
+          "name": "Peach with pineapple Milkshake",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/710397907.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/710397907.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/710397907.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c0583b",
+          "name": "pinapple milkshake Milkshake",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/373552292.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/373552292.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/373552292.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c0583c",
+          "name": "Milkshike Kinder",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/457714750.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/457714750.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/457714750.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c0583d",
+          "name": "Milkshike Maltisers",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/678524919.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/678524919.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/678524919.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c0583e",
+          "name": "Caramel And Coconut Milkshake",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/886901812.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/886901812.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/886901812.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c0583f",
+          "name": "Milkshike coffee",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/472989836.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/472989836.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/472989836.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05840",
+          "name": "Pistachio Milkshake",
+          "description": "",
+          "price": 5000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/258117236.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/258117236.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/258117236.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05841",
+          "name": "Milkshike cramel",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/99042809.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/99042809.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/99042809.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05842",
+          "name": "Lotus Milkshake",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/620817335.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/620817335.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/620817335.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05843",
+          "name": "Milkshike kit kat",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/273028797.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/273028797.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/273028797.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05844",
+          "name": "pineapple and coconut Milkshake",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/516620998.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/516620998.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/516620998.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05845",
+          "name": "Brownie Milkshake",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/163489617.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/163489617.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/163489617.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05846",
+          "name": "peaches Milkshake",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/488399021.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/488399021.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/488399021.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05847",
+          "name": "Snickers Milkshake",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/821073941.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/821073941.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/821073941.jpeg"
+        }
+      ]
+    },
+    {
+      "category_id": "6908ce39542dd170ee132805",
+      "category_name": "Smoothies",
+      "position": 8,
+      "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/SMO.png",
+      "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/SMO.png",
+      "items": [
+        {
+          "id": "6908cebcd5784a03b5c05849",
+          "name": "Strawberry Smoothie",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/683078101.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/683078101.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/683078101.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c0584a",
+          "name": "Banana Smoothie",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/414571755.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/414571755.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/414571755.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c0584b",
+          "name": "Peach Smoothie",
+          "description": "",
+          "price": 4250,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/711116047.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/711116047.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/711116047.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c0584c",
+          "name": "Redberry Smoothie",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/702884952.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/702884952.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/702884952.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c0584d",
+          "name": "Pineapple Smoothie",
+          "description": "",
+          "price": 4250,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/246015103.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/246015103.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/246015103.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c0584e",
+          "name": "Black Berry Smoothie",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/855404930.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/855404930.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/855404930.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c0584f",
+          "name": "Pineapple with brownie Smoothie",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/220672404.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/220672404.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/220672404.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05850",
+          "name": "Red Fruit Smoothie",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/222799245.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/222799245.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/222799245.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05851",
+          "name": "Tropical Smoothie",
+          "description": "",
+          "price": 4250,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/890278099.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/890278099.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/890278099.jpeg"
+        }
+      ]
+    },
+    {
+      "category_id": "6908ce3a542dd170ee132806",
+      "category_name": "Frozen",
+      "position": 9,
+      "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/FRO.png",
+      "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/FRO.png",
+      "items": [
+        {
+          "id": "6908cebcd5784a03b5c05853",
+          "name": "Frozen pineapple",
+          "description": "",
+          "price": 5000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/17822148.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/17822148.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/17822148.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05854",
+          "name": "Frozen Banana",
+          "description": "",
+          "price": 5000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/594110609.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/594110609.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/594110609.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05855",
+          "name": "Frozen strawberry",
+          "description": "",
+          "price": 5000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/360359863.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/360359863.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/360359863.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05856",
+          "name": "Frozen Red Berry",
+          "description": "",
+          "price": 5000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/326932421.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/326932421.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/326932421.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05857",
+          "name": "Frozen Blackberry",
+          "description": "",
+          "price": 5000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643911303.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643911303.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643911303.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05858",
+          "name": "Frozen Peach",
+          "description": "",
+          "price": 5000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/19894566.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/19894566.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/19894566.jpeg"
+        }
+      ]
+    },
+    {
+      "category_id": "6908ce3b542dd170ee132807",
+      "category_name": "Fresh Juice",
+      "position": 10,
+      "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/JCS.png",
+      "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/JCS.png",
+      "items": [
+        {
+          "id": "6908cebcd5784a03b5c0585a",
+          "name": "Orange juice",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/365397507.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/365397507.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/365397507.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c0585b",
+          "name": "Lemon juice",
+          "description": "",
+          "price": 3750,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/497281680.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/497281680.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/497281680.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c0585c",
+          "name": "Orange and Strawberry Juice",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/921079133.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/921079133.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/921079133.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c0585d",
+          "name": "Lemon And Mint Juice",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/296654870.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/296654870.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/296654870.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c0585e",
+          "name": "Lemon and Strawberry Juice",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/962501967.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/962501967.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/962501967.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c0585f",
+          "name": "Orange and Lemon Juice",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/525731380.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/525731380.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/525731380.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05860",
+          "name": "Frez Juice",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/231069415.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/231069415.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/231069415.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05861",
+          "name": "Banana juice",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/192520228.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/192520228.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/192520228.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05862",
+          "name": "Mix Fruit juice",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/253095571.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/253095571.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/253095571.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05863",
+          "name": "Banana With Milk juice",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/601899946.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/601899946.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/601899946.jpeg"
+        },
+        {
+          "id": "6908cebcd5784a03b5c05864",
+          "name": "pineapple juice",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/521564606.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/521564606.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/521564606.jpeg"
+        }
+      ]
+    },
+    {
+      "category_id": "6908ce3c542dd170ee132808",
+      "category_name": "Soft Drink",
+      "position": 11,
+      "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/SFT.png",
+      "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/SFT.png",
+      "items": [
+        {
+          "id": "6908cec0d5784a03b5c05866",
+          "name": "Mexican Redbull",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/990472606.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/990472606.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/990472606.jpeg"
+        },
+        {
+          "id": "6908cec4d5784a03b5c05867",
+          "name": "Red Bull",
+          "description": "",
+          "price": 2500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/846777183.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/846777183.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/846777183.jpeg"
+        },
+        {
+          "id": "6908cec5d5784a03b5c05868",
+          "name": "Pepsi",
+          "description": "",
+          "price": 750,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/113783590.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/113783590.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/113783590.jpeg"
+        },
+        {
+          "id": "6908cec7d5784a03b5c05869",
+          "name": "7up",
+          "description": "",
+          "price": 750,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/59637159.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/59637159.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/59637159.jpeg"
+        },
+        {
+          "id": "6908cecad5784a03b5c0586a",
+          "name": "Mernda",
+          "description": "",
+          "price": 750,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/905508519.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/905508519.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/905508519.jpeg"
+        },
+        {
+          "id": "6908cecbd5784a03b5c0586b",
+          "name": "Soda",
+          "description": "",
+          "price": 750,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/163573040.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/163573040.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/163573040.jpeg"
+        },
+        {
+          "id": "6908cecbd5784a03b5c0586c",
+          "name": "Lemon soda",
+          "description": "",
+          "price": 1000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/761814336.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/761814336.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/761814336.jpeg"
+        },
+        {
+          "id": "6908ced3d5784a03b5c0586d",
+          "name": "Water",
+          "description": "",
+          "price": 1000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/890980274.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/890980274.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/890980274.jpeg"
+        }
+      ]
+    },
+    {
+      "category_id": "6908ce3d542dd170ee132809",
+      "category_name": "Ice Teas",
+      "position": 12,
+      "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/ITEA.png",
+      "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/ITEA.png",
+      "items": [
+        {
+          "id": "6908cedcd5784a03b5c0586f",
+          "name": "Ice Lemon",
+          "description": "",
+          "price": 3000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/700527820.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/700527820.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/700527820.jpeg"
+        },
+        {
+          "id": "6908cedcd5784a03b5c05870",
+          "name": "Ice Tea Strawberry",
+          "description": "",
+          "price": 3000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/503961426.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/503961426.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/503961426.jpeg"
+        },
+        {
+          "id": "6908cedcd5784a03b5c05871",
+          "name": "Ice Tea Peach",
+          "description": "",
+          "price": 3500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/432414661.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/432414661.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/432414661.jpeg"
+        },
+        {
+          "id": "6908cedcd5784a03b5c05872",
+          "name": "Lemon and Mint Ice Tea",
+          "description": "",
+          "price": 3000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/311845756.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/311845756.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/311845756.jpeg"
+        },
+        {
+          "id": "6908cedcd5784a03b5c05873",
+          "name": "Ice Tea Raspberry",
+          "description": "",
+          "price": 3500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/959922436.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/959922436.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/959922436.jpeg"
+        },
+        {
+          "id": "6908cedcd5784a03b5c05874",
+          "name": "Ice Tea Blackberry",
+          "description": "",
+          "price": 3500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/10155303.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/10155303.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/10155303.jpeg"
+        }
+      ]
+    },
+    {
+      "category_id": "6908ce3d542dd170ee13280a",
+      "category_name": "Special Drinks",
+      "position": 13,
+      "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/SPECDR.png",
+      "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/SPECDR.png",
+      "items": [
+        {
+          "id": "6908cedcd5784a03b5c05876",
+          "name": "Redbull Lime Fizzy",
+          "description": "",
+          "price": 5500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/262772744.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/262772744.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/262772744.jpeg"
+        },
+        {
+          "id": "6908cedcd5784a03b5c05877",
+          "name": "Red Baron",
+          "description": "",
+          "price": 5000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/126656159.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/126656159.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/126656159.jpeg"
+        },
+        {
+          "id": "6908cedcd5784a03b5c05878",
+          "name": "Return To The Future",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/531623916.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/531623916.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/531623916.jpeg"
+        },
+        {
+          "id": "6908ceddd5784a03b5c05879",
+          "name": "Cotton Candy",
+          "description": "",
+          "price": 4750,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/268766751.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/268766751.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/268766751.jpeg"
+        },
+        {
+          "id": "6908ceddd5784a03b5c0587a",
+          "name": "Akdenez",
+          "description": "",
+          "price": 5000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/450024582.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/450024582.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/450024582.jpeg"
+        },
+        {
+          "id": "6908ceddd5784a03b5c0587b",
+          "name": "night russian",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/549836002.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/549836002.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/549836002.jpeg"
+        },
+        {
+          "id": "6908ceddd5784a03b5c0587c",
+          "name": "Mohito",
+          "description": "",
+          "price": 4000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/485721254.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/485721254.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/485721254.jpeg"
+        },
+        {
+          "id": "6908ceddd5784a03b5c0587d",
+          "name": "Weni Night",
+          "description": "",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/828947715.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/828947715.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/828947715.jpeg"
+        },
+        {
+          "id": "6908cedfd5784a03b5c0587e",
+          "name": "Cold Brew",
+          "description": "",
+          "price": 8000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/984522017.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/984522017.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/984522017.jpeg"
+        },
+        {
+          "id": "6908cedfd5784a03b5c0587f",
+          "name": "Cold Brew With Milk",
+          "description": "",
+          "price": 10000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/520395092.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/520395092.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/520395092.jpeg"
+        },
+        {
+          "id": "6908cee3d5784a03b5c05880",
+          "name": "Malibu",
+          "description": "",
+          "price": 5500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/123572899.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/123572899.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/123572899.jpeg"
+        }
+      ]
+    }
+  ]
+}

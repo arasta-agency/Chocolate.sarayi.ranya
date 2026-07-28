@@ -1,0 +1,862 @@
+{
+  "status": 200,
+  "result": {
+    "discount": 0,
+    "banners": [],
+    "language": "ar",
+    "categories": [
+      {
+        "_id": "66e05554c8cb9703736163f9",
+        "name": "فطور",
+        "position": 1,
+        "icon": 1003,
+        "menuType": "dining",
+        "customImage": "BRE.png",
+        "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/BRE.png",
+        "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/BRE.png",
+        "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/AP////Lu6tLEuf7//wCfiodcPSJYMADGsqcARjYvJQAAMyIGg4SEAPL3+K2wsqyytvL5+w4VHMWHCf/rAAAAAElFTkSuQmCC",
+        "items": [
+          {
+            "isNew": false,
+            "_id": "66e055f4c8cb970373616414",
+            "name": "فطور صباحي واحد",
+            "dName": " Breakfast one ",
+            "description": "فطور صباحي نوع اول",
+            "price": 8000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643810285.jpeg",
+                "height": 655,
+                "width": 982,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643810285.jpeg"
+              }
+            ],
+            "minPrice": 8000,
+            "maxPrice": 8000
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f4c8cb970373616415",
+            "name": "فطور صباحي اثنان",
+            "dName": "Breakfast 2",
+            "description": "فطور صباحي نوع ثاني",
+            "price": 15000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/321700678.jpeg",
+                "height": 649,
+                "width": 974,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/321700678.jpeg"
+              }
+            ],
+            "minPrice": 8500,
+            "maxPrice": 8500
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f4c8cb97037361641e",
+            "name": "بيض عيون",
+            "dName": "Eye Eggs",
+            "description": "",
+            "price": 3000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/622515251.jpeg",
+                "height": 647,
+                "width": 970,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/622515251.jpeg"
+              }
+            ],
+            "minPrice": 3000,
+            "maxPrice": 3000
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f4c8cb97037361641f",
+            "name": "بطاطا شيدر",
+            "dName": "EXTRA  CHEESE",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/712094384.jpeg",
+                "height": 600,
+                "width": 450,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/712094384.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f4c8cb970373616422",
+            "name": "موزاريلا أكسبرس",
+            "dName": "Mozbella Express",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/180012818.jpeg",
+                "height": 600,
+                "width": 450,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/180012818.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f4c8cb970373616423",
+            "name": "بطاطا مقلي",
+            "dName": "Finger potatoes",
+            "description": "",
+            "price": 2500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/663329865.jpeg",
+                "height": 600,
+                "width": 450,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/663329865.jpeg"
+              }
+            ],
+            "minPrice": 2500,
+            "maxPrice": 2500
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f4c8cb970373616417",
+            "name": "شوربة تركية",
+            "dName": "Turkish soup",
+            "description": "",
+            "price": 1500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/715094793.jpeg",
+                "height": 643,
+                "width": 965,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/715094793.jpeg"
+              }
+            ],
+            "minPrice": 1500,
+            "maxPrice": 1500
+          },
+          {
+            "isNew": false,
+            "_id": "66f3d446b64b7207612f8942",
+            "name": "كاساديا",
+            "dName": "Casadia",
+            "description": "",
+            "price": 7000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 1,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/765389599.jpeg",
+                "height": 650,
+                "width": 975,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/765389599.jpeg"
+              }
+            ],
+            "activeOn": {},
+            "minPrice": 7000,
+            "maxPrice": 7000
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f4c8cb970373616418",
+            "name": "كرسبي دجاج",
+            "dName": "Crispy Chicken",
+            "description": "",
+            "price": 6000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/647219112.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/647219112.jpeg"
+              }
+            ],
+            "minPrice": 6000,
+            "maxPrice": 6000
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f4c8cb970373616419",
+            "name": "باربيكيو دجاج",
+            "dName": "Barbecue chicken",
+            "description": "",
+            "price": 6500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/860782388.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/860782388.jpeg"
+              }
+            ],
+            "minPrice": 6500,
+            "maxPrice": 6500
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f4c8cb97037361641a",
+            "name": "ساندويش زنجر ",
+            "dName": "Chicken zinger sandwich",
+            "description": "",
+            "price": 6500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/579827264.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/579827264.jpeg"
+              }
+            ],
+            "minPrice": 6500,
+            "maxPrice": 6500
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f4c8cb97037361641b",
+            "name": "فيلاديفيا لحم",
+            "dName": "Meat Philadelphia",
+            "description": "",
+            "price": 7000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/19726848.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/19726848.jpeg"
+              }
+            ],
+            "minPrice": 7000,
+            "maxPrice": 7000
+          }
+        ]
+      },
+      {
+        "_id": "676861e55454ab51885be129",
+        "name": "الوجبات",
+        "position": 2,
+        "icon": "default",
+        "menuType": "dining",
+        "customImage": "FMEL.png",
+        "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/FMEL.png",
+        "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/FMEL.png",
+        "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/AHd5gaSUiJSDfISEhgDq0q//45H/6pjyzqEAhHBb76NZ/65hZ0oxANfe9HNmXzQiEwAACALiGo+dCLJwAAAAAElFTkSuQmCC",
+        "items": [
+          {
+            "isNew": false,
+            "_id": "6768668ffc92f8671caef80a",
+            "name": "وجبة BBQ",
+            "dName": "BBQ Meal ",
+            "description": "",
+            "price": 7500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 0,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/561585090.jpeg",
+                "height": 650,
+                "width": 975,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/561585090.jpeg"
+              }
+            ],
+            "activeOn": {},
+            "minPrice": 7500,
+            "maxPrice": 7500
+          },
+          {
+            "isNew": false,
+            "_id": "6768668ffc92f8671caef80c",
+            "name": "وجبة کریسبي",
+            "dName": "Crispy Meal",
+            "description": "",
+            "price": 7500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 0,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/393229532.jpeg",
+                "height": 650,
+                "width": 975,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/393229532.jpeg"
+              }
+            ],
+            "activeOn": {},
+            "minPrice": 7500,
+            "maxPrice": 7500
+          },
+          {
+            "isNew": false,
+            "_id": "6768668ffc92f8671caef80e",
+            "name": "وجبة شيش",
+            "dName": "Shish Meal",
+            "description": "",
+            "price": 6500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 0,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/119790419.jpeg",
+                "height": 650,
+                "width": 975,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/119790419.jpeg"
+              }
+            ],
+            "activeOn": {},
+            "minPrice": 6500,
+            "maxPrice": 6500
+          },
+          {
+            "isNew": false,
+            "_id": "6768668ffc92f8671caef80f",
+            "name": "فنکر خاص",
+            "dName": "Special Finger ",
+            "description": "",
+            "price": 5000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 0,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/219147999.jpeg",
+                "height": 647,
+                "width": 970,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/219147999.jpeg"
+              }
+            ],
+            "activeOn": {},
+            "minPrice": 5000,
+            "maxPrice": 5000
+          },
+          {
+            "isNew": false,
+            "_id": "6768668ffc92f8671caef810",
+            "name": "وجبة زينجر",
+            "dName": "Zinger Meal",
+            "description": "",
+            "price": 8000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 0,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/507390392.jpeg",
+                "height": 650,
+                "width": 975,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/507390392.jpeg"
+              }
+            ],
+            "activeOn": {},
+            "minPrice": 8000,
+            "maxPrice": 8000
+          },
+                    {
+            "isNew": false,
+            "_id": "66e055f5c8cb9703736164a4",
+            "name": " لحم ساندویش",
+            "dName": "Beef Sandwish",
+            "description": "",
+            "price": 2000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg"
+              }
+            ],
+            "minPrice": 2000,
+            "maxPrice": 2000
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f5c8cb9703736164a4",
+            "name": " دجاج ساندویش",
+            "dName": "Chicken Sandwish",
+            "description": "",
+            "price": 1500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg"
+              }
+            ],
+            "minPrice": 1500,
+            "maxPrice": 1500
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f5c8cb9703736164a4",
+            "name": " لحم شاورما",
+            "dName": "Beef Shawrma",
+            "description": "",
+            "price": 2000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg"
+              }
+            ],
+            "minPrice": 2000,
+            "maxPrice": 2000
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f5c8cb9703736164a4",
+            "name": " دجاج شاورما",
+            "dName": "Chicken Shawrma",
+            "description": "",
+            "price": 1500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg"
+              }
+            ],
+            "minPrice": 1500,
+            "maxPrice": 1500
+          }
+      
+        ]
+      },
+      {
+        "_id": "66e05559c8cb970373616404",
+        "name": "الكريب المالح والساندوش",
+        "position": 3,
+        "icon": "default",
+        "menuType": "dining",
+        "customImage": "CREPSAND.png",
+        "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/CREPSAND.png",
+        "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/CREPSAND.png",
+        "items": [
+          {
+            "isNew": false,
+            "_id": "66e055f5c8cb970373616495",
+            "name": "بیتزا الفصول الاربعة",
+            "dName": "four Seasons Pizza",
+            "description": "",
+            "price": 6000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/484408617.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/484408617.jpeg"
+              }
+            ],
+            "minPrice": 6000,
+            "maxPrice": 6000
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f5c8cb970373616497",
+            "name": "بیتزا ماركریتا",
+            "dName": "Pizza Margherita",
+            "description": "",
+            "price": 4000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/964884542.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/964884542.jpeg"
+              }
+            ],
+            "minPrice": 4000,
+            "maxPrice": 4000
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f5c8cb970373616498",
+            "name": "بیتزا خضار بالدجاج",
+            "dName": "Chicken vegetables Pizza",
+            "description": "",
+            "price": 7000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/68616206.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/68616206.jpeg"
+              }
+            ],
+            "minPrice": 7000,
+            "maxPrice": 7000
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f5c8cb97037361649c",
+            "name": "كریب بالفطر",
+            "dName": "Mushroom Crepe",
+            "description": "",
+            "price": 5750,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/247497199.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/247497199.jpeg"
+              }
+            ],
+            "minPrice": 5750,
+            "maxPrice": 5750
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f5c8cb97037361649d",
+            "name": "كریب موزریلا",
+            "dName": "Mozzarella Crepe",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/243026275.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/243026275.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f5c8cb9703736164a0",
+            "name": "كریب دجاج فاهیتا",
+            "dName": "Fahita Chicken Crepe",
+            "description": "",
+            "price": 7250,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/809155957.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/809155957.jpeg"
+              }
+            ],
+            "minPrice": 7250,
+            "maxPrice": 7250
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f5c8cb9703736164a4",
+            "name": " لحم ساندویش",
+            "dName": "Sandwish Club Tuna",
+            "description": "",
+            "price": 5500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg"
+              }
+            ],
+            "minPrice": 5500,
+            "maxPrice": 5500
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f5c8cb9703736164a4",
+            "name": " دجاج ساندویش",
+            "dName": "Sandwish Club Tuna",
+            "description": "",
+            "price": 5500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg"
+              }
+            ],
+            "minPrice": 5500,
+            "maxPrice": 5500
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f5c8cb9703736164a4",
+            "name": " لحم شاورما",
+            "dName": "Sandwish Club Tuna",
+            "description": "",
+            "price": 5500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg"
+              }
+            ],
+            "minPrice": 5500,
+            "maxPrice": 5500
+          },
+          {
+            "isNew": false,
+            "_id": "66e055f5c8cb9703736164a4",
+            "name": " دجاج شاورما",
+            "dName": "Sandwish Club Tuna",
+            "description": "",
+            "price": 5500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/725702881.jpeg"
+              }
+            ],
+            "minPrice": 5500,
+            "maxPrice": 5500
+          }
+        ]
+      }
+    ],
+    "groups": []
+  }
+}
