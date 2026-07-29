@@ -2516,7 +2516,33 @@
             "minPrice": 4500,
             "maxPrice": 4500
           },
-          {
+                 {
+            "isNew": false,
+            "_id": "6908cebcd5784a03b5c05863",
+            "name": "شەربەتی  مۆز",
+            "dName": "Banana juice",
+            "description": "",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/601899946.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/601899946.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {      
             "isNew": false,
             "_id": "6908cebcd5784a03b5c05864",
             "name": "شەربەتی ئەناناس",
