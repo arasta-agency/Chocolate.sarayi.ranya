@@ -273,7 +273,14 @@
             "allergens": [],
             "hasAddons": false,
             "isActive": true,
-            "images": [],
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/474434967.jpeg",
+                "height": 1365,
+                "width": 1024,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/474434967.jpeg"
+              }
+            ],
             "minPrice": 1000,
             "maxPrice": 1000
           },
@@ -679,7 +686,14 @@
             "allergens": [],
             "hasAddons": false,
             "isActive": true,
-            "images": [],
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/18797896.jpeg",
+                "height": 480,
+                "width": 360,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/18797896.jpeg"
+              }
+            ],
             "minPrice": 4500,
             "maxPrice": 4500
           },
@@ -724,8 +738,14 @@
             "allergens": [],
             "hasAddons": false,
             "isActive": true,
-            "images": [],
-            "minPrice": 3500,
+              "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/18797896.jpeg",
+                "height": 480,
+                "width": 360,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/18797896.jpeg"
+              }
+            ], "minPrice": 3500,
             "maxPrice": 3500
           },
           {
@@ -743,7 +763,14 @@
             "allergens": [],
             "hasAddons": false,
             "isActive": true,
-            "images": [],
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/18797896.jpeg",
+                "height": 480,
+                "width": 360,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/18797896.jpeg"
+              }
+            ],
             "minPrice": 3500,
             "maxPrice": 3500
           }
@@ -775,7 +802,14 @@
             "allergens": [],
             "hasAddons": false,
             "isActive": true,
-            "images": [],
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/18797896.jpeg",
+                "height": 480,
+                "width": 360,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/18797896.jpeg"
+              }
+            ],
             "minPrice": 4000,
             "maxPrice": 4000
           },
@@ -898,7 +932,14 @@
             "allergens": [],
             "hasAddons": false,
             "isActive": true,
-            "images": [],
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/954606003.jpeg",
+                "height": 320,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/954606003.jpeg"
+              }
+            ],
             "minPrice": 4000,
             "maxPrice": 4000
           },
@@ -969,7 +1010,14 @@
             "allergens": [],
             "hasAddons": false,
             "isActive": true,
-            "images": [],
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/735174559.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/735174559.jpeg"
+              }
+            ],
             "minPrice": 4500,
             "maxPrice": 4500
           },
@@ -1040,7 +1088,14 @@
             "allergens": [],
             "hasAddons": false,
             "isActive": true,
-            "images": [],
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/632857075.jpeg",
+                "height": 640,
+                "width": 480,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/632857075.jpeg"
+              }
+            ],
             "minPrice": 5000,
             "maxPrice": 5000
           },
@@ -1593,7 +1648,7 @@
           {
             "isNew": false,
             "_id": "6908cebcd5784a03b5c05840",
-            "name": "فستق",
+            "name": "میڵک شەیکی فستەق ",
             "dName": "Pistachio Milkshake",
             "description": "",
             "price": 5000,
@@ -2570,10 +2625,10 @@
             "isActive": true,
             "images": [
               {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/846777183.jpeg",
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/990472606.jpeg",
                 "height": 1365,
                 "width": 1024,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/846777183.jpeg"
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/990472606.jpeg"
               }
             ],
             "minPrice": 3000,
@@ -2745,16 +2800,11 @@
             "allergens": [],
             "hasAddons": false,
             "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/890980274.jpeg",
-                "height": 1024,
-                "width": 1024,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/890980274.jpeg"
-              }
-            ],
-            "minPrice": 1000,
-            "maxPrice": 1000
+            "image_url": "item images//wate.jpeg",
+            "image_sm": "item images//wate.jpeg",
+            "image_big": "item images//wate.jpeg",
+            "minPrice": 250,
+            "maxPrice": 250
           }
         ]
       },
@@ -2951,9 +3001,9 @@
             "allergens": [],
             "hasAddons": false,
             "isActive": true,
-          "image_url": "item images//special.jpeg",
-          "image_sm":  "item images//special.jpeg",
-          "image_big": "item images//special.jpeg",
+          "image_url": "item images//redlime.jpg",
+          "image_sm":  "item images//redlime.jpg",
+          "image_big": "item images//redlime.jpg",
             "minPrice": 5500,
             "maxPrice": 5500
           },
@@ -3061,9 +3111,9 @@
             "allergens": [],
             "hasAddons": false,
             "isActive": true,
-            "image_url": "item images//special.jpeg",
-            "image_sm":  "item images//special.jpeg",
-            "image_big": "item images//special.jpeg",
+            "image_url": "item images//mohito.jpg",
+            "image_sm":  "item images//mohito.jpg",
+            "image_big": "item images//mohito.jpg",
             "minPrice": 4000,
             "maxPrice": 4000
           },

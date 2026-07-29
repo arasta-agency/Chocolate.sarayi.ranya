@@ -1273,9 +1273,9 @@
           "description": "",
           "price": 4000,
           "is_active": true,
-          "image_url": "item images//special.jpeg",
-          "image_sm":  "item images//special.jpeg",
-          "image_big": "item images//special.jpeg"
+            "image_url": "item images//mohito.jpg",
+            "image_sm":  "item images//mohito.jpg",
+            "image_big": "item images//mohito.jpg"
         },
         {
           "id": "6908ceddd5784a03b5c0587d",
