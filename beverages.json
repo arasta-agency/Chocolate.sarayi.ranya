@@ -33,9 +33,9 @@
           "description": "",
           "price": 5500,
           "is_active": true,
-          "image_url": "",
-          "image_sm": "",
-          "image_big": ""
+         "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/413829843.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/413829843.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/413829843.jpeg"
         },
         {
           "id": "6908cebad5784a03b5c057fc",
@@ -87,16 +87,6 @@
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/522972213.jpeg"
         },
         {
-          "id": "6908cebad5784a03b5c05801",
-          "name": "Espresso Macchiato",
-          "description": "",
-          "price": 4500,
-          "is_active": true,
-          "image_url": "",
-          "image_sm": "",
-          "image_big": ""
-        },
-        {
           "id": "6908cebad5784a03b5c05802",
           "name": "cappuccino",
           "description": "",
@@ -110,7 +100,7 @@
           "id": "6908cebad5784a03b5c05803",
           "name": "Tea",
           "description": "",
-          "price": 1000,
+          "price": 500,
           "is_active": true,
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/657971267.jpeg",
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/657971267.jpeg",
@@ -120,11 +110,11 @@
           "id": "6908cebad5784a03b5c05804",
           "name": "Teacup",
           "description": "",
-          "price": 1500,
+          "price": 1000,
           "is_active": true,
-          "image_url": "",
-          "image_sm": "",
-          "image_big": ""
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/474434967.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/474434967.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/474434967.jpeg"
         },
         {
           "id": "6908cebad5784a03b5c05805",
@@ -148,7 +138,7 @@
         },
         {
           "id": "6908cebad5784a03b5c05807",
-          "name": "Qazoan coffee",
+          "name": "Qazwan coffee",
           "description": "",
           "price": 3000,
           "is_active": true,
@@ -270,9 +260,9 @@
           "description": "",
           "price": 3000,
           "is_active": true,
-          "image_url": "",
-          "image_sm": "",
-          "image_big": ""
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/881834158.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/881834158.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/881834158.jpeg"
         },
         {
           "id": "6908cebad5784a03b5c05814",
@@ -290,9 +280,9 @@
           "description": "",
           "price": 4500,
           "is_active": true,
-          "image_url": "",
-          "image_sm": "",
-          "image_big": ""
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/564541460.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/564541460.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/564541460.jpeg"
         },
         {
           "id": "6908cebad5784a03b5c05816",
@@ -310,9 +300,9 @@
           "description": "",
           "price": 3500,
           "is_active": true,
-          "image_url": "",
-          "image_sm": "",
-          "image_big": ""
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/18797896.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/18797896.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/18797896.jpeg"
         },
         {
           "id": "6908cebad5784a03b5c05818",
@@ -320,9 +310,9 @@
           "description": "",
           "price": 3500,
           "is_active": true,
-          "image_url": "",
-          "image_sm": "",
-          "image_big": ""
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/474434967.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/474434967.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/474434967.jpeg"
         }
       ]
     },
@@ -339,9 +329,9 @@
           "description": "",
           "price": 4000,
           "is_active": true,
-          "image_url": "",
-          "image_sm": "",
-          "image_big": ""
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/887058571.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/887058571.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/887058571.jpeg"
         },
         {
           "id": "6908cebbd5784a03b5c0581b",
@@ -384,16 +374,6 @@
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/560405048.jpeg"
         },
         {
-          "id": "6908cebbd5784a03b5c0581f",
-          "name": "Ice Cafe Americano",
-          "description": "",
-          "price": 4000,
-          "is_active": true,
-          "image_url": "",
-          "image_sm": "",
-          "image_big": ""
-        },
-        {
           "id": "6908cebbd5784a03b5c05820",
           "name": "Mocha Ice Chocolate",
           "description": "",
@@ -413,25 +393,16 @@
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/582058503.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/582058503.jpeg"
         },
-        {
-          "id": "6908cebbd5784a03b5c05822",
-          "name": "Ice cappuccino",
-          "description": "",
-          "price": 4000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/853913559.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/853913559.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/853913559.jpeg"
-        },
+
         {
           "id": "6908cebbd5784a03b5c05823",
           "name": "Ice chocolate latte",
           "description": "",
           "price": 4500,
           "is_active": true,
-          "image_url": "",
-          "image_sm": "",
-          "image_big": ""
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/853913559.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/853913559.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/853913559.jpeg"
         },
         {
           "id": "6908cebbd5784a03b5c05824",
@@ -459,9 +430,9 @@
           "description": "",
           "price": 5000,
           "is_active": true,
-          "image_url": "",
-          "image_sm": "",
-          "image_big": ""
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/217033890.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/217033890.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/217033890.jpeg"
         },
         {
           "id": "6908cebbd5784a03b5c05827",
@@ -503,16 +474,6 @@
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/948496978.jpeg"
         },
         {
-          "id": "6908cebbd5784a03b5c0582b",
-          "name": "White Mocha Frappe",
-          "description": "",
-          "price": 4750,
-          "is_active": true,
-          "image_url": "",
-          "image_sm": "",
-          "image_big": ""
-        },
-        {
           "id": "6908cebbd5784a03b5c0582c",
           "name": "Frappe Carmeel",
           "description": "",
@@ -522,16 +483,7 @@
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/949395105.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/949395105.jpeg"
         },
-        {
-          "id": "6908cebbd5784a03b5c0582d",
-          "name": "Caramel frappe",
-          "description": "",
-          "price": 6500,
-          "is_active": true,
-          "image_url": "",
-          "image_sm": "",
-          "image_big": ""
-        },
+        
         {
           "id": "6908cebbd5784a03b5c0582e",
           "name": "Oreo Frappe",
@@ -883,7 +835,7 @@
         {
           "id": "6908cebcd5784a03b5c05851",
           "name": "Tropical Smoothie",
-          "description": "",
+          "description": "Banana, Pineapple, Peach",
           "price": 4250,
           "is_active": true,
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/890278099.jpeg",
@@ -1107,6 +1059,26 @@
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/846777183.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/846777183.jpeg"
         },
+                {
+          "id": "6908cec0d5784a03b5c05866",
+          "name": "Mexican Tiger",
+          "description": "",
+          "price": 3000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/990472606.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/990472606.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/990472606.jpeg"
+        },
+        {
+          "id": "6908cec4d5784a03b5c05867",
+          "name": "Tiger",
+          "description": "",
+          "price": 1500,
+          "is_active": true,
+          "image_url": "item images//tiger.jpg",
+          "image_sm": "item images//tiger.jpg",
+          "image_big": "item images//tiger.jpg"
+        },
         {
           "id": "6908cec5d5784a03b5c05868",
           "name": "Pepsi",
@@ -1129,13 +1101,23 @@
         },
         {
           "id": "6908cecad5784a03b5c0586a",
-          "name": "Mernda",
+          "name": "Meranda",
           "description": "",
           "price": 750,
           "is_active": true,
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/905508519.jpeg",
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/905508519.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/905508519.jpeg"
+        },
+                {
+          "id": "6908cecad5784a03b5c0586a",
+          "name": "Mountain Dew",
+          "description": "",
+          "price": 750,
+          "is_active": true,
+          "image_url": "item images//dew.jpeg",
+          "image_sm": "item images//dew.jpeg",
+          "image_big": "item images//dew.jpeg"
         },
         {
           "id": "6908cecbd5784a03b5c0586b",
@@ -1148,24 +1130,14 @@
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/163573040.jpeg"
         },
         {
-          "id": "6908cecbd5784a03b5c0586c",
-          "name": "Lemon soda",
-          "description": "",
-          "price": 1000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/761814336.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/761814336.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/761814336.jpeg"
-        },
-        {
           "id": "6908ced3d5784a03b5c0586d",
           "name": "Water",
           "description": "",
-          "price": 1000,
+          "price": 250,
           "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/890980274.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/890980274.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/890980274.jpeg"
+          "image_url": "item images//wate.jpeg",
+          "image_sm": "item images//wate.jpeg",
+          "image_big": "item images//wate.jpeg"
         }
       ]
     },
@@ -1251,9 +1223,9 @@
           "description": "",
           "price": 5500,
           "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/262772744.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/262772744.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/262772744.jpeg"
+          "image_url": "item images//special.jpeg",
+          "image_sm":  "item images//special.jpeg",
+          "image_big": "item images//special.jpeg"
         },
         {
           "id": "6908cedcd5784a03b5c05877",
@@ -1261,9 +1233,9 @@
           "description": "",
           "price": 5000,
           "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/126656159.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/126656159.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/126656159.jpeg"
+          "image_url": "item images//redbaron.jpg",
+          "image_sm":  "item images//redbaron.jpg",
+          "image_big": "item images//redbaron.jpg"
         },
         {
           "id": "6908cedcd5784a03b5c05878",
@@ -1271,19 +1243,9 @@
           "description": "",
           "price": 4500,
           "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/531623916.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/531623916.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/531623916.jpeg"
-        },
-        {
-          "id": "6908ceddd5784a03b5c05879",
-          "name": "Cotton Candy",
-          "description": "",
-          "price": 4750,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/268766751.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/268766751.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/268766751.jpeg"
+          "image_url": "item images//special.jpeg",
+          "image_sm":  "item images//special.jpeg",
+          "image_big": "item images//special.jpeg"
         },
         {
           "id": "6908ceddd5784a03b5c0587a",
@@ -1291,9 +1253,9 @@
           "description": "",
           "price": 5000,
           "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/450024582.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/450024582.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/450024582.jpeg"
+          "image_url": "item images//Akdenez.jpeg",
+          "image_sm":  "item images//Akdenez.jpeg",
+          "image_big": "item images//Akdenez.jpeg"
         },
         {
           "id": "6908ceddd5784a03b5c0587b",
@@ -1301,9 +1263,9 @@
           "description": "",
           "price": 4000,
           "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/549836002.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/549836002.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/549836002.jpeg"
+          "image_url": "item images//special.jpeg",
+          "image_sm":  "item images//special.jpeg",
+          "image_big": "item images//special.jpeg"
         },
         {
           "id": "6908ceddd5784a03b5c0587c",
@@ -1311,9 +1273,9 @@
           "description": "",
           "price": 4000,
           "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/485721254.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/485721254.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/485721254.jpeg"
+          "image_url": "item images//special.jpeg",
+          "image_sm":  "item images//special.jpeg",
+          "image_big": "item images//special.jpeg"
         },
         {
           "id": "6908ceddd5784a03b5c0587d",
@@ -1321,29 +1283,9 @@
           "description": "",
           "price": 4500,
           "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/828947715.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/828947715.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/828947715.jpeg"
-        },
-        {
-          "id": "6908cedfd5784a03b5c0587e",
-          "name": "Cold Brew",
-          "description": "",
-          "price": 8000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/984522017.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/984522017.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/984522017.jpeg"
-        },
-        {
-          "id": "6908cedfd5784a03b5c0587f",
-          "name": "Cold Brew With Milk",
-          "description": "",
-          "price": 10000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/520395092.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/520395092.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/520395092.jpeg"
+          "image_url": "item images//special.jpeg",
+          "image_sm":  "item images//special.jpeg",
+          "image_big": "item images//special.jpeg"
         },
         {
           "id": "6908cee3d5784a03b5c05880",
@@ -1351,9 +1293,9 @@
           "description": "",
           "price": 5500,
           "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/123572899.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/123572899.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/123572899.jpeg"
+          "image_url": "item images//special.jpeg",
+          "image_sm":  "item images//special.jpeg",
+          "image_big": "item images//special.jpeg"
         }
       ]
     }

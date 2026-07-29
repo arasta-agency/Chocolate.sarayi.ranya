@@ -22,7 +22,7 @@
             "name": "نانی بەیانی بۆ ١ كەس",
             "dName": " Breakfast one ",
             "description": "نانى به يانى جورى يه كه م",
-            "price": 6500,
+            "price": 8000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -39,8 +39,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643810285.jpeg"
               }
             ],
-            "minPrice": 6500,
-            "maxPrice": 6500
+            "minPrice": 8000,
+            "maxPrice": 8000
           },
           {
             "isNew": false,
@@ -48,7 +48,7 @@
             "name": "نانی بەیانی  بۆ ٢ كەس",
             "dName": "Breakfast 2",
             "description": "ناني به يانى جورى دووه م",
-            "price": 8500,
+            "price": 15000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -65,8 +65,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/321700678.jpeg"
               }
             ],
-            "minPrice": 8500,
-            "maxPrice": 8500
+            "minPrice": 15000,
+            "maxPrice": 15000
           },
           {
             "isNew": false,
@@ -122,32 +122,6 @@
           },
           {
             "isNew": false,
-            "_id": "66e055f4c8cb970373616422",
-            "name": "موزارێلا ئێكسپرێس",
-            "dName": "Mozarella Express",
-            "description": "",
-            "price": 4000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/180012818.jpeg",
-                "height": 600,
-                "width": 450,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/180012818.jpeg"
-              }
-            ],
-            "minPrice": 4000,
-            "maxPrice": 4000
-          },
-          {
-            "isNew": false,
             "_id": "66e055f4c8cb970373616423",
             "name": "فینگەر",
             "dName": "Finger potatoes",
@@ -175,7 +149,7 @@
           {
             "isNew": false,
             "_id": "66e055f4c8cb970373616417",
-            "name": "سووبی تووركي",
+            "name": "سووب",
             "dName": "Turkish soup",
             "description": "",
             "price": 1500,
@@ -281,7 +255,7 @@
             "isNew": false,
             "_id": "66e055f4c8cb97037361641a",
             "name": "مریشکی زینگەر",
-            "dName": "Chicken zinger sandwich",
+            "dName": "Chicken zinger ",
             "description": "",
             "price": 6500,
             "discount": 0,
@@ -302,32 +276,6 @@
             ],
             "minPrice": 6500,
             "maxPrice": 6500
-          },
-          {
-            "isNew": false,
-            "_id": "66e055f4c8cb97037361641b",
-            "name": "فيلاديلفيا گۆشت",
-            "dName": "Meat Philadelphia",
-            "description": "",
-            "price": 7000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/19726848.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/19726848.jpeg"
-              }
-            ],
-            "minPrice": 7000,
-            "maxPrice": 7000
           }
         ]
       },

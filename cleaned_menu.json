@@ -11,7 +11,7 @@
           "id": "66e055f4c8cb970373616414",
           "name": "Breakfast for 1",
           "description": "First breakfast",
-          "price": 6500,
+          "price": 8000,
           "is_active": true,
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643810285.jpeg",
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643810285.jpeg",
@@ -21,7 +21,7 @@
           "id": "66e055f4c8cb970373616415",
           "name": "Breakfast for 2",
           "description": "Second type of breakfast",
-          "price": 8500,
+          "price": 15000,
           "is_active": true,
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/321700678.jpeg",
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/321700678.jpeg",
@@ -118,6 +118,7 @@
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/579827264.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/579827264.jpeg"
         }
+        
 
       ]
     },

@@ -206,16 +206,6 @@
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/58233509.jpeg",
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/58233509.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/58233509.jpeg"
-        },
-        {
-          "id": "6908f1b3228b686100966853",
-          "name": "Crepe Dubai",
-          "description": "",
-          "price": 11000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/396148403.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/396148403.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/396148403.jpeg"
         }
       ]
     },
@@ -368,7 +358,7 @@
         },
         {
           "id": "6908f1b4228b686100966863",
-          "name": "Pancake Crunch",
+          "name": "Pancake Crunch (Triple)",
           "description": "Three pancake pieces, special biscuits, vanilla ice cream and Belgian sweet chocolate",
           "price": 5500,
           "is_active": true,
@@ -385,16 +375,6 @@
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/483005158.jpeg",
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/483005158.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/483005158.jpeg"
-        },
-        {
-          "id": "6908f1b4228b686100966865",
-          "name": "Pancake Dubai",
-          "description": "",
-          "price": 10000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/824933354.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/824933354.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/824933354.jpeg"
         }
       ]
     },
@@ -614,16 +594,6 @@
       "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/BROCOOK.png",
       "items": [
         {
-          "id": "6908f1b5228b68610096687c",
-          "name": "Pizza Brownies",
-          "description": "Brownie, cream cheese. Fruits (banana, strawberry) with three types of Belgian chocolate (sweet, white, dark)",
-          "price": 6500,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/848473429.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/848473429.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/848473429.jpeg"
-        },
-        {
           "id": "6908f1b5228b68610096687d",
           "name": "Brownies Steak",
           "description": "Four pieces of brownie with two kinds of Belgian chocolate (sweet, dark)",
@@ -754,34 +724,14 @@
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/369616813.jpeg"
         },
         {
-          "id": "6908f1b5228b68610096688a",
-          "name": "Cookie sandwich",
-          "description": "Two pieces of cookies covered in belgian sweet chocolate with vanilla ice cream",
-          "price": 3500,
-          "is_active": true,
-          "image_url": "",
-          "image_sm": "",
-          "image_big": ""
-        },
-        {
           "id": "6908f1b5228b68610096688b",
-          "name": "Black cookie sandwich (Dark)",
+          "name": "White cookie sandwich (White)",
           "description": "Two pieces of dark cookies dipped in Belgian sweet chocolate with vanilla ice cream",
           "price": 3500,
           "is_active": true,
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/913877083.jpeg",
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/913877083.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/913877083.jpeg"
-        },
-        {
-          "id": "6908f1b5228b68610096688c",
-          "name": "Brownie Dubai",
-          "description": "",
-          "price": 12000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420549626.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420549626.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420549626.jpeg"
         }
       ]
     },
@@ -932,7 +882,7 @@
         },
         {
           "id": "6908f1b6228b68610096689c",
-          "name": "Pastaccio ice cream",
+          "name": "Pistachio ice cream",
           "description": "Three balls of Pastacio ice cream with a pinch of pistachios with Belgian chocolate",
           "price": 6500,
           "is_active": true,
@@ -999,16 +949,7 @@
       "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/CHDUI.png",
       "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/CHDUI.png",
       "items": [
-        {
-          "id": "6908f1b7228b6861009668a3",
-          "name": "Chocolate Dubai",
-          "description": "",
-          "price": 10000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/999616797.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/999616797.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/999616797.jpeg"
-        }
+
       ]
     },
     {
