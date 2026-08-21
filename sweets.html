@@ -3,20 +3,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Chocolate Sarayi Rania</title>
+  <title>Sweets Menu - Chocolate Sarayi Rania</title>
   <link rel="icon" type="image/png" href="Logo1.png" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
   <link rel="stylesheet" href="style.css" />
 </head>
-<body class="home-body">
-
-  <!-- Fixed Background Video and Lightened Overlay -->
-  <div class="bg-video-container" id="bg-video-container">
-    <video class="bg-video" autoplay muted loop playsinline webkit-playsinline poster="Logo1.png">
-      <source src="https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/516339522.mp4" type="video/mp4" />
-    </video>
-  </div>
-  <div class="bg-overlay" id="bg-overlay"></div>
+<body class="beige-theme">
 
   <!-- Top Controls Bar -->
   <div class="top-controls">
@@ -45,36 +37,23 @@
     </div>
   </div>
 
-  <!-- Header Banner -->
+  <!-- Header Banner with Sub-Tabs -->
   <div class="header-banner">
     <img src="logo1.png" alt="Logo" class="top-logo" />
     <h1 class="brand-name">Chocolate Sarayi Rania</h1>
-    <span class="sub-title" id="branch-subtitle">جیهانی چوکلێت</span>
-  </div>
-
-  <!-- Main Category Grid Selection -->
-  <div class="view-container">
-    <div class="category-grid">
-      <a href="food.html" class="category-card">
-        <h3 id="food-title">مینۆی خواردن</h3>
-        <i class="fa-solid fa-chevron-right"></i>
-      </a>
-      <a href="sweets.html" class="category-card">
-        <h3 id="sweets-title">شیرینییەکان</h3>
-        <i class="fa-solid fa-chevron-right"></i>
-      </a>
-      <a href="beverages.html" class="category-card">
-        <h3 id="beverage-title">خواردنەوەکان</h3>
-        <i class="fa-solid fa-chevron-right"></i>
-      </a>
-      <a href="hookah.html" class="category-card">
-        <h3 id="hookah-title">نێرگەلە</h3>
-        <i class="fa-solid fa-chevron-right"></i>
-      </a>
+    
+    <div class="nav-bar" id="nav-bar">
+      <a href="index.html" class="back-btn"><i class="fa-solid fa-arrow-left"></i></a>
+      <h2 class="nav-title" id="nav-title">شیرینییەکان</h2>
     </div>
+
+    <div id="sub-tabs-wrapper" class="sub-tabs-container"></div>
   </div>
 
-  <!-- Floating Selected Items Bar -->
+  <!-- Dynamic Content Area -->
+  <div id="view-container" class="menu-section"></div>
+
+  <!-- Floating Cart Bar & Modals -->
   <div id="cart-bar" class="cart-bar" style="display: none;" onclick="openCartModal()">
     <div class="cart-bar-left">
       <div class="cart-badge" id="cart-count">0</div>
@@ -83,7 +62,6 @@
     <div class="cart-price" id="cart-total-price">0 IQD</div>
   </div>
 
-  <!-- Cart Modal Overlay -->
   <div id="cart-modal-overlay" class="modal-overlay" onclick="closeCartModal(event)">
     <div class="modal-card" onclick="event.stopPropagation()">
       <div class="modal-header">
@@ -184,6 +162,6 @@
   </div>
 
   <script src="script.js"></script>
-  <script>initPage('MAIN');</script>
+  <script>initPage('SWEETS_MENU');</script>
 </body>
 </html>
