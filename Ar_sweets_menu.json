@@ -16,6 +16,32 @@
         "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/CRP.png",
         "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/ALS4vM7R1efq7/r8/wC5tLBqSSCVeVfPxLkAVUMzLAAAOBYAtKOSAD1ERCkrJ2ZmZbS2u/fqGLfxm0bLAAAAAElFTkSuQmCC",
         "items": [
+                    {
+            "isNew": false,
+            "_id": "6908f1b2228b686100966840",
+            "name": "كريب ثلاث انواع شوكولا",
+            "dName": "Crepe Three Types Of Chocolate",
+            "description": "كريب مع ثلاث أنواع من الشوكولا البلجيكية (سويت, وايت, دارك)",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643703016.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643703016.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
           {
             "isNew": false,
             "_id": "6908f1b2228b68610096683f",
@@ -42,32 +68,7 @@
             "minPrice": 6500,
             "maxPrice": 6500
           },
-          {
-            "isNew": false,
-            "_id": "6908f1b2228b686100966840",
-            "name": "كريب ثلاث انواع شوكولا",
-            "dName": "Crepe Three Types Of Chocolate",
-            "description": "كريب مع ثلاث أنواع من الشوكولا البلجيكية (سويت, وايت, دارك)",
-            "price": 4500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643703016.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643703016.jpeg"
-              }
-            ],
-            "minPrice": 4500,
-            "maxPrice": 4500
-          },
+
           {
             "isNew": false,
             "_id": "6908f1b2228b686100966841",
@@ -146,6 +147,32 @@
             "minPrice": 5000,
             "maxPrice": 5000
           },
+                    {
+            "isNew": false,
+            "_id": "6908f1b3228b686100966845",
+            "name": "لارج فيتوتشيني كريب",
+            "dName": "Fettuccine large Crepe",
+            "description": "كريب, ايس كريم الفانيليا والشوكولا السويت البلجيكية (2 شخص)",
+            "price": 7500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/836626345.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/836626345.jpeg"
+              }
+            ],
+            "minPrice": 7500,
+            "maxPrice": 7500
+          },
           {
             "isNew": false,
             "_id": "6908f1b3228b686100966844",
@@ -172,32 +199,7 @@
             "minPrice": 6500,
             "maxPrice": 6500
           },
-          {
-            "isNew": false,
-            "_id": "6908f1b3228b686100966845",
-            "name": "لارج فيتوتشيني كريب",
-            "dName": "Fettuccine large Crepe",
-            "description": "كريب, ايس كريم الفانيليا والشوكولا السويت البلجيكية (2 شخص)",
-            "price": 7500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/836626345.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/836626345.jpeg"
-              }
-            ],
-            "minPrice": 7500,
-            "maxPrice": 7500
-          },
+
           {
             "isNew": false,
             "_id": "6908f1b3228b686100966846",
@@ -252,32 +254,6 @@
           },
           {
             "isNew": false,
-            "_id": "6908f1b3228b686100966848",
-            "name": "كريب بالبندق",
-            "dName": "Crepe with hazelnuts",
-            "description": "كريب مع بندق مع شوكولا بلجيكية بيضاء وسويت",
-            "price": 6500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/118869185.jpeg",
-                "height": 480,
-                "width": 360,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/118869185.jpeg"
-              }
-            ],
-            "minPrice": 6500,
-            "maxPrice": 6500
-          },
-          {
-            "isNew": false,
             "_id": "6908f1b3228b686100966849",
             "name": "كريب بالفواكه",
             "dName": "Fruit Crepe",
@@ -302,13 +278,13 @@
             "minPrice": 6500,
             "maxPrice": 6500
           },
-          {
+                    {
             "isNew": false,
-            "_id": "6908f1b3228b68610096684a",
-            "name": "صرة كريب بالاوريو",
-            "dName": "Oreo crepe bundle",
-            "description": "كريب .كريمة نشيز.اوريو مع شوكولا سويت",
-            "price": 7000,
+            "_id": "6908f1b3228b68610096684d",
+            "name": "سوشی كریب",
+            "dName": "Sushi Crepe",
+            "description": "كريب, براوني, كريمة تشيز كيك مع الشوكولا السويت البلجيكية",
+            "price": 6500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -319,19 +295,19 @@
             "isActive": true,
             "images": [
               {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/519246016.jpeg",
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/672682434.jpeg",
                 "height": 375,
                 "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/519246016.jpeg"
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/672682434.jpeg"
               }
             ],
-            "minPrice": 7000,
-            "maxPrice": 7000
+            "minPrice": 6500,
+            "maxPrice": 6500
           },
           {
             "isNew": false,
             "_id": "6908f1b3228b68610096684b",
-            "name": "ظريف سوشي كريب",
+            "name": "ستراوبیری سوشي كريب",
             "dName": "Zarif sushi crepe",
             "description": "كريب, كريمة باتيسر, فراولة, سكر بودرة مع الشوكولا السويت البلجيكية",
             "price": 6000,
@@ -380,32 +356,7 @@
             "minPrice": 8500,
             "maxPrice": 8500
           },
-          {
-            "isNew": false,
-            "_id": "6908f1b3228b68610096684d",
-            "name": "سوشی كریب",
-            "dName": "Sushi Crepe",
-            "description": "كريب, براوني, كريمة تشيز كيك مع الشوكولا السويت البلجيكية",
-            "price": 6500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/672682434.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/672682434.jpeg"
-              }
-            ],
-            "minPrice": 6500,
-            "maxPrice": 6500
-          },
+
           {
             "isNew": false,
             "_id": "6908f1b3228b68610096684e",
@@ -509,58 +460,6 @@
             ],
             "minPrice": 6500,
             "maxPrice": 6500
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b3228b686100966852",
-            "name": "صرة الكريب بالقرفة",
-            "dName": "Bunch of Cinnamon crepe",
-            "description": "كريب، كريمة تشيز كيك، موز، قرفة والشوكولا السويت البلجيكية",
-            "price": 4500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/58233509.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/58233509.jpeg"
-              }
-            ],
-            "minPrice": 4500,
-            "maxPrice": 4500
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b3228b686100966853",
-            "name": "كريب دبي",
-            "dName": "Crepe Dubai",
-            "description": "",
-            "price": 11000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/396148403.jpeg",
-                "height": 480,
-                "width": 721,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/396148403.jpeg"
-              }
-            ],
-            "minPrice": 11000,
-            "maxPrice": 11000
           }
         ]
       },
@@ -626,136 +525,6 @@
             ],
             "minPrice": 4500,
             "maxPrice": 4500
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b3228b686100966857",
-            "name": "ميني بانكيك بالبستاشيو",
-            "dName": "Mini pancake with pistachio",
-            "description": "خمس قطع بانكيك، فستق مع شوكولا البستاشيو البلجيكية",
-            "price": 5500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/127376593.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/127376593.jpeg"
-              }
-            ],
-            "minPrice": 5500,
-            "maxPrice": 5500
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b3228b686100966858",
-            "name": "ميني بانكيك بالاوريو",
-            "dName": "Oreo mini pancake",
-            "description": "خمس قطع بانكيك، بسكويت الاوريو مع الشوكولا السويت البلجيكية",
-            "price": 5000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/67016053.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/67016053.jpeg"
-              }
-            ],
-            "minPrice": 5000,
-            "maxPrice": 5000
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b3228b686100966859",
-            "name": "ميني بانكيك باللوتس",
-            "dName": "Mini pancake with lotus",
-            "description": "خمس قطع بانكيك، بسكويت اللوتس مع الشوكولا السويت البلجيكية",
-            "price": 5000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/506176373.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/506176373.jpeg"
-              }
-            ],
-            "minPrice": 5000,
-            "maxPrice": 5000
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b3228b68610096685a",
-            "name": "مينى بانكيك ستيك",
-            "dName": "Mini pancake steak",
-            "description": "ميني بانيك، كريب مقرمش، موز، فراولة ونوعين من الشوكولا البلجيكية (سویت، وایت)",
-            "price": 5000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/119087813.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/119087813.jpeg"
-              }
-            ],
-            "minPrice": 5000,
-            "maxPrice": 5000
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b3228b68610096685b",
-            "name": "ميني بانكيك بالفواكه",
-            "dName": "Mini pancake with fruits",
-            "description": "عشر قطع بانكيك، فواكه (موز، فراولة) وفوندون من الشوكولا السويت البلجيكية",
-            "price": 7500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/561018720.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/561018720.jpeg"
-              }
-            ],
-            "minPrice": 7500,
-            "maxPrice": 7500
           },
           {
             "isNew": false,
@@ -863,6 +632,111 @@
           },
           {
             "isNew": false,
+            "_id": "6908f1b3228b686100966857",
+            "name": "ميني بانكيك بالبستاشيو",
+            "dName": "Mini pancake with pistachio",
+            "description": "خمس قطع بانكيك، فستق مع شوكولا البستاشيو البلجيكية",
+            "price": 5500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/127376593.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/127376593.jpeg"
+              }
+            ],
+            "minPrice": 5500,
+            "maxPrice": 5500
+          },
+          {
+            "isNew": false,
+            "_id": "6908f1b3228b686100966858",
+            "name": "ميني بانكيك بالاوريو",
+            "dName": "Oreo mini pancake",
+            "description": "خمس قطع بانكيك، بسكويت الاوريو مع الشوكولا السويت البلجيكية",
+            "price": 5000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/67016053.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/67016053.jpeg"
+              }
+            ],
+            "minPrice": 5000,
+            "maxPrice": 5000
+          },
+          {
+            "isNew": false,
+            "_id": "6908f1b3228b686100966859",
+            "name": "ميني بانكيك باللوتس",
+            "dName": "Mini pancake with lotus",
+            "description": "خمس قطع بانكيك، بسكويت اللوتس مع الشوكولا السويت البلجيكية",
+            "price": 5000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/506176373.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/506176373.jpeg"
+              }
+            ],
+            "minPrice": 5000,
+            "maxPrice": 5000
+          },
+          {
+            "isNew": false,
+            "_id": "6908f1b3228b68610096685b",
+            "name": "ميني بانكيك بالفواكه",
+            "dName": "Mini pancake with fruits",
+            "description": "عشر قطع بانكيك، فواكه (موز، فراولة) وفوندون من الشوكولا السويت البلجيكية",
+            "price": 7500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/561018720.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/561018720.jpeg"
+              }
+            ],
+            "minPrice": 7500,
+            "maxPrice": 7500
+          },
+          
+          {
+            "isNew": false,
             "_id": "6908f1b4228b686100966860",
             "name": "بانكيك بالبستاشيو (تربل)",
             "dName": "Pistachio Pancake (Triple)",
@@ -942,7 +816,7 @@
           {
             "isNew": false,
             "_id": "6908f1b4228b686100966863",
-            "name": "بانكيك كرانش",
+            "name":"(بانكيك کرانج (تربل",
             "dName": "Pancake Crunch",
             "description": "ثلاث قطع بانكيك، بسكويت خاص ايس كريم الفانيليا مع الشوكولا السويت البلجيكية",
             "price": 5500,
@@ -990,32 +864,6 @@
             ],
             "minPrice": 8000,
             "maxPrice": 8000
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b4228b686100966865",
-            "name": "بان كيك دبي",
-            "dName": "Pancake Dubai",
-            "description": "",
-            "price": 10000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/824933354.jpeg",
-                "height": 480,
-                "width": 720,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/824933354.jpeg"
-              }
-            ],
-            "minPrice": 10000,
-            "maxPrice": 10000
           }
         ]
       },
@@ -1030,6 +878,32 @@
         "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/WFL.png",
         "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAIAAADwyuo0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAI0lEQVR4nGNgkGDY/Tr0+v9SNgUGBgYxhlX37Xe+9WdTYAAAcmEIftXf318AAAAASUVORK5CYII=",
         "items": [
+                    {
+            "isNew": false,
+            "_id": "6908f1b4228b68610096686b",
+            "name": "وافل بالشوكولا الثلاث",
+            "dName": "Three Chocolate Waffle",
+            "description": "وافل مع ثلاث أنواع الشوكولا البلجيكية (سويت، وايت، دارك)",
+            "price": 5250,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/938520481.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/938520481.jpeg"
+              }
+            ],
+            "minPrice": 5250,
+            "maxPrice": 5250
+          },
           {
             "isNew": false,
             "_id": "6908f1b4228b686100966867",
@@ -1134,32 +1008,7 @@
             "minPrice": 4500,
             "maxPrice": 4500
           },
-          {
-            "isNew": false,
-            "_id": "6908f1b4228b68610096686b",
-            "name": "وافل بالشوكولا الثلاث",
-            "dName": "Three Chocolate Waffle",
-            "description": "وافل مع ثلاث أنواع الشوكولا البلجيكية (سويت، وايت، دارك)",
-            "price": 5250,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/938520481.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/938520481.jpeg"
-              }
-            ],
-            "minPrice": 5250,
-            "maxPrice": 5250
-          },
+
           {
             "isNew": false,
             "_id": "6908f1b4228b68610096686c",
@@ -1188,58 +1037,6 @@
           },
           {
             "isNew": false,
-            "_id": "6908f1b4228b68610096686d",
-            "name": "کرانش وافل",
-            "dName": "Crunch Waffle",
-            "description": "وافل، قطع البسكويت الخاص، ايس كريم الفانيليا مع نوعين من الشوكولا البلجيكية (سويت، وايت)",
-            "price": 6000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/494883619.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/494883619.jpeg"
-              }
-            ],
-            "minPrice": 6000,
-            "maxPrice": 6000
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b4228b68610096686e",
-            "name": "وافل باللوتس",
-            "dName": "Louts Waffle",
-            "description": "وافل، بسكويت اللوتس ايس كريم الفانيليا مع نوعين من الشوكولا البلجيكية (سويت، وايت)",
-            "price": 7000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/33675011.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/33675011.jpeg"
-              }
-            ],
-            "minPrice": 7000,
-            "maxPrice": 7000
-          },
-          {
-            "isNew": false,
             "_id": "6908f1b4228b68610096686f",
             "name": "ستيك وافل",
             "dName": "Steak Waffle",
@@ -1263,32 +1060,6 @@
             ],
             "minPrice": 5000,
             "maxPrice": 5000
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b4228b686100966870",
-            "name": "ستيك وافل بالبستاشيو",
-            "dName": "Pistachio Steak Waffle",
-            "description": "وافل مع نوعين من الشوكولا البلجيكية (وايت، بستاشيو)",
-            "price": 5500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/121347276.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/121347276.jpeg"
-              }
-            ],
-            "minPrice": 5500,
-            "maxPrice": 5500
           },
           {
             "isNew": false,
@@ -1337,32 +1108,6 @@
                 "height": 375,
                 "width": 600,
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/580363377.jpeg"
-              }
-            ],
-            "minPrice": 5000,
-            "maxPrice": 5000
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b4228b686100966873",
-            "name": "ستيك وافل كرانش",
-            "dName": "Crunch Waffle Stick",
-            "description": "وافل، أرز محمص مع نوعين من الشوكولا البلجيكية ( سويت، دارك)",
-            "price": 5000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/598238871.jpeg",
-                "height": 480,
-                "width": 723,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/598238871.jpeg"
               }
             ],
             "minPrice": 5000,
@@ -1548,33 +1293,7 @@
         "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/BROCOOK.png",
         "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/BROCOOK.png",
         "items": [
-          {
-            "isNew": false,
-            "_id": "6908f1b5228b68610096687c",
-            "name": "براونيز بيتزا",
-            "dName": "Pizza Brownies",
-            "description": "براوني، كريمة تشيز. فواكه (موز. فراولة) مع ثلاث أنواع من الشوكولا البلجيكية (سویت، وایت، دارك)",
-            "price": 6500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/848473429.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/848473429.jpeg"
-              }
-            ],
-            "minPrice": 6500,
-            "maxPrice": 6500
-          },
-          {
+                    {
             "isNew": false,
             "_id": "6908f1b5228b68610096687d",
             "name": "ستيك براونيز",
@@ -1732,32 +1451,6 @@
           },
           {
             "isNew": false,
-            "_id": "6908f1b5228b686100966883",
-            "name": "مقلاة الكوكيز بالبندق",
-            "dName": "Hazelnut cookie pan",
-            "description": "براوني ,كوكيز , بندق , ايس كريم الفانيلا , شوكولا بلجيكية ( سويت ,وايت)",
-            "price": 7750,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/154765459.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/154765459.jpeg"
-              }
-            ],
-            "minPrice": 7750,
-            "maxPrice": 7750
-          },
-          {
-            "isNew": false,
             "_id": "6908f1b5228b686100966884",
             "name": "مقلاية كوكيز باللوتس",
             "dName": "Cookie frying pan with Lotus",
@@ -1785,7 +1478,7 @@
           {
             "isNew": false,
             "_id": "6908f1b5228b686100966885",
-            "name": "مقلاية كوكيز بالبراوني",
+            "name": "مقلاية كوكيز بلشوکولاتە",
             "dName": "Cookie frying pan with Chocolate",
             "description": "براوني, كوكيز، ايس كريم الفانيليا مع ثلاث أنواع من الشوكولا البلجيكية (سويت، وایت، دارك)",
             "price": 7000,
@@ -1836,32 +1529,6 @@
           },
           {
             "isNew": false,
-            "_id": "6908f1b5228b686100966887",
-            "name": "مقلاية كوكيز بالفستق",
-            "dName": "Cookie frying pan with Pistachio",
-            "description": "كوكيز، فستق، ايس كريم الفانيليا مع نوعين من الشوكولا البلجيكية ( سويت، وايت)",
-            "price": 8500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/872459748.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/872459748.jpeg"
-              }
-            ],
-            "minPrice": 8500,
-            "maxPrice": 8500
-          },
-          {
-            "isNew": false,
             "_id": "6908f1b5228b686100966888",
             "name": "كوكيز تربل",
             "dName": "Triple cookies",
@@ -1888,55 +1555,10 @@
           },
           {
             "isNew": false,
-            "_id": "6908f1b5228b686100966889",
-            "name": "كوكيز تربل سوداء (dark)",
-            "dName": "Black Triple Cookies (Dark)",
-            "description": "ثلاث قطع من الكوكيز الدارك مع نوعين من الشوكولا البلجيكية (سويت، وايت)",
-            "price": 4000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/369616813.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/369616813.jpeg"
-              }
-            ],
-            "minPrice": 4000,
-            "maxPrice": 4000
-          },
-          {
-            "isNew": false,
             "_id": "6908f1b5228b68610096688a",
             "name": "ساندويش كوكي",
             "dName": "Cookie sandwich",
             "description": "قطعتين من الكوكيز المغطس بالشوكولا السويت البلجيكية مع ايس كريم الفانيليا",
-            "price": 3500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [],
-            "minPrice": 3500,
-            "maxPrice": 3500
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b5228b68610096688b",
-            "name": "ساندويش كوكي سوداء (dark)",
-            "dName": "Black cookie sandwich (Dark)",
-            "description": "قطعتين من الكوكيز الدارك المغطس بالشوكولا السويت البلجيكية مع ايس كريم الفانيليا",
             "price": 3500,
             "discount": 0,
             "taxRate": 0,
@@ -1956,32 +1578,6 @@
             ],
             "minPrice": 3500,
             "maxPrice": 3500
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b5228b68610096688c",
-            "name": "براوني دبي",
-            "dName": "Brownie Dubai",
-            "description": "",
-            "price": 12000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420549626.jpeg",
-                "height": 480,
-                "width": 720,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420549626.jpeg"
-              }
-            ],
-            "minPrice": 12000,
-            "maxPrice": 12000
           }
         ]
       },
@@ -1996,32 +1592,6 @@
         "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/CHS.png",
         "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/ALuuo+zl7zUzLQQDAADW3dLw8b7d0sB6dnYA7+C77702//dZ//z2ALesnt3FpO3gwIGCiCBpIG0njAcBAAAAAElFTkSuQmCC",
         "items": [
-          {
-            "isNew": false,
-            "_id": "6908f1b5228b68610096688e",
-            "name": "تشيز كيك عنتاب",
-            "dName": "Entebbe cheesecake",
-            "description": "تشيز كيك بالبستاشيو الخاص بتشوكليت سرای",
-            "price": 5750,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/907177076.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/907177076.jpeg"
-              }
-            ],
-            "minPrice": 5750,
-            "maxPrice": 5750
-          },
           {
             "isNew": false,
             "_id": "6908f1b6228b68610096688f",
@@ -2164,32 +1734,6 @@
             ],
             "minPrice": 6000,
             "maxPrice": 6000
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b6228b686100966895",
-            "name": "فوندون كيك بالشوكولا البيضاء",
-            "dName": "White Chocolate Fondant cake",
-            "description": "فوندون، کاراميل، ايس كريم الفانيليا مع الشوكولا الوايت البلجيكية",
-            "price": 6000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/212946997.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/212946997.jpeg"
-              }
-            ],
-            "minPrice": 6000,
-            "maxPrice": 6000
           }
         ]
       },
@@ -2281,33 +1825,7 @@
             "minPrice": 2500,
             "maxPrice": 2500
           },
-          {
-            "isNew": false,
-            "_id": "6908f1b6228b68610096689a",
-            "name": "كرسبي كاب",
-            "dName": "Crispy Cap",
-            "description": "كريمة الباتسير الخاصة، كريب مقرمش فراولة، كريمة تشيز مع نوعين من الشوكولا البلجيكية (سويت، وايت)",
-            "price": 5000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/841244830.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/841244830.jpeg"
-              }
-            ],
-            "minPrice": 5000,
-            "maxPrice": 5000
-          },
-          {
+                    {
             "isNew": false,
             "_id": "6908f1b6228b68610096689b",
             "name": "ستيك اناناس",
@@ -2335,11 +1853,11 @@
           },
           {
             "isNew": false,
-            "_id": "6908f1b6228b68610096689c",
-            "name": "ايس كريم بستاشيو",
-            "dName": "Pastaccio ice cream",
-            "description": "ثلاث كرات من ايس كريم بستاشيو مع رشة فستق مع شوكولا بلجيكية",
-            "price": 6500,
+            "_id": "6908f1b6228b68610096689a",
+            "name": "كرسبي كاب",
+            "dName": "Crispy Cap",
+            "description": "كريمة الباتسير الخاصة، كريب مقرمش فراولة، كريمة تشيز مع نوعين من الشوكولا البلجيكية (سويت، وايت)",
+            "price": 5000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -2350,14 +1868,14 @@
             "isActive": true,
             "images": [
               {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420127820.jpeg",
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/841244830.jpeg",
                 "height": 375,
                 "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420127820.jpeg"
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/841244830.jpeg"
               }
             ],
-            "minPrice": 6500,
-            "maxPrice": 6500
+            "minPrice": 5000,
+            "maxPrice": 5000
           },
           {
             "isNew": false,
@@ -2387,84 +1905,6 @@
           },
           {
             "isNew": false,
-            "_id": "6908f1b6228b68610096689e",
-            "name": "لوتس كاب",
-            "dName": "Lotus cap",
-            "description": "كريمة الباتسير الخاصة، بسكوين اللوتس، موز، كريمة تشيز مع نوعين من الشوكولا البلجيكية (سویت وایت)",
-            "price": 5000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/109543914.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/109543914.jpeg"
-              }
-            ],
-            "minPrice": 5000,
-            "maxPrice": 5000
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b6228b68610096689f",
-            "name": "مارشيملو كاب",
-            "dName": "marshmallow cap",
-            "description": "قطع من المارشيملو مع شوكولا بلجيكية",
-            "price": 4500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/724637200.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/724637200.jpeg"
-              }
-            ],
-            "minPrice": 4500,
-            "maxPrice": 4500
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b6228b6861009668a0",
-            "name": "كرانش كاب",
-            "dName": "Crunch cap",
-            "description": "ايس كريم الفانيليا، ارز محمص مع نوعين من الشوكولا البلجيكية (سويت، وايت)",
-            "price": 5000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/978604763.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/978604763.jpeg"
-              }
-            ],
-            "minPrice": 5000,
-            "maxPrice": 5000
-          },
-          {
-            "isNew": false,
             "_id": "6908f1b6228b6861009668a1",
             "name": "ايس كريم كاب",
             "dName": "Ice Cream Cap",
@@ -2484,7 +1924,33 @@
                 "height": 375,
                 "width": 600,
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/439503809.jpeg"
+              },
+                        {
+            "isNew": false,
+            "_id": "6908f1b6228b68610096689c",
+            "name": "ايس كريم بستاشيو",
+            "dName": "Pastaccio ice cream",
+            "description": "ثلاث كرات من ايس كريم بستاشيو مع رشة فستق مع شوكولا بلجيكية",
+            "price": 6500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420127820.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420127820.jpeg"
               }
+            ],
+            "minPrice": 6500,
+            "maxPrice": 6500
+          }
             ],
             "minPrice": 4500,
             "maxPrice": 4500
@@ -2501,32 +1967,6 @@
         "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/CHDUI.png",
         "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/CHDUI.png",
         "items": [
-          {
-            "isNew": false,
-            "_id": "6908f1b7228b6861009668a3",
-            "name": "شوكولاتة دبي",
-            "dName": "Chocolate Dubai",
-            "description": "",
-            "price": 10000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/999616797.jpeg",
-                "height": 480,
-                "width": 270,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/999616797.jpeg"
-              }
-            ],
-            "minPrice": 10000,
-            "maxPrice": 10000
-          }
         ]
       },
       {

@@ -16,33 +16,7 @@
         "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/CRP.png",
         "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/ALS4vM7R1efq7/r8/wC5tLBqSSCVeVfPxLkAVUMzLAAAOBYAtKOSAD1ERCkrJ2ZmZbS2u/fqGLfxm0bLAAAAAElFTkSuQmCC",
         "items": [
-          {
-            "isNew": false,
-            "_id": "6908f1b2228b68610096683f",
-            "name": "کریپ بڕاونی",
-            "dName": "Crepe Brownies",
-            "description": "کریپ، بڕاونی و سێ جۆر لە شکولاتەی بەلجیکی (سویت، وایت، داڕك)",
-            "price": 6500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/744674318.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/744674318.jpeg"
-              }
-            ],
-            "minPrice": 6500,
-            "maxPrice": 6500
-          },
-          {
+                    {
             "isNew": false,
             "_id": "6908f1b2228b686100966840",
             "name": "کریپی سێ شکولاتە",
@@ -70,8 +44,35 @@
           },
           {
             "isNew": false,
+            "_id": "6908f1b2228b68610096683f",
+            "name": "کریپ بڕاونی",
+            "dName": "Crepe Brownies",
+            "description": "کریپ، بڕاونی و سێ جۆر لە شکولاتەی بەلجیکی (سویت، وایت، داڕك)",
+            "price": 6500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/744674318.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/744674318.jpeg"
+              }
+            ],
+            "minPrice": 6500,
+            "maxPrice": 6500
+          },
+
+          {
+            "isNew": false,
             "_id": "6908f1b2228b686100966841",
-            "name": "مارشمیلۆ کریپ",
+            "name":  "کریپی مارشمێلۆ ",
             "dName": "Marshmallow Crepe",
             "description": "کریپ، مارشمیلۆ و دوو جۆر لە شکولاتەی بەلجیکی (سویت، وایت)",
             "price": 5500,
@@ -97,7 +98,7 @@
           {
             "isNew": false,
             "_id": "6908f1b3228b686100966842",
-            "name": "کوکیز کریپ",
+            "name": "کریپی کوکیز ",
             "dName": "Cookis Crepe",
             "description": "کریپ، کوکیز و دوو جۆر شکولاتەی بەلجیکی (سویت، وایت)",
             "price": 6500,
@@ -123,7 +124,7 @@
           {
             "isNew": false,
             "_id": "6908f1b3228b686100966843",
-            "name": "کریپی مینی فیتوتشینی",
+            "name": "کریپی فیتوتشینی بچوک",
             "dName": "Mini Fettuccine Crepe",
             "description": "کریپ، ئایس کرێم ڤانێلا و شکولاتەی سویتی بەلجیکی(١ کەس)",
             "price": 5000,
@@ -145,6 +146,32 @@
             ],
             "minPrice": 5000,
             "maxPrice": 5000
+          },
+                  {
+            "isNew": false,
+            "_id": "6908f1b3228b686100966845",
+            "name": "کریپی فیتوتشینی گەورە",
+            "dName": "Fettuccine large Crepe",
+            "description": "کریپ، ئایس کرێم ڤانێلا و شکولاتەی سویتی بەلجیکی(بۆ دوو کەس)",
+            "price": 7500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/836626345.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/836626345.jpeg"
+              }
+            ],
+            "minPrice": 7500,
+            "maxPrice": 7500
           },
           {
             "isNew": false,
@@ -172,32 +199,7 @@
             "minPrice": 6500,
             "maxPrice": 6500
           },
-          {
-            "isNew": false,
-            "_id": "6908f1b3228b686100966845",
-            "name": "کریپی فیتوتشینی گەورە",
-            "dName": "Fettuccine large Crepe",
-            "description": "کریپ، ئایس کرێم ڤانێلا و شکولاتەی سویتی بەلجیکی(بۆ دوو کەس)",
-            "price": 7500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/836626345.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/836626345.jpeg"
-              }
-            ],
-            "minPrice": 7500,
-            "maxPrice": 7500
-          },
+  
           {
             "isNew": false,
             "_id": "6908f1b3228b686100966846",
@@ -252,32 +254,6 @@
           },
           {
             "isNew": false,
-            "_id": "6908f1b3228b686100966848",
-            "name": "کریپ بە بندق",
-            "dName": "Crepe with hazelnuts",
-            "description": "کریپ بە بندق و شکولاتەی سپی و سویتی بەلجیکی",
-            "price": 6500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/118869185.jpeg",
-                "height": 480,
-                "width": 360,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/118869185.jpeg"
-              }
-            ],
-            "minPrice": 6500,
-            "maxPrice": 6500
-          },
-          {
-            "isNew": false,
             "_id": "6908f1b3228b686100966849",
             "name": "کریپ بە میوە",
             "dName": "Fruit Crepe",
@@ -302,13 +278,13 @@
             "minPrice": 6500,
             "maxPrice": 6500
           },
-          {
+                    {
             "isNew": false,
-            "_id": "6908f1b3228b68610096684a",
-            "name": "کریپ بە ئۆریۆی سرە",
-            "dName": "Oreo crepe bundle",
-            "description": "کریپ، کرێمی تشیز، ئۆریۆ لەگەڵ شکولاتەی سویت",
-            "price": 7000,
+            "_id": "6908f1b3228b68610096684d",
+            "name": "کریپی سوشی",
+            "dName": "Sushi Crepe",
+            "description": "کریپ، بڕاونی، کرێمی تشیز کێك و شکولاتەی سویتی بەلجیکی",
+            "price": 6500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -319,19 +295,19 @@
             "isActive": true,
             "images": [
               {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/519246016.jpeg",
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/672682434.jpeg",
                 "height": 375,
                 "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/519246016.jpeg"
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/672682434.jpeg"
               }
             ],
-            "minPrice": 7000,
-            "maxPrice": 7000
+            "minPrice": 6500,
+            "maxPrice": 6500
           },
           {
             "isNew": false,
             "_id": "6908f1b3228b68610096684b",
-            "name": "کریپ سوشی زەریف",
+            "name": "کریپ سوشی شلک",
             "dName": "Zarif sushi crepe",
             "description": "کریپ، کرێمەی باتیسر، شلیك، پۆدرەی شەکر و شکولاتەی سویتی بەلجیکی",
             "price": 6000,
@@ -379,32 +355,6 @@
             ],
             "minPrice": 8500,
             "maxPrice": 8500
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b3228b68610096684d",
-            "name": "کریپی سوشی",
-            "dName": "Sushi Crepe",
-            "description": "کریپ، بڕاونی، کرێمی تشیز کێك و شکولاتەی سویتی بەلجیکی",
-            "price": 6500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/672682434.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/672682434.jpeg"
-              }
-            ],
-            "minPrice": 6500,
-            "maxPrice": 6500
           },
           {
             "isNew": false,
@@ -509,32 +459,6 @@
             ],
             "minPrice": 6500,
             "maxPrice": 6500
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b3228b686100966852",
-            "name": "کریپ بە قرفەی سرە",
-            "dName": "Bunch of Cinnamon crepe",
-            "description": "کریپ، کرێمی تشیز کێك، مۆز، قرفە بە شکولاتەی سویتی بەلجیکی",
-            "price": 4500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/58233509.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/58233509.jpeg"
-              }
-            ],
-            "minPrice": 4500,
-            "maxPrice": 4500
           }
         ]
       },
@@ -577,8 +501,112 @@
           },
           {
             "isNew": false,
+            "_id": "6908f1b4228b68610096685c",
+            "name": "پانکێک بە کرێمی فستق",
+            "dName": "Pancake with pistachio cream",
+            "description": "پێنج پارچە پانکێک، کرێمی فستق، فستق، دوو جۆر شکولاتەی بەلجیکی (شیرین، فستق)",
+            "price": 8750,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/266963945.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/266963945.jpeg"
+              }
+            ],
+            "minPrice": 8750,
+            "maxPrice": 8750
+          },
+          {
+            "isNew": false,
+            "_id": "6908f1b4228b68610096685d",
+            "name": "پانکێک بە کرێمی پەنیر",
+            "dName": "Pancake with cheese cream",
+            "description": "چوار پارچە پانکێک، کرێمی تایبەت، فستق، دوو جۆر شکولاتەی بەلجیکی",
+            "price": 6750,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/403255133.jpeg",
+                "height": 480,
+                "width": 720,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/403255133.jpeg"
+              }
+            ],
+            "minPrice": 6750,
+            "maxPrice": 6750
+          },
+          {
+            "isNew": false,
+            "_id": "6908f1b4228b68610096685e",
+            "name": "پانکێک کاڕامێل",
+            "dName": "Caramel pancake",
+            "description": "پێنج پارچە پانکێک، کەڕامێل، قەرفە، شەکری پۆدرە، شکولاتەی شیرینی بەلجیکی",
+            "price": 7000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/889095756.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/889095756.jpeg"
+              }
+            ],
+            "minPrice": 7000,
+            "maxPrice": 7000
+          },
+          {
+            "isNew": false,
+            "_id": "6908f1b4228b68610096685f",
+            "name": "پانکێک بە میوە",
+            "dName": "Fruit pancake",
+            "description": "پێنج پارچە پانکێک، میوە (مۆز، شلیک، ئەناناس، کیوی)، شکولاتەی شیرینی بەلجیکی",
+            "price": 7500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/945594421.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/945594421.jpeg"
+              }
+            ],
+            "minPrice": 7500,
+            "maxPrice": 7500
+          },
+          {
+            "isNew": false,
             "_id": "6908f1b3228b686100966856",
-            "name": "مینی پانکێک شوکولا",
+            "name": "مینی پانکێک شوکولاتە",
             "dName": "Mini pancake with chocolate",
             "description": "پێنج پارچە پانکێک بە شکولاتەی بەلجیکی",
             "price": 4500,
@@ -681,32 +709,6 @@
           },
           {
             "isNew": false,
-            "_id": "6908f1b3228b68610096685a",
-            "name": "مینی پانکێک ستیک",
-            "dName": "Mini pancake steak",
-            "description": "مینی پانکێک، کریپی ناسک، مۆز، شلیک، دوو جۆر شکولاتەی بەلجیکی (شیرین، سپی)",
-            "price": 5000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/119087813.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/119087813.jpeg"
-              }
-            ],
-            "minPrice": 5000,
-            "maxPrice": 5000
-          },
-          {
-            "isNew": false,
             "_id": "6908f1b3228b68610096685b",
             "name": "مینی پانکێک بە میوە",
             "dName": "Mini pancake with fruits",
@@ -731,110 +733,7 @@
             "minPrice": 7500,
             "maxPrice": 7500
           },
-          {
-            "isNew": false,
-            "_id": "6908f1b4228b68610096685c",
-            "name": "پانکێک بە کرێمی فستق",
-            "dName": "Pancake with pistachio cream",
-            "description": "پێنج پارچە پانکێک، کرێمی فستق، فستق، دوو جۆر شکولاتەی بەلجیکی (شیرین، فستق)",
-            "price": 8750,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/266963945.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/266963945.jpeg"
-              }
-            ],
-            "minPrice": 8750,
-            "maxPrice": 8750
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b4228b68610096685d",
-            "name": "پانکێک بە کرێمی پەنیر",
-            "dName": "Pancake with cheese cream",
-            "description": "چوار پارچە پانکێک، کرێمی تایبەت، فستق، دوو جۆر شکولاتەی بەلجیکی",
-            "price": 6750,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/403255133.jpeg",
-                "height": 480,
-                "width": 720,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/403255133.jpeg"
-              }
-            ],
-            "minPrice": 6750,
-            "maxPrice": 6750
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b4228b68610096685e",
-            "name": "پانکێک کەڕامێل",
-            "dName": "Caramel pancake",
-            "description": "پێنج پارچە پانکێک، کەڕامێل، قەرفە، شەکری پۆدرە، شکولاتەی شیرینی بەلجیکی",
-            "price": 7000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/889095756.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/889095756.jpeg"
-              }
-            ],
-            "minPrice": 7000,
-            "maxPrice": 7000
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b4228b68610096685f",
-            "name": "پانکێک بە میوە",
-            "dName": "Fruit pancake",
-            "description": "پێنج پارچە پانکێک، میوە (مۆز، شلیک، ئەناناس، کیوی)، شکولاتەی شیرینی بەلجیکی",
-            "price": 7500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/945594421.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/945594421.jpeg"
-              }
-            ],
-            "minPrice": 7500,
-            "maxPrice": 7500
-          },
+          
           {
             "isNew": false,
             "_id": "6908f1b4228b686100966860",
@@ -978,111 +877,7 @@
         "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/WFL.png",
         "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAIAAADwyuo0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAI0lEQVR4nGNgkGDY/Tr0+v9SNgUGBgYxhlX37Xe+9WdTYAAAcmEIftXf318AAAAASUVORK5CYII=",
         "items": [
-          {
-            "isNew": false,
-            "_id": "6908f1b4228b686100966867",
-            "name": "وافل مۆز",
-            "dName": "Banana Waffle",
-            "description": "وافل، موز مع ثلاث أنواع من الشوكولا البلجيكية (سويت، وايت، دارك)",
-            "price": 5500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/183134657.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/183134657.jpeg"
-              }
-            ],
-            "minPrice": 5500,
-            "maxPrice": 5500
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b4228b686100966868",
-            "name": "وافل شلیك",
-            "dName": "Strawberries Waffle",
-            "description": "وافل و شلیك و سێ جۆر شوکولاتەی بەلجیکی (شیرین، سپی، دارك)",
-            "price": 7000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/87398982.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/87398982.jpeg"
-              }
-            ],
-            "minPrice": 7000,
-            "maxPrice": 7000
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b4228b686100966869",
-            "name": "وافل میوە",
-            "dName": "Fruit Waffle",
-            "description": "وافل، میوە (مۆز، شلیك، ئەناناس، کیوی) لەگەڵ شوکولاتەی شیرینی بەلجیکی",
-            "price": 7500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/604689776.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/604689776.jpeg"
-              }
-            ],
-            "minPrice": 7500,
-            "maxPrice": 7500
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b4228b68610096686a",
-            "name": "وافل کارامێل",
-            "dName": "Caramel Waffle",
-            "description": "وافل و برنج و ئایسکرێمی ڤانێلا و کارامێل و شوکولاتەی شیرینی بەلجیکی",
-            "price": 4500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/163394321.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/163394321.jpeg"
-              }
-            ],
-            "minPrice": 4500,
-            "maxPrice": 4500
-          },
-          {
+                    {
             "isNew": false,
             "_id": "6908f1b4228b68610096686b",
             "name": " وافلی سێ شوکولاتە",
@@ -1110,11 +905,115 @@
           },
           {
             "isNew": false,
+            "_id": "6908f1b4228b686100966867",
+            "name": "وافلی مۆز",
+            "dName": "Banana Waffle",
+            "description": "وافل، موز مع ثلاث أنواع من الشوكولا البلجيكية (سويت، وايت، دارك)",
+            "price": 5500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/183134657.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/183134657.jpeg"
+              }
+            ],
+            "minPrice": 5500,
+            "maxPrice": 5500
+          },
+          {
+            "isNew": false,
+            "_id": "6908f1b4228b686100966868",
+            "name": "وافلی شلیك",
+            "dName": "Strawberries Waffle",
+            "description": "وافل و شلیك و سێ جۆر شوکولاتەی بەلجیکی (شیرین، سپی، دارك)",
+            "price": 7000,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/87398982.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/87398982.jpeg"
+              }
+            ],
+            "minPrice": 7000,
+            "maxPrice": 7000
+          },
+          {
+            "isNew": false,
+            "_id": "6908f1b4228b686100966869",
+            "name": "وافلی میوە",
+            "dName": "Fruit Waffle",
+            "description": "وافل، میوە (مۆز، شلیك، ئەناناس، کیوی) لەگەڵ شوکولاتەی شیرینی بەلجیکی",
+            "price": 7500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/604689776.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/604689776.jpeg"
+              }
+            ],
+            "minPrice": 7500,
+            "maxPrice": 7500
+          },
+          {
+            "isNew": false,
+            "_id": "6908f1b4228b68610096686a",
+            "name": "وافلی کارامێل",
+            "dName": "Caramel Waffle",
+            "description": "وافل و برنج و ئایسکرێمی ڤانێلا و کارامێل و شوکولاتەی شیرینی بەلجیکی",
+            "price": 4500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/163394321.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/163394321.jpeg"
+              }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
+          {
+            "isNew": false,
             "_id": "6908f1b4228b68610096686c",
             "name": "ئۆریۆ وافل",
             "dName": "Oreo Waffle",
             "description": "وافل، بسکیتی ئۆریۆ، ئایسکرێمی ڤانێلا لەگەڵ سێ جۆر شوکولاتەی بەلجیکی (شیرین، سپی، دارك)",
-            "price": 8500,
+            "price": 5500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1131,60 +1030,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/838819315.jpeg"
               }
             ],
-            "minPrice": 8500,
-            "maxPrice": 8500
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b4228b68610096686d",
-            "name": "کرانچ وافل",
-            "dName": "Crunch Waffle",
-            "description": "وافل، پارچەی بسکویتی تایبەت، ئایسکرێمی ڤانێلا لەگەڵ دوو جۆر شوکولاتەی بەلجیکی (شیرین، سپی)",
-            "price": 6000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/494883619.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/494883619.jpeg"
-              }
-            ],
-            "minPrice": 6000,
-            "maxPrice": 6000
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b4228b68610096686e",
-            "name": "لۆوتس وافل",
-            "dName": "Louts Waffle",
-            "description": "وافل، بسکیتی لۆتەس، ئایسکرێمی ڤانێلا لەگەڵ دوو جۆر شوکولاتەی بەلجیکی (شیرین، سپی)",
-            "price": 7000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/33675011.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/33675011.jpeg"
-              }
-            ],
-            "minPrice": 7000,
-            "maxPrice": 7000
+            "minPrice": 5500,
+            "maxPrice": 5500
           },
           {
             "isNew": false,
@@ -1211,32 +1058,6 @@
             ],
             "minPrice": 5000,
             "maxPrice": 5000
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b4228b686100966870",
-            "name": "وافل ستیکی فستق",
-            "dName": "Pistachio Steak Waffle",
-            "description": "وافل لەگەڵ دوو جۆر شوکولاتەی بەلجیکی (سپی، فستق)",
-            "price": 5500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/121347276.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/121347276.jpeg"
-              }
-            ],
-            "minPrice": 5500,
-            "maxPrice": 5500
           },
           {
             "isNew": false,
@@ -1285,32 +1106,6 @@
                 "height": 375,
                 "width": 600,
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/580363377.jpeg"
-              }
-            ],
-            "minPrice": 5000,
-            "maxPrice": 5000
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b4228b686100966873",
-            "name": "کرانچ وافل ستیک",
-            "dName": "Crunch Waffle Stick",
-            "description": "وافل، برنج لەگەڵ دوو جۆر شوکولاتەی بەلجیکی (شیرین، دارك)",
-            "price": 5000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/598238871.jpeg",
-                "height": 480,
-                "width": 723,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/598238871.jpeg"
               }
             ],
             "minPrice": 5000,
@@ -1654,34 +1449,8 @@
           },
           {
             "isNew": false,
-            "_id": "6908f1b5228b686100966883",
-            "name": "کوکیز بە بندق",
-            "dName": "Hazelnut cookie pan",
-            "description": "بڕاونی، کوکیز، بندق، ئایس کرێم ڤانێلا، دوو جۆر شکولاتەی بەلجیکی (شیرین، سپی)",
-            "price": 7750,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/154765459.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/154765459.jpeg"
-              }
-            ],
-            "minPrice": 7750,
-            "maxPrice": 7750
-          },
-          {
-            "isNew": false,
             "_id": "6908f1b5228b686100966884",
-            "name": "کوکیز بە لۆتەس",
+            "name": " تاوەی کوکیز بە لۆتەس",
             "dName": "Cookie frying pan with Lotus",
             "description": "کوکیز، بسکویتی لۆتەس، ئایس کرێم ڤانێلا، دوو جۆر شکولاتەی بەلجیکی (شیرین، سپی)",
             "price": 7000,
@@ -1707,7 +1476,7 @@
           {
             "isNew": false,
             "_id": "6908f1b5228b686100966885",
-            "name": "کوکیز بە بڕاونی",
+            "name": " تاوەی کوکیز بە شوکولاتە ",
             "dName": "Cookie frying pan with Chocolate",
             "description": "بڕاونی، کوکیز، ئایس کرێمی ڤانێلا، سێ جۆر شکولاتەی بەلجیکی (شیرین، سپی، ڕەش)",
             "price": 7000,
@@ -1733,7 +1502,7 @@
           {
             "isNew": false,
             "_id": "6908f1b5228b686100966886",
-            "name": "کوکیز بە ئۆریۆ",
+            "name": " تاوەی کوکیز بە ئۆریۆ",
             "dName": "Cookie frying pan with Oreo",
             "description": "کوکیز، بسکویتی ئۆریۆ، ئایس کرێم ڤانێلا سێ دوو جۆر شکولاتەی بەلجیکی (شیرین، سپی، ڕەش)",
             "price": 6750,
@@ -1755,32 +1524,6 @@
             ],
             "minPrice": 6750,
             "maxPrice": 6750
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b5228b686100966887",
-            "name": "کوکیز بە فستق",
-            "dName": "Cookie frying pan with Pistachio",
-            "description": "کوکیز، فستق، ئایس کرێم ڤانێلا، دوو جۆر شکولاتەی بەلجیکی (شیرین، سپی)",
-            "price": 8500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/872459748.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/872459748.jpeg"
-              }
-            ],
-            "minPrice": 8500,
-            "maxPrice": 8500
           },
           {
             "isNew": false,
@@ -1810,34 +1553,8 @@
           },
           {
             "isNew": false,
-            "_id": "6908f1b5228b686100966889",
-            "name": "کوکیز بە تەربەلی ڕەش",
-            "dName": "Black Triple Cookies (Dark)",
-            "description": "سێ پارچەی کوکیزی ڕەش لەگەڵ دوو جۆر شکولاتەی بەلجیکی (شیرین، سپی)",
-            "price": 4000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/369616813.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/369616813.jpeg"
-              }
-            ],
-            "minPrice": 4000,
-            "maxPrice": 4000
-          },
-          {
-            "isNew": false,
             "_id": "6908f1b5228b68610096688a",
-            "name": "ساندویشی کوکی",
+            "name": "ساندویشی کوکیز",
             "dName": "Cookie sandwich",
             "description": "دوو پارچە کوکیزی داپۆشراو بە شکولاتەی بەلجیکی شیرین لەگەڵ ئایس کرێمی ڤانێلا",
             "price": 3500,
@@ -1849,7 +1566,8 @@
             "allergens": [],
             "hasAddons": false,
             "isActive": true,
-            "images": [  {
+            "images": [  
+              {
                 "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/913877083.jpeg",
                 "height": 375,
                 "width": 600,
@@ -1871,32 +1589,6 @@
         "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/CHS.png",
         "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVR4nAE0AMv/ALuuo+zl7zUzLQQDAADW3dLw8b7d0sB6dnYA7+C77702//dZ//z2ALesnt3FpO3gwIGCiCBpIG0njAcBAAAAAElFTkSuQmCC",
         "items": [
-          {
-            "isNew": false,
-            "_id": "6908f1b5228b68610096688e",
-            "name": "تشیز کێکی عەتاب",
-            "dName": "Entebbe cheesecake",
-            "description": "تشیز کێك بە فستقی تایبەت و چوکلێت سەرای",
-            "price": 5750,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/907177076.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/907177076.jpeg"
-              }
-            ],
-            "minPrice": 5750,
-            "maxPrice": 5750
-          },
           {
             "isNew": false,
             "_id": "6908f1b6228b68610096688f",
@@ -2039,32 +1731,6 @@
             ],
             "minPrice": 6000,
             "maxPrice": 6000
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b6228b686100966895",
-            "name": "کێکی فۆندانتی شوکولاتەی سپی",
-            "dName": "White Chocolate Fondant cake",
-            "description": "ئایسکرێمی فۆندانت، کارامێل، ڤانێلا لەگەڵ شوکولاتەی سپی بەلجیکی",
-            "price": 6000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/212946997.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/212946997.jpeg"
-              }
-            ],
-            "minPrice": 6000,
-            "maxPrice": 6000
           }
         ]
       },
@@ -2107,7 +1773,7 @@
           {
             "isNew": false,
             "_id": "6908f1b6228b686100966898",
-            "name": "ستیکی کیوی",
+            "name": "ستیکی کێوی",
             "dName": "Kiwi steak",
             "description": "کیوی، دوو جۆ شکولاتەی بەلجیکی (شیرین، سپی)",
             "price": 2500,
@@ -2133,7 +1799,7 @@
           {
             "isNew": false,
             "_id": "6908f1b6228b686100966899",
-            "name": "ستیکی شلیك",
+            "name": "ستیکی شلك",
             "dName": "Strawberry Steak",
             "description": "شلیك، دوو جۆ شکولاتەی بەلجیکی (شیرین، سپی)",
             "price": 2500,
@@ -2156,33 +1822,7 @@
             "minPrice": 2500,
             "maxPrice": 2500
           },
-          {
-            "isNew": false,
-            "_id": "6908f1b6228b68610096689a",
-            "name": "قاپی کریسپ",
-            "dName": "Crispy Cap",
-            "description": "کرێمەی پاستیری تایبەت، کرێپی ناسکی شلیك، کرێمی تشیز، دوو جۆ شکولاتەی بەلجیکی (شیرین، سپی)",
-            "price": 5000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/841244830.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/841244830.jpeg"
-              }
-            ],
-            "minPrice": 5000,
-            "maxPrice": 5000
-          },
-          {
+                    {
             "isNew": false,
             "_id": "6908f1b6228b68610096689b",
             "name": "ستیکی ئەناناس",
@@ -2210,11 +1850,11 @@
           },
           {
             "isNew": false,
-            "_id": "6908f1b6228b68610096689c",
-            "name": "ئایس کرێم فستق",
-            "dName": "Pastaccio ice cream",
-            "description": "سێ تۆپ ئایس کرێم فستق، ووردە فستق، شکولاتەی بەلجیکی",
-            "price": 6500,
+            "_id": "6908f1b6228b68610096689a",
+            "name": "قاپی کریسپی",
+            "dName": "Crispy Cap",
+            "description": "کرێمەی پاستیری تایبەت، کرێپی ناسکی شلیك، کرێمی تشیز، دوو جۆ شکولاتەی بەلجیکی (شیرین، سپی)",
+            "price": 5000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -2225,14 +1865,14 @@
             "isActive": true,
             "images": [
               {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420127820.jpeg",
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/841244830.jpeg",
                 "height": 375,
                 "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420127820.jpeg"
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/841244830.jpeg"
               }
             ],
-            "minPrice": 6500,
-            "maxPrice": 6500
+            "minPrice": 5000,
+            "maxPrice": 5000
           },
           {
             "isNew": false,
@@ -2262,84 +1902,6 @@
           },
           {
             "isNew": false,
-            "_id": "6908f1b6228b68610096689e",
-            "name": "قاپی لۆتەس",
-            "dName": "Lotus cap",
-            "description": "کرێمەی باستیری تایبەت، بسکویتی لۆتەس، مۆز، کرێمەی تشیز، دوو جۆ شکولاتەی بەلجیکی (شیرین، سپی)",
-            "price": 5000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/109543914.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/109543914.jpeg"
-              }
-            ],
-            "minPrice": 5000,
-            "maxPrice": 5000
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b6228b68610096689f",
-            "name": "قاپی مارشیمێلۆ",
-            "dName": "marshmallow cap",
-            "description": "پارچەی ماڕشمیلۆ، شکولاتەی بەلجیکی",
-            "price": 4500,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/724637200.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/724637200.jpeg"
-              }
-            ],
-            "minPrice": 4500,
-            "maxPrice": 4500
-          },
-          {
-            "isNew": false,
-            "_id": "6908f1b6228b6861009668a0",
-            "name": "قاپی کڕەنچ",
-            "dName": "Crunch cap",
-            "description": "ئایس کرێم ڤانێلا، برنجی مەحمەس، دوو جۆ شکولاتەی بەلجیکی (شیرین، سپی)",
-            "price": 5000,
-            "discount": 0,
-            "taxRate": 0,
-            "calories": 0,
-            "feedbackType": 2,
-            "rating": 0,
-            "allergens": [],
-            "hasAddons": false,
-            "isActive": true,
-            "images": [
-              {
-                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/978604763.jpeg",
-                "height": 375,
-                "width": 600,
-                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/978604763.jpeg"
-              }
-            ],
-            "minPrice": 5000,
-            "maxPrice": 5000
-          },
-          {
-            "isNew": false,
             "_id": "6908f1b6228b6861009668a1",
             "name": "قاپی ئایس کرێم",
             "dName": "Ice Cream Cap",
@@ -2359,7 +1921,34 @@
                 "height": 375,
                 "width": 600,
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/439503809.jpeg"
+              },
+
+          {
+            "isNew": false,
+            "_id": "6908f1b6228b68610096689c",
+            "name": "ئایس کرێم فستەق",
+            "dName": "Pastaccio ice cream",
+            "description": "سێ تۆپ ئایس کرێم فستق، ووردە فستق، شکولاتەی بەلجیکی",
+            "price": 6500,
+            "discount": 0,
+            "taxRate": 0,
+            "calories": 0,
+            "feedbackType": 2,
+            "rating": 0,
+            "allergens": [],
+            "hasAddons": false,
+            "isActive": true,
+            "images": [
+              {
+                "url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420127820.jpeg",
+                "height": 375,
+                "width": 600,
+                "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420127820.jpeg"
               }
+            ],
+            "minPrice": 6500,
+            "maxPrice": 6500
+          }
             ],
             "minPrice": 4500,
             "maxPrice": 4500

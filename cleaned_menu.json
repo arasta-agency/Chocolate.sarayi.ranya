@@ -11,7 +11,7 @@
           "id": "66e055f4c8cb970373616414",
           "name": "Breakfast for 1",
           "description": "First breakfast",
-          "price": 8000,
+          "price": 5500,
           "is_active": true,
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643810285.jpeg",
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643810285.jpeg",
@@ -21,7 +21,17 @@
           "id": "66e055f4c8cb970373616415",
           "name": "Breakfast for 2",
           "description": "Second type of breakfast",
-          "price": 15000,
+          "price": 10000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/321700678.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/321700678.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/321700678.jpeg"
+        },
+                {
+          "id": "66e055f4c8cb970373616415",
+          "name": "Breakfast for 4",
+          "description": "Second type of breakfast",
+          "price": 20000,
           "is_active": true,
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/321700678.jpeg",
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/321700678.jpeg",
@@ -39,7 +49,7 @@
         },
         {
           "id": "66e055f4c8cb97037361641f",
-          "name": "Extra Cheese",
+          "name": " Cheese with potatos",
           "description": "",
           "price": 4500,
           "is_active": true,
@@ -47,17 +57,6 @@
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/712094384.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/712094384.jpeg"
         },
-        {
-          "id": "66e055f4c8cb970373616421",
-          "name": "Mushroom and tomato",
-          "description": "",
-          "price": 3500,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/730078670.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/730078670.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/730078670.jpeg"
-        },
-
         {
           "id": "66e055f4c8cb970373616423",
           "name": "Finger potatos",
@@ -150,20 +149,10 @@
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/393229532.jpeg"
         },
         {
-          "id": "6768668ffc92f8671caef80e",
-          "name": "Shish Meal",
-          "description": "",
-          "price": 6500,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/119790419.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/119790419.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/119790419.jpeg"
-        },
-        {
           "id": "6768668ffc92f8671caef80f",
           "name": "Special Finger",
           "description": "",
-          "price": 5000,
+          "price": 4000,
           "is_active": true,
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/219147999.jpeg",
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/219147999.jpeg",

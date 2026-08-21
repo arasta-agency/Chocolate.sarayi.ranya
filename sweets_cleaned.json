@@ -7,6 +7,16 @@
       "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/CRP.png",
       "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/CRP.png",
       "items": [
+                {
+          "id": "6908f1b2228b686100966840",
+          "name": "Crepe Three Types Of Chocolate",
+          "description": "Crepe with three kinds of Belgian chocolate (sweet, white, dark)",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643703016.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643703016.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643703016.jpeg"
+        },
         {
           "id": "6908f1b2228b68610096683f",
           "name": "Crepe Brownies",
@@ -17,16 +27,7 @@
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/744674318.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/744674318.jpeg"
         },
-        {
-          "id": "6908f1b2228b686100966840",
-          "name": "Crepe Three Types Of Chocolate",
-          "description": "Crepe with three kinds of Belgian chocolate (sweet, white, dark)",
-          "price": 4500,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643703016.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643703016.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/643703016.jpeg"
-        },
+
         {
           "id": "6908f1b2228b686100966841",
           "name": "Marshmallow Crepe",
@@ -39,7 +40,7 @@
         },
         {
           "id": "6908f1b3228b686100966842",
-          "name": "Cookis Crepe",
+          "name": "Cookies Crepe",
           "description": "Crepe, cookies and two kinds of Belgian chocolate (sweet, white)",
           "price": 6500,
           "is_active": true,
@@ -57,6 +58,16 @@
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/313738960.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/313738960.jpeg"
         },
+                {
+          "id": "6908f1b3228b686100966845",
+          "name": "Fettuccine large Crepe",
+          "description": "Crepe, vanilla ice cream and Belgian sweet chocolate (2 persons).",
+          "price": 7500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/836626345.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/836626345.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/836626345.jpeg"
+        },
         {
           "id": "6908f1b3228b686100966844",
           "name": "Crunch Fettuccine",
@@ -67,16 +78,7 @@
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/693924221.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/693924221.jpeg"
         },
-        {
-          "id": "6908f1b3228b686100966845",
-          "name": "Fettuccine large Crepe",
-          "description": "Crepe, vanilla ice cream and Belgian sweet chocolate (2 persons).",
-          "price": 7500,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/836626345.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/836626345.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/836626345.jpeg"
-        },
+
         {
           "id": "6908f1b3228b686100966846",
           "name": "Oreo Crepe",
@@ -98,16 +100,6 @@
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/980037158.jpeg"
         },
         {
-          "id": "6908f1b3228b686100966848",
-          "name": "Crepe with hazelnuts",
-          "description": "Crepes with hazelnuts with white Belgian chocolate and sweet",
-          "price": 6500,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/118869185.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/118869185.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/118869185.jpeg"
-        },
-        {
           "id": "6908f1b3228b686100966849",
           "name": "Fruit Crepe",
           "description": "Crepe, fruits (banana, strawberry, kiwi, pineapple) with Belgian sweet chocolate",
@@ -117,46 +109,7 @@
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/730894698.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/730894698.jpeg"
         },
-        {
-          "id": "6908f1b3228b68610096684a",
-          "name": "Oreo crepe bundle",
-          "description": "Crepe, cream, cream, oreo, with sweet chocolate",
-          "price": 7000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/519246016.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/519246016.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/519246016.jpeg"
-        },
-        {
-          "id": "6908f1b3228b68610096684b",
-          "name": "Zarif sushi crepe",
-          "description": "Crepe, patisserie cream, strawberry, powdered sugar with Belgian sweet chocolate",
-          "price": 6000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/728125256.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/728125256.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/728125256.jpeg"
-        },
-        {
-          "id": "6908f1b3228b68610096684c",
-          "name": "Sushi Crepe with Lotus",
-          "description": "Crepe, special lotus cream, banana, lotus biscuit with belgian sweet chocolate",
-          "price": 8500,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/224223609.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/224223609.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/224223609.jpeg"
-        },
-        {
-          "id": "6908f1b3228b68610096684d",
-          "name": "Sushi Crepe",
-          "description": "Crepe, brownie, cream cheesecake with Belgian sweet chocolate",
-          "price": 6500,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/672682434.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/672682434.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/672682434.jpeg"
-        },
+        
         {
           "id": "6908f1b3228b68610096684e",
           "name": "Crunch Crepe",
@@ -167,6 +120,38 @@
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/793731260.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/793731260.jpeg"
         },
+        {
+          "id": "6908f1b3228b68610096684b",
+          "name": "sushi crepe with strawberry",
+          "description": "Crepe, patisserie cream, strawberry, powdered sugar with Belgian sweet chocolate",
+          "price": 6000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/728125256.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/728125256.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/728125256.jpeg"
+        },
+
+        {
+          "id": "6908f1b3228b68610096684c",
+          "name": "Sushi Crepe with Lotus",
+          "description": "Crepe, special lotus cream, banana, lotus biscuit with belgian sweet chocolate",
+          "price": 8500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/224223609.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/224223609.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/224223609.jpeg"
+        },
+                {
+          "id": "6908f1b3228b68610096684f",
+          "name": "Crunch Crepe",
+          "description": "Crepe, cream cheesecake, crunchy crepe with two kinds of belgian chocolate (sweet, white)",
+          "price": 5500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/793731260.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/793731260.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/793731260.jpeg"
+        },
+
         {
           "id": "6908f1b3228b68610096684f",
           "name": "Crispy Crepe",
@@ -196,16 +181,6 @@
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/582109398.jpeg",
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/582109398.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/582109398.jpeg"
-        },
-        {
-          "id": "6908f1b3228b686100966852",
-          "name": "Bunch of Cinnamon crepe",
-          "description": "Crepe, cream cheesecake, banana, cinnamon and Belgian sweet chocolate",
-          "price": 4500,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/58233509.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/58233509.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/58233509.jpeg"
         }
       ]
     },
@@ -226,67 +201,7 @@
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/680604615.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/680604615.jpeg"
         },
-        {
-          "id": "6908f1b3228b686100966856",
-          "name": "Mini pancake with chocolate",
-          "description": "Five pieces of pancake with belgian chocolate",
-          "price": 4500,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/501136059.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/501136059.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/501136059.jpeg"
-        },
-        {
-          "id": "6908f1b3228b686100966857",
-          "name": "Mini pancake with pistachio",
-          "description": "Five pieces of pancake, pistachio and Belgian pistachio chocolate",
-          "price": 5500,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/127376593.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/127376593.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/127376593.jpeg"
-        },
-        {
-          "id": "6908f1b3228b686100966858",
-          "name": "Oreo mini pancake",
-          "description": "Five pieces of pancake, Oreo biscuit with Belgian sweet chocolate",
-          "price": 5000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/67016053.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/67016053.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/67016053.jpeg"
-        },
-        {
-          "id": "6908f1b3228b686100966859",
-          "name": "Mini pancake with lotus",
-          "description": "Five pieces of pancake, lotus biscuit with Belgian sweet chocolate",
-          "price": 5000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/506176373.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/506176373.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/506176373.jpeg"
-        },
-        {
-          "id": "6908f1b3228b68610096685a",
-          "name": "Mini pancake steak",
-          "description": "Mini pancake, crunchy crepe, banana, strawberry and two kinds of Belgian chocolate (sweet, white)",
-          "price": 5000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/119087813.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/119087813.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/119087813.jpeg"
-        },
-        {
-          "id": "6908f1b3228b68610096685b",
-          "name": "Mini pancake with fruits",
-          "description": "Ten pieces of pancake, fruits (banana, strawberry) and fondant of Belgian sweet chocolate",
-          "price": 7500,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/561018720.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/561018720.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/561018720.jpeg"
-        },
-        {
+                {
           "id": "6908f1b4228b68610096685c",
           "name": "Pancake with pistachio cream",
           "description": "Five pancakes, special pistachio cream, pistachio and two kinds of Belgian chocolate (sweet, pistachio).",
@@ -316,6 +231,7 @@
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/889095756.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/889095756.jpeg"
         },
+        
         {
           "id": "6908f1b4228b68610096685f",
           "name": "Fruit pancake",
@@ -326,6 +242,57 @@
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/945594421.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/945594421.jpeg"
         },
+        {
+          "id": "6908f1b3228b686100966856",
+          "name": "Mini pancake with chocolate",
+          "description": "Five pieces of pancake with belgian chocolate",
+          "price": 4500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/501136059.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/501136059.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/501136059.jpeg"
+        },
+        {
+          "id": "6908f1b3228b686100966857",
+          "name": "Mini pancake with pistachio",
+          "description": "Five pieces of pancake, pistachio and Belgian pistachio chocolate",
+          "price": 5500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/127376593.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/127376593.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/127376593.jpeg"
+        },
+        {
+          "id": "6908f1b3228b686100966858",
+          "name": "Mini pancake with Oreo",
+          "description": "Five pieces of pancake, Oreo biscuit with Belgian sweet chocolate",
+          "price": 5000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/67016053.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/67016053.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/67016053.jpeg"
+        },
+        {
+          "id": "6908f1b3228b686100966859",
+          "name": "Mini pancake with lotus",
+          "description": "Five pieces of pancake, lotus biscuit with Belgian sweet chocolate",
+          "price": 5000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/506176373.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/506176373.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/506176373.jpeg"
+        },
+        {
+          "id": "6908f1b3228b68610096685b",
+          "name": "Mini pancake with fruits",
+          "description": "Ten pieces of pancake, fruits (banana, strawberry) and fondant of Belgian sweet chocolate",
+          "price": 7500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/561018720.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/561018720.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/561018720.jpeg"
+        },
+
         {
           "id": "6908f1b4228b686100966860",
           "name": "Pistachio Pancake (Triple)",
@@ -385,6 +352,16 @@
       "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/WFL.png",
       "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/WFL.png",
       "items": [
+                {
+          "id": "6908f1b4228b68610096686b",
+          "name": "Three Chocolate Waffle",
+          "description": "Waffle with three types of Belgian chocolate (sweet, white, dark)",
+          "price": 5250,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/938520481.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/938520481.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/938520481.jpeg"
+        },
         {
           "id": "6908f1b4228b686100966867",
           "name": "Banana Waffle",
@@ -397,7 +374,7 @@
         },
         {
           "id": "6908f1b4228b686100966868",
-          "name": "Strawberries Waffle",
+          "name": "Strawberry Waffle",
           "description": "Waffle, strawberry and three kinds of Belgian chocolate (sweet, white, dark)",
           "price": 7000,
           "is_active": true,
@@ -425,16 +402,7 @@
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/163394321.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/163394321.jpeg"
         },
-        {
-          "id": "6908f1b4228b68610096686b",
-          "name": "Three Chocolate Waffle",
-          "description": "Waffle with three types of Belgian chocolate (sweet, white, dark)",
-          "price": 5250,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/938520481.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/938520481.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/938520481.jpeg"
-        },
+
         {
           "id": "6908f1b4228b68610096686c",
           "name": "Oreo Waffle",
@@ -446,26 +414,6 @@
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/838819315.jpeg"
         },
         {
-          "id": "6908f1b4228b68610096686d",
-          "name": "Crunch Waffle",
-          "description": "Waffle, special biscuit pieces, vanilla ice cream with two kinds of Belgian chocolate (sweet, white)",
-          "price": 6000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/494883619.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/494883619.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/494883619.jpeg"
-        },
-        {
-          "id": "6908f1b4228b68610096686e",
-          "name": "Louts Waffle",
-          "description": "Waffle, lotus biscuit, vanilla ice cream with two kinds of Belgian chocolate (sweet, white)",
-          "price": 7000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/33675011.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/33675011.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/33675011.jpeg"
-        },
-        {
           "id": "6908f1b4228b68610096686f",
           "name": "Steak Waffle",
           "description": "Waffle with three kinds of Belgian chocolate (sweet, white, dark)",
@@ -474,16 +422,6 @@
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/994615180.jpeg",
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/994615180.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/994615180.jpeg"
-        },
-        {
-          "id": "6908f1b4228b686100966870",
-          "name": "Pistachio Steak Waffle",
-          "description": "Waffle with two kinds of Belgian chocolate (white, pistachio)",
-          "price": 5500,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/121347276.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/121347276.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/121347276.jpeg"
         },
         {
           "id": "6908f1b4228b686100966871",
@@ -504,16 +442,6 @@
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/580363377.jpeg",
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/580363377.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/580363377.jpeg"
-        },
-        {
-          "id": "6908f1b4228b686100966873",
-          "name": "Crunch Waffle Stick",
-          "description": "Waffle, toasted rice with two kinds of belgian chocolate (sweet, dark)",
-          "price": 5000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/598238871.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/598238871.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/598238871.jpeg"
         }
       ]
     },
@@ -654,16 +582,6 @@
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/556399891.jpeg"
         },
         {
-          "id": "6908f1b5228b686100966883",
-          "name": "Hazelnut cookie pan",
-          "description": "Brownie ,Cookies , Hazelnuts , Vanilla Ice Cream , Belgian Chocolate ( Sweet ,White )",
-          "price": 7750,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/154765459.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/154765459.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/154765459.jpeg"
-        },
-        {
           "id": "6908f1b5228b686100966884",
           "name": "Cookie frying pan with Lotus",
           "description": "Cookies, lotus biscuits, vanilla ice cream with two kinds of Belgian chocolate (sweet, white)",
@@ -694,16 +612,6 @@
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/516291821.jpeg"
         },
         {
-          "id": "6908f1b5228b686100966887",
-          "name": "Cookie frying pan with Pistachio",
-          "description": "Cookies, pistachio, vanilla ice cream with two kinds of Belgian chocolate (sweet, white)",
-          "price": 8500,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/872459748.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/872459748.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/872459748.jpeg"
-        },
-        {
           "id": "6908f1b5228b686100966888",
           "name": "Triple cookies",
           "description": "Three pieces of cookies with two types of Belgian chocolate (sweet and white)",
@@ -712,16 +620,6 @@
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/266838799.jpeg",
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/266838799.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/266838799.jpeg"
-        },
-        {
-          "id": "6908f1b5228b686100966889",
-          "name": "Black Triple Cookies (Dark)",
-          "description": "Three pieces of dark cookies with two kinds of Belgian chocolate (sweet, white)",
-          "price": 4000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/369616813.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/369616813.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/369616813.jpeg"
         },
         {
           "id": "6908f1b5228b68610096688b",
@@ -742,16 +640,6 @@
       "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/normal/CHS.png",
       "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/categories/big/CHS.png",
       "items": [
-        {
-          "id": "6908f1b5228b68610096688e",
-          "name": "Entebbe cheesecake",
-          "description": "Chocolate Sarayi special pistachio cheesecake",
-          "price": 5750,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/907177076.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/907177076.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/907177076.jpeg"
-        },
         {
           "id": "6908f1b6228b68610096688f",
           "name": "Chocolate cheesecake",
@@ -810,16 +698,6 @@
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/127675723.jpeg",
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/127675723.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/127675723.jpeg"
-        },
-        {
-          "id": "6908f1b6228b686100966895",
-          "name": "White Chocolate Fondant cake",
-          "description": "Fondant, caramel, vanilla ice cream with white Belgian chocolate",
-          "price": 6000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/212946997.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/212946997.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/212946997.jpeg"
         }
       ]
     },
@@ -860,17 +738,7 @@
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/426743330.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/426743330.jpeg"
         },
-        {
-          "id": "6908f1b6228b68610096689a",
-          "name": "Crispy Cap",
-          "description": "Special patisserie cream, strawberry crunchy crepe, cream cheese with two kinds of Belgian chocolate (sweet and white)",
-          "price": 5000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/841244830.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/841244830.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/841244830.jpeg"
-        },
-        {
+               {
           "id": "6908f1b6228b68610096689b",
           "name": "Pineapple steak",
           "description": "Pineapple with two kinds of Belgian chocolate (sweet. white)",
@@ -881,14 +749,14 @@
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/451530606.jpeg"
         },
         {
-          "id": "6908f1b6228b68610096689c",
-          "name": "Pistachio ice cream",
-          "description": "Three balls of Pastacio ice cream with a pinch of pistachios with Belgian chocolate",
-          "price": 6500,
+          "id": "6908f1b6228b68610096689a",
+          "name": "Crispy Cap",
+          "description": "Special patisserie cream, strawberry crunchy crepe, cream cheese with two kinds of Belgian chocolate (sweet and white)",
+          "price": 5000,
           "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420127820.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420127820.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420127820.jpeg"
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/841244830.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/841244830.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/841244830.jpeg"
         },
         {
           "id": "6908f1b6228b68610096689d",
@@ -901,36 +769,6 @@
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/758274447.jpeg"
         },
         {
-          "id": "6908f1b6228b68610096689e",
-          "name": "Lotus cap",
-          "description": "Special patisserie cream, lotus biscuit, banana, cream cheese and two kinds of Belgian chocolate (sweet white)",
-          "price": 5000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/109543914.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/109543914.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/109543914.jpeg"
-        },
-        {
-          "id": "6908f1b6228b68610096689f",
-          "name": "marshmallow cap",
-          "description": "Pieces of marshmallow with belgian chocolate",
-          "price": 4500,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/724637200.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/724637200.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/724637200.jpeg"
-        },
-        {
-          "id": "6908f1b6228b6861009668a0",
-          "name": "Crunch cap",
-          "description": "Vanilla ice cream, toasted rice with two kinds of Belgian chocolate (sweet and white)",
-          "price": 5000,
-          "is_active": true,
-          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/978604763.jpeg",
-          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/978604763.jpeg",
-          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/978604763.jpeg"
-        },
-        {
           "id": "6908f1b6228b6861009668a1",
           "name": "Ice Cream Cap",
           "description": "Three ice cream balls (strawberry, chocolate, vanilla) Chantilly cream with pieces of pistachio",
@@ -939,6 +777,16 @@
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/439503809.jpeg",
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/439503809.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/439503809.jpeg"
+        },
+        {
+          "id": "6908f1b6228b68610096689c",
+          "name": "Pistachio ice cream",
+          "description": "Three balls of Pastacio ice cream with a pinch of pistachios with Belgian chocolate",
+          "price": 6500,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420127820.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420127820.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/420127820.jpeg"
         }
       ]
     },
