@@ -1921,8 +1921,11 @@
                 "height": 375,
                 "width": 600,
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/439503809.jpeg"
-              },
-
+             }
+            ],
+            "minPrice": 4500,
+            "maxPrice": 4500
+          },
           {
             "isNew": false,
             "_id": "6908f1b6228b68610096689c",
@@ -1948,10 +1951,6 @@
             ],
             "minPrice": 6500,
             "maxPrice": 6500
-          }
-            ],
-            "minPrice": 4500,
-            "maxPrice": 4500
           }
         ]
       },
