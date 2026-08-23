@@ -120,6 +120,16 @@
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/793731260.jpeg",
           "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/793731260.jpeg"
         },
+                {
+          "id": "6908f1b3228b68610096684c",
+          "name": "Sushi Crepe",
+          "description": "Crepe, special lotus cream, banana, lotus biscuit with belgian sweet chocolate",
+          "price": 5000,
+          "is_active": true,
+          "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/224223609.jpeg",
+          "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/224223609.jpeg",
+          "image_big": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/224223609.jpeg"
+        },
         {
           "id": "6908f1b3228b68610096684b",
           "name": "sushi crepe with strawberry",
@@ -366,7 +376,7 @@
           "id": "6908f1b4228b686100966867",
           "name": "Banana Waffle",
           "description": "Waffle, banana and three kinds of Belgian chocolate (sweet, white, dark)",
-          "price": 4500,
+          "price": 5000,
           "is_active": true,
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/183134657.jpeg",
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/183134657.jpeg",
@@ -772,7 +782,7 @@
           "id": "6908f1b6228b6861009668a1",
           "name": "Ice Cream Cap",
           "description": "Three ice cream balls (strawberry, chocolate, vanilla) Chantilly cream with pieces of pistachio",
-          "price": 4500,
+          "price": 4000,
           "is_active": true,
           "image_url": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/439503809.jpeg",
           "image_sm": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/439503809.jpeg",
