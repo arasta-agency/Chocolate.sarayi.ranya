@@ -49,7 +49,7 @@
             "name": "كراميل موكا",
             "dName": "Caramel Mocha",
             "description": "",
-            "price": 5500,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -66,8 +66,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/413829843.jpeg"
               }
             ],
-            "minPrice": 5500,
-            "maxPrice": 5500
+            "minPrice": 4000,
+            "maxPrice": 4000  
           },
           {
             "isNew": false,
@@ -183,8 +183,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/657971267.jpeg"
               }
             ],
-            "minPrice": 1000,
-            "maxPrice": 1000
+            "minPrice": 500,
+            "maxPrice": 500
           },
           {
             "isNew": false,
@@ -209,8 +209,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/474434967.jpeg"
               }
             ],
-            "minPrice": 1500,
-            "maxPrice": 1500
+            "minPrice": 1000,
+            "maxPrice": 1000
           },
                     {
             "isNew": false,
@@ -244,7 +244,7 @@
             "name": "امريكانو",
             "dName": "Americano",
             "description": "",
-            "price": 4000,
+            "price": 3500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -261,8 +261,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/474434967.jpeg"
               }
             ],
-            "minPrice": 4000,
-            "maxPrice": 4000
+            "minPrice": 3500,
+            "maxPrice": 3500
           },
           {
             "isNew": false,
@@ -270,7 +270,7 @@
             "name": "نسكافی",
             "dName": "Nescafé",
             "description": "",
-            "price": 3500,
+            "price": 3000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -287,8 +287,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/762878471.jpeg"
               }
             ],
-            "minPrice": 3500,
-            "maxPrice": 3500
+            "minPrice": 3000,
+            "maxPrice": 3000
           },
           {
             "isNew": false,
@@ -452,7 +452,7 @@
             "name": "اسبریسو دبل",
             "dName": "Double Espresso",
             "description": "",
-            "price": 4000,
+            "price": 3500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -469,8 +469,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/881834158.jpeg"
               }
             ],
-            "minPrice": 4000,
-            "maxPrice": 4000
+            "minPrice": 3500,
+            "maxPrice": 3500
           },
           {
             "isNew": false,
@@ -530,7 +530,7 @@
             "name": "كافيه امريكانو",
             "dName": "Americano Café",
             "description": "",
-            "price": 3500,
+            "price": 3000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -547,8 +547,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/18797896.jpeg"
               }
             ],
-            "minPrice": 3500,
-            "maxPrice": 3500
+            "minPrice": 3000,
+            "maxPrice": 3000
           }
         ]
       },
@@ -569,7 +569,7 @@
             "name": "ايس كافيه لاتيه",
             "dName": "Ice Cafe Latte",
             "description": "",
-            "price": 4000,
+            "price": 3500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -586,8 +586,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/887058571.jpeg"
               }
             ],
-            "minPrice": 4000,
-            "maxPrice": 4000
+            "minPrice": 3500,
+            "maxPrice": 3500
           },
           {
             "isNew": false,
@@ -595,7 +595,7 @@
             "name": "كوفیه امریكانو باردة",
             "dName": "Americano Ice Coffe",
             "description": "",
-            "price": 4000,
+            "price": 3500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -612,8 +612,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/850965346.jpeg"
               }
             ],
-            "minPrice": 4000,
-            "maxPrice": 4000
+            "minPrice": 3500,
+            "maxPrice": 3500
           },
           {
             "isNew": false,
@@ -621,7 +621,7 @@
             "name": "ايس كراميل لاتيه",
             "dName": "Ice caramel latte",
             "description": "",
-            "price": 4500,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -638,8 +638,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/900502372.jpeg"
               }
             ],
-            "minPrice": 4500,
-            "maxPrice": 4500
+            "minPrice": 4000,
+            "maxPrice": 4000
           },
           {
             "isNew": false,
@@ -713,7 +713,7 @@
             "name": "موكا فرابيه",
             "dName": "Mocha Frappe",
             "description": "",
-            "price": 4750,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -730,8 +730,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/948496978.jpeg"
               }
             ],
-            "minPrice": 4750,
-            "maxPrice": 4750
+            "minPrice": 4000,
+            "maxPrice": 4000
           },
           {
             "isNew": false,
@@ -739,7 +739,7 @@
             "name": "فرابیه بالكرمیل",
             "dName": "Frappe Carmeel",
             "description": "",
-            "price": 5000,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -756,8 +756,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/949395105.jpeg"
               }
             ],
-            "minPrice": 5000,
-            "maxPrice": 5000
+            "minPrice": 4000,
+            "maxPrice": 4000
           },
           {
             "isNew": false,
@@ -765,7 +765,7 @@
             "name": "اوريو فرابيه",
             "dName": "Oreo Frappe",
             "description": "",
-            "price": 4500,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -782,8 +782,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/604657097.jpeg"
               }
             ],
-            "minPrice": 4500,
-            "maxPrice": 4500
+            "minPrice": 4000,
+            "maxPrice": 4000
           },
           {
             "isNew": false,
@@ -791,7 +791,7 @@
             "name": "كوكيز فرابيه",
             "dName": "Cookies Frappe",
             "description": "",
-            "price": 4500,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -808,8 +808,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/229756642.jpeg"
               }
             ],
-            "minPrice": 4500,
-            "maxPrice": 4500
+            "minPrice": 4000,
+            "maxPrice": 4000
           }
         ]
       },
@@ -827,10 +827,10 @@
           {
             "isNew": false,
             "_id": "6908cebbd5784a03b5c05833",
-            "name": "شوكولا",
+            "name": "شوكولا میلکشیک",
             "dName": "Chocolate Milkshake",
             "description": "",
-            "price": 5000,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -847,16 +847,16 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/355245799.jpeg"
               }
             ],
-            "minPrice": 5000,
-            "maxPrice": 5000
+            "minPrice": 4000,
+            "maxPrice": 4000
           },
                     {
             "isNew": false,
             "_id": "6908cebcd5784a03b5c05838",
-            "name": "اوریو",
+            "name": "اوریو میلکشیک",
             "dName": "Oreo Milkshake",
             "description": "",
-            "price": 4500,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -873,13 +873,13 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/491188908.jpeg"
               }
             ],
-            "minPrice": 4500,
-            "maxPrice": 4500
+            "minPrice": 4000,
+            "maxPrice": 4000
           },
           {
             "isNew": false,
             "_id": "6908cebbd5784a03b5c05834",
-            "name": "فانیلا",
+            "name": "فانیلا میلکشیک",
             "dName": "Vanella Milkshake",
             "description": "",
             "price": 4000,
@@ -905,7 +905,7 @@
           {
             "isNew": false,
             "_id": "6908cebbd5784a03b5c05835",
-            "name": "فراولة",
+            "name": "فراولة میلکشیک",
             "dName": "Strawberry Milkshake",
             "description": "",
             "price": 4000,
@@ -931,10 +931,10 @@
           {
             "isNew": false,
             "_id": "6908cebcd5784a03b5c05836",
-            "name": "موز",
+            "name": "موز میلکشیک ",
             "dName": "Banana Milkshake",
             "description": "",
-            "price": 4250,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -951,16 +951,16 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/325238105.jpeg"
               }
             ],
-            "minPrice": 4250,
-            "maxPrice": 4250
+            "minPrice": 4000,
+            "maxPrice": 4000
           },
           {
             "isNew": false,
             "_id": "6908cebcd5784a03b5c05837",
-            "name": "كوكيز",
+            "name": "كوكيز میلکشیک",
             "dName": "Cookies Milkshake",
             "description": "",
-            "price": 4500,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -977,16 +977,16 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/439451819.jpeg"
               }
             ],
-            "minPrice": 4500,
-            "maxPrice": 4500
+            "minPrice": 4000,
+            "maxPrice": 4000
           },
           {
             "isNew": false,
             "_id": "6908cebcd5784a03b5c0583a",
-            "name": "دراق مع الاناناس ميلك شيك",
+            "name": "دراق مع الاناناس ميلك شيك میلکشیک",
             "dName": "Peach with pineapple Milkshake",
             "description": "",
-            "price": 4500,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1003,8 +1003,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/710397907.jpeg"
               }
             ],
-            "minPrice": 4500,
-            "maxPrice": 4500
+            "minPrice": 4000,
+            "maxPrice": 4000
           },
           {
             "isNew": false,
@@ -1012,7 +1012,7 @@
             "name": "اناناس ميلك شيك",
             "dName": "pinapple milkshake Milkshake",
             "description": "",
-            "price": 4500,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1029,8 +1029,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/373552292.jpeg"
               }
             ],
-            "minPrice": 4500,
-            "maxPrice": 4500
+            "minPrice": 4000,
+            "maxPrice": 4000
           },
           {
             "isNew": false,
@@ -1038,7 +1038,7 @@
             "name": "بستاشيو ميلك شيك",
             "dName": "Pistachio Milkshake",
             "description": "",
-            "price": 5000,
+            "price": 4500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1055,8 +1055,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/258117236.jpeg"
               }
             ],
-            "minPrice": 5000,
-            "maxPrice": 5000
+            "minPrice": 4500,
+            "maxPrice": 4500
           },
           {
             "isNew": false,
@@ -1064,7 +1064,7 @@
             "name": "ميلك شيك كندر",
             "dName": "Milkshike Kinder",
             "description": "",
-            "price": 4500,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1081,8 +1081,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/457714750.jpeg"
               }
             ],
-            "minPrice": 4500,
-            "maxPrice": 4500
+            "minPrice": 4000,
+            "maxPrice": 4000
           },
                     {
             "isNew": false,
@@ -1090,7 +1090,7 @@
             "name": "ميلك شيك كيت كات",
             "dName": "Milkshike kit kat",
             "description": "",
-            "price": 4500,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1107,8 +1107,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/273028797.jpeg"
               }
             ],
-            "minPrice": 4500,
-            "maxPrice": 4500
+            "minPrice": 4000,
+            "maxPrice": 4000
           },
                     {
             "isNew": false,
@@ -1116,7 +1116,7 @@
             "name": "لوتس",
             "dName": "Lotus Milkshake",
             "description": "",
-            "price": 4500,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1133,8 +1133,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/620817335.jpeg"
               }
             ],
-            "minPrice": 4500,
-            "maxPrice": 4500
+            "minPrice": 4000,
+            "maxPrice": 4000
           },         
           {
             "isNew": false,
@@ -1142,7 +1142,7 @@
             "name": "ميلك شيك كرميل",
             "dName": "Milkshike cramel",
             "description": "",
-            "price": 4500,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1159,8 +1159,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/99042809.jpeg"
               }
             ],
-            "minPrice": 4500,
-            "maxPrice": 4500
+            "minPrice": 4000,
+            "maxPrice": 4000
           },
           {
             "isNew": false,
@@ -1168,7 +1168,7 @@
             "name": "دراق ميلك شيك",
             "dName": "peaches Milkshake",
             "description": "",
-            "price": 4500,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1185,8 +1185,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/488399021.jpeg"
               }
             ],
-            "minPrice": 4500,
-            "maxPrice": 4500
+            "minPrice": 4000,
+            "maxPrice": 4000
           }
         ]
       },
@@ -1207,7 +1207,7 @@
             "name": "الفراولة سموذي",
             "dName": "Strawberry Smoothie",
             "description": "",
-            "price": 4000,
+            "price": 3500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1224,7 +1224,7 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/683078101.jpeg"
               }
             ],
-            "minPrice": 4000,
+            "minPrice": 3500,
             "maxPrice": 4000
           },
           {
@@ -1233,7 +1233,7 @@
             "name": "موز سموذي",
             "dName": "Banana Smoothie",
             "description": "",
-            "price": 4000,
+            "price": 3000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1250,8 +1250,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/414571755.jpeg"
               }
             ],
-            "minPrice": 4000,
-            "maxPrice": 4000
+            "minPrice": 3000,
+            "maxPrice": 3000
           },
           {
             "isNew": false,
@@ -1259,7 +1259,7 @@
             "name": "دراق سموذي",
             "dName": "Peach Smoothie",
             "description": "",
-            "price": 4250,
+            "price": 3500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1276,8 +1276,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/711116047.jpeg"
               }
             ],
-            "minPrice": 4250,
-            "maxPrice": 4250
+            "minPrice": 3500,
+            "maxPrice": 3500
           },
           {
             "isNew": false,
@@ -1285,7 +1285,7 @@
             "name": "اناناس سموذي",
             "dName": "Pineapple Smoothie",
             "description": "",
-            "price": 4250,
+            "price": 3500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1302,8 +1302,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/246015103.jpeg"
               }
             ],
-            "minPrice": 4250,
-            "maxPrice": 4250
+            "minPrice": 3500,
+            "maxPrice": 3500
           }
         ]
       },
@@ -1324,7 +1324,7 @@
             "name": "فروزن اناناس",
             "dName": "Frozen pineapple",
             "description": "",
-            "price": 5000,
+            "price": 3500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1341,8 +1341,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/17822148.jpeg"
               }
             ],
-            "minPrice": 5000,
-            "maxPrice": 5000
+            "minPrice": 3500,
+            "maxPrice": 3500
           },
           {
             "isNew": false,
@@ -1350,7 +1350,7 @@
             "name": "فروزن موز",
             "dName": "Frozen Banana",
             "description": "",
-            "price": 5000,
+            "price": 3500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1367,8 +1367,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/594110609.jpeg"
               }
             ],
-            "minPrice": 5000,
-            "maxPrice": 5000
+            "minPrice": 3500,
+            "maxPrice": 3500
           },
           {
             "isNew": false,
@@ -1376,7 +1376,7 @@
             "name": "فروزن فراولة",
             "dName": "Frozen strawberry",
             "description": "",
-            "price": 5000,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1393,8 +1393,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/360359863.jpeg"
               }
             ],
-            "minPrice": 5000,
-            "maxPrice": 5000
+            "minPrice": 4000,
+            "maxPrice": 4000
           },
           {
             "isNew": false,
@@ -1402,7 +1402,7 @@
             "name": "فروزن دراق",
             "dName": "Frozen Peach",
             "description": "",
-            "price": 5000,
+            "price": 3500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1419,8 +1419,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/19894566.jpeg"
               }
             ],
-            "minPrice": 5000,
-            "maxPrice": 5000
+            "minPrice": 3500,
+            "maxPrice": 3500
           }
         ]
       },
@@ -1441,7 +1441,7 @@
             "name": "عصیر برتقال",
             "dName": "Orange juice",
             "description": "",
-            "price": 4000,
+            "price": 3500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1458,8 +1458,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/365397507.jpeg"
               }
             ],
-            "minPrice": 4000,
-            "maxPrice": 4000
+            "minPrice": 3500,
+            "maxPrice": 3500
           },
           {
             "isNew": false,
@@ -1467,7 +1467,7 @@
             "name": "عصير ليمون",
             "dName": "Lemon juice",
             "description": "",
-            "price": 3750,
+            "price": 3500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1484,8 +1484,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/497281680.jpeg"
               }
             ],
-            "minPrice": 3750,
-            "maxPrice": 3750
+            "minPrice": 3500,
+            "maxPrice": 3500
           },
           {
             "isNew": false,
@@ -1493,7 +1493,7 @@
             "name": "عصیر لیمون بالنعناع",
             "dName": "Lemon And Mint Juice",
             "description": "",
-            "price": 4000,
+            "price": 3500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1510,8 +1510,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/296654870.jpeg"
               }
             ],
-            "minPrice": 4000,
-            "maxPrice": 4000
+            "minPrice": 3500,
+            "maxPrice": 3500
           },
           {
             "isNew": false,
@@ -1519,7 +1519,7 @@
             "name": "عصیر لیمون بالبرتقال",
             "dName": "Orange and Lemon Juice",
             "description": "",
-            "price": 4000,
+            "price": 3500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1536,8 +1536,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/525731380.jpeg"
               }
             ],
-            "minPrice": 4000,
-            "maxPrice": 4000
+            "minPrice": 3500,
+            "maxPrice": 3500
           },
           {
             "isNew": false,
@@ -1545,7 +1545,7 @@
             "name": "عصيرفراولة",
             "dName": "Frez Juice",
             "description": "",
-            "price": 4500,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1562,8 +1562,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/231069415.jpeg"
               }
             ],
-            "minPrice": 4500,
-            "maxPrice": 4500
+            "minPrice": 4000,
+            "maxPrice": 4000
           },
           {
             "isNew": false,
@@ -1571,7 +1571,7 @@
             "name": "عصير موز",
             "dName": "Banana juice",
             "description": "",
-            "price": 4500,
+            "price": 3500,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1588,8 +1588,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/192520228.jpeg"
               }
             ],
-            "minPrice": 4500,
-            "maxPrice": 4500
+            "minPrice": 3500,
+            "maxPrice": 3500
           },
           {
             "isNew": false,
@@ -1597,7 +1597,7 @@
             "name": "عصير موز وحليب",
             "dName": "Banana With Milk juice",
             "description": "",
-            "price": 4500,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1614,8 +1614,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/601899946.jpeg"
               }
             ],
-            "minPrice": 4500,
-            "maxPrice": 4500
+            "minPrice": 4000,
+            "maxPrice": 4000
           },
           {
             "isNew": false,
@@ -1623,7 +1623,7 @@
             "name": "عصير مكس فروت",
             "dName": "Mix Fruit juice",
             "description": "",
-            "price": 4500,
+            "price": 4000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -1640,8 +1640,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/253095571.jpeg"
               }
             ],
-            "minPrice": 4500,
-            "maxPrice": 4500
+            "minPrice": 4000,
+            "maxPrice": 4000
           },
           
           {
@@ -2012,7 +2012,7 @@
             "name": "ايس تي دراق",
             "dName": "Ice Tea Peach",
             "description": "",
-            "price": 3500,
+            "price": 3000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -2029,8 +2029,8 @@
                 "thumbnail": "https://r2.mynu.site/images/66e04d37c8cb9703736163f7/items/432414661.jpeg"
               }
             ],
-            "minPrice": 3500,
-            "maxPrice": 3500
+            "minPrice": 3000,
+            "maxPrice": 3000
           }
         ]
       },
@@ -2050,7 +2050,7 @@
             "name": "ريدبول لايم فيزي",
             "dName": "Redbull Lime Fizzy",
             "description": "",
-            "price": 5500,
+            "price": 5000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -2067,8 +2067,8 @@
                 "thumbnail": "item images//redlime.jpg"
               }
             ],
-            "minPrice": 5500,
-            "maxPrice": 5500
+            "minPrice": 5000,
+            "maxPrice": 5000
           },
           {
             "isNew": false,
@@ -2180,7 +2180,7 @@
             "name": "ماليبو",
             "dName": "Malibu",
             "description": "",
-            "price": 5500,
+            "price": 5000,
             "discount": 0,
             "taxRate": 0,
             "calories": 0,
@@ -2197,8 +2197,8 @@
                 "thumbnail": "item images//special.jpeg"
               }
             ],
-            "minPrice": 5500,
-            "maxPrice": 5500
+            "minPrice": 5000,
+            "maxPrice": 5000
           }
         ]
       },
