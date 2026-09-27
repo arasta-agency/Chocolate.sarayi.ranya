@@ -1,33 +1,13 @@
 [
   {
     "position": 1,
-    "name": "الشيشة العادية",
+    "name": "أرجيلة عادية",
     "items": [
       {
         "id": "h1",
-        "name": "تَفّاحتين",
-        "description": "معسل تفاحتين فاخر",
-        "price": 5000,
-        "isActive": true,
-        "image_url": "item images//hookah.jpeg",
-        "image_sm": "item images//hookah.jpeg",
-        "image_big": "item images//hookah.jpeg"
-      },
-      {
-        "id": "h2",
-        "name": "نعناع",
-        "description": "معسل نعناع منعش",
-        "price": 5000,
-        "isActive": true,
-        "image_url": "item images//hookah.jpeg",
-        "image_sm": "item images//hookah.jpeg",
-        "image_big": "item images//hookah.jpeg"
-      },
-      {
-        "id": "h3",
-        "name": "ليمون و نعناع",
-        "description": "نكهة ليمون مع نعناع",
-        "price": 6000,
+        "name": "علک ونعناع + ماء + شاي",
+        "description": "",
+        "price": 7000,
         "isActive": true,
         "image_url": "item images//hookah.jpeg",
         "image_sm": "item images//hookah.jpeg",
@@ -35,9 +15,49 @@
       },
       {
         "id": "h4",
-        "name": "ورد",
-        "description": "نكهة الورد العطرة",
-        "price": 5000,
+        "name": "علک ونعناع + ماء + شاي",
+        "description": "",
+        "price": 7000,
+        "isActive": true,
+        "image_url": "item images//hookah.jpeg",
+        "image_sm": "item images//hookah.jpeg",
+        "image_big": "item images//hookah.jpeg"
+      },
+      {
+        "id": "h2",
+        "name": "ليمون ونعناع + ماء + شاي",
+        "description": "",
+        "price": 7000,
+        "isActive": true,
+        "image_url": "item images//hookah.jpeg",
+        "image_sm": "item images//hookah.jpeg",
+        "image_big": "item images//hookah.jpeg"
+      },
+      {
+        "id": "h3",
+        "name": "إنجليزي + ماء + شاي",
+        "description": "",
+        "price": 7000,
+        "isActive": true,
+        "image_url": "item images//hookah.jpeg",
+        "image_sm": "item images//hookah.jpeg",
+        "image_big": "item images//hookah.jpeg"
+      },
+      {
+        "id": "h4",
+        "name": "بغدادي + ماء + شاي",
+        "description": "",
+        "price": 7000,
+        "isActive": true,
+        "image_url": "item images//hookah.jpeg",
+        "image_sm": "item images//hookah.jpeg",
+        "image_big": "item images//hookah.jpeg"
+      },
+      {
+        "id": "h4",
+        "name": "كاسترو + ماء + شاي",
+        "description": "",
+        "price": 7000,
         "isActive": true,
         "image_url": "item images//hookah.jpeg",
         "image_sm": "item images//hookah.jpeg",

@@ -5,9 +5,20 @@
     "items": [
       {
         "id": "h1",
-        "name": "دوو سێو  + ئاو + چا",
-        "description": "شیشە طعم تفحتين",
-        "price": 5000,
+        "name": "سام و کاڵەک  + ئاو + چا",
+        "description": "",
+        "price": 7000,
+        "isActive": true,
+        "image_url": "item images//hookah.jpeg",
+        "image_sm": "item images//hookah.jpeg",
+        "image_big": "item images//hookah.jpeg"
+      },
+    
+            {
+        "id": "h4",
+        "name": "سام و نەعنا + ئاو + چا",
+        "description": " ",
+        "price": 7000,
         "isActive": true,
         "image_url": "item images//hookah.jpeg",
         "image_sm": "item images//hookah.jpeg",
@@ -15,9 +26,9 @@
       },
       {
         "id": "h2",
-        "name": "لێمۆ و نعناع + ئاو + چا",
-        "description": "شیشة نعناع منعشة",
-        "price": 5000,
+        "name": "لیمۆ و نعناع + ئاو + چا",
+        "description": "",
+        "price": 7000,
         "isActive": true,
         "image_url": "item images//hookah.jpeg",
         "image_sm": "item images//hookah.jpeg",
@@ -26,8 +37,8 @@
       {
         "id": "h3",
         "name": "ئینگلیزی + ئاو + چا",
-        "description": " ئینگلیزی ",
-        "price": 6000,
+        "description": "  ",
+        "price": 7000,
         "isActive": true,
         "image_url": "item images//hookah.jpeg",
         "image_sm": "item images//hookah.jpeg",
@@ -36,7 +47,17 @@
       {
         "id": "h4",
         "name": "بەغدادی + ئاو + چا",
-        "description": "بەغدادی ",
+        "description": " ",
+        "price": 7000,
+        "isActive": true,
+        "image_url": "item images//hookah.jpeg",
+        "image_sm": "item images//hookah.jpeg",
+        "image_big": "item images//hookah.jpeg"
+      },
+            {
+        "id": "h4",
+        "name": "کاسترۆ + ئاو + چا",
+        "description": " ",
         "price": 7000,
         "isActive": true,
         "image_url": "item images//hookah.jpeg",
